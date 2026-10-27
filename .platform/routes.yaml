@@ -1,0 +1,22 @@
+"https://www.cungmilocovutoicung.{default}/":
+  type: upstream
+  upstream: "milo:http"
+  cache:
+    enabled: true
+    default_ttl: 0
+
+"https://cungmilocovutoicung.{default}/":
+  type: redirect
+  to: "https://www.cungmilocovutoicung.{default}/"
+
+"https://{default}/":
+  type: upstream
+  upstream: "milo:http"
+  cache:
+    enabled: true
+    default_ttl: 0
+
+"http://{default}/":
+  type: redirect
+  to: "https://{default}/"
+

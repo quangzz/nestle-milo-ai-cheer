@@ -1,0 +1,81 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Environment variables & secrets
+.env
+.env.*
+server/.env
+server/.env.*
+
+# Backend jobs and logs
+jobs/
+server/jobs/
+uploads/
+server/uploads/
+verified_phones.json
+server/verified_phones.json
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Temporary media & archive files
+*.zip
+test_*.jpg
+test_*.png
+preview_*.jpg
+result_*.jpg
+frame_*.jpg
+output_*.mp4
+sample_*.png
+workout_frame_0.jpg
+workout_crop.jpg
+MILO-20260815T030710Z-1-001/
+server/test_composite_output/
+*.tar.gz
+*.docx
+__pycache__/
+*.pyc
+
+# CLI Binaries & local cache
+*.exe
+*.phar
+completion/
+.platform/local/
+.firebase/
+desktop-*/
+MILO_OpeningFrame.png
+Milo - Desktop - 2809-BG.png
+Milo moi.png
+
+
+# Security: Never commit .env or secret key files
+.env
+.env.*
+!.env.example
+*firebase-adminsdk*.json
+*storage-key*.json
+*service-account*.json
+*firebase-key*.json
+sake.json
+node_modules/
+dist/
+.next/

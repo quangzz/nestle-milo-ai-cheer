@@ -1,0 +1,27 @@
+version: '3.8'
+
+services:
+  milo-backend:
+    build:
+      context: ./server
+      dockerfile: Dockerfile
+    container_name: milo-backend
+    restart: always
+    ports:
+      - "5000:5000"
+    environment:
+      - PORT=${PORT:-5000}
+      - NODE_ENV=${NODE_ENV:-production}
+      - ELEVENLABS_API_KEY=${ELEVENLABS_API_KEY}
+      - ELEVENLABS_MODEL_ID=${ELEVENLABS_MODEL_ID:-eleven_v3}
+      - ABENLA_LOGIN_NAME=${ABENLA_LOGIN_NAME}
+      - ABENLA_PASSWORD=${ABENLA_PASSWORD}
+      - ABENLA_ZALO_SERVICE_TYPE_ID=${ABENLA_ZALO_SERVICE_TYPE_ID:-537}
+      - ABENLA_ZALO_BRAND_NAME=${ABENLA_ZALO_BRAND_NAME:-ZOTP}
+      - ABENLA_VOICE_SERVICE_TYPE_ID=${ABENLA_VOICE_SERVICE_TYPE_ID:-527}
+      - ABENLA_VOICE_BRAND_NAME=${ABENLA_VOICE_BRAND_NAME:-VoiceOTP271}
+      - MATERIAL_DIR=/app/milo_material
+    volumes:
+      - ./server/jobs:/app/jobs
+      - ./server/uploads:/app/uploads
+      - ./MILO-20260815T030710Z-1-001/MILO:/app/milo_material

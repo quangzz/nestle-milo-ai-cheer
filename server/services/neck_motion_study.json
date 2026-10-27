@@ -1,0 +1,8786 @@
+[
+  {
+    "frame": 1,
+    "file_name": "frame_0001.png",
+    "time_seconds": 0.0,
+    "neck_x": 569.1,
+    "neck_y": 443.0,
+    "neck_angle": 0.46,
+    "dot_x": 569.33,
+    "dot_y": 415.21,
+    "chin_x": 569.1,
+    "chin_y": 443.0,
+    "angle": 0.46,
+    "vector_collar_to_head": {
+      "dx": -0.22,
+      "dy": 27.79,
+      "distance": 27.79
+    }
+  },
+  {
+    "frame": 2,
+    "file_name": "frame_0002.png",
+    "time_seconds": 0.0333,
+    "neck_x": 569.1,
+    "neck_y": 443.0,
+    "neck_angle": 0.46,
+    "dot_x": 569.33,
+    "dot_y": 415.21,
+    "chin_x": 569.1,
+    "chin_y": 443.0,
+    "angle": 0.46,
+    "vector_collar_to_head": {
+      "dx": -0.22,
+      "dy": 27.79,
+      "distance": 27.79
+    }
+  },
+  {
+    "frame": 3,
+    "file_name": "frame_0003.png",
+    "time_seconds": 0.0667,
+    "neck_x": 569.1,
+    "neck_y": 443.0,
+    "neck_angle": 0.46,
+    "dot_x": 569.33,
+    "dot_y": 415.21,
+    "chin_x": 569.1,
+    "chin_y": 443.0,
+    "angle": 0.46,
+    "vector_collar_to_head": {
+      "dx": -0.22,
+      "dy": 27.79,
+      "distance": 27.79
+    }
+  },
+  {
+    "frame": 4,
+    "file_name": "frame_0004.png",
+    "time_seconds": 0.1,
+    "neck_x": 569.1,
+    "neck_y": 443.0,
+    "neck_angle": 0.45,
+    "dot_x": 569.32,
+    "dot_y": 415.21,
+    "chin_x": 569.1,
+    "chin_y": 443.0,
+    "angle": 0.45,
+    "vector_collar_to_head": {
+      "dx": -0.22,
+      "dy": 27.79,
+      "distance": 27.79
+    }
+  },
+  {
+    "frame": 5,
+    "file_name": "frame_0005.png",
+    "time_seconds": 0.1333,
+    "neck_x": 569.09,
+    "neck_y": 443.0,
+    "neck_angle": 0.46,
+    "dot_x": 569.31,
+    "dot_y": 415.22,
+    "chin_x": 569.09,
+    "chin_y": 443.0,
+    "angle": 0.46,
+    "vector_collar_to_head": {
+      "dx": -0.22,
+      "dy": 27.78,
+      "distance": 27.79
+    }
+  },
+  {
+    "frame": 6,
+    "file_name": "frame_0006.png",
+    "time_seconds": 0.1667,
+    "neck_x": 569.09,
+    "neck_y": 443.0,
+    "neck_angle": 0.45,
+    "dot_x": 569.31,
+    "dot_y": 415.21,
+    "chin_x": 569.09,
+    "chin_y": 443.0,
+    "angle": 0.45,
+    "vector_collar_to_head": {
+      "dx": -0.22,
+      "dy": 27.79,
+      "distance": 27.79
+    }
+  },
+  {
+    "frame": 7,
+    "file_name": "frame_0007.png",
+    "time_seconds": 0.2,
+    "neck_x": 569.1,
+    "neck_y": 443.0,
+    "neck_angle": 0.43,
+    "dot_x": 569.31,
+    "dot_y": 415.2,
+    "chin_x": 569.1,
+    "chin_y": 443.0,
+    "angle": 0.43,
+    "vector_collar_to_head": {
+      "dx": -0.21,
+      "dy": 27.8,
+      "distance": 27.8
+    }
+  },
+  {
+    "frame": 8,
+    "file_name": "frame_0008.png",
+    "time_seconds": 0.2333,
+    "neck_x": 569.12,
+    "neck_y": 443.0,
+    "neck_angle": 0.39,
+    "dot_x": 569.31,
+    "dot_y": 415.2,
+    "chin_x": 569.12,
+    "chin_y": 443.0,
+    "angle": 0.39,
+    "vector_collar_to_head": {
+      "dx": -0.19,
+      "dy": 27.8,
+      "distance": 27.8
+    }
+  },
+  {
+    "frame": 9,
+    "file_name": "frame_0009.png",
+    "time_seconds": 0.2667,
+    "neck_x": 569.12,
+    "neck_y": 443.0,
+    "neck_angle": 0.4,
+    "dot_x": 569.32,
+    "dot_y": 415.19,
+    "chin_x": 569.12,
+    "chin_y": 443.0,
+    "angle": 0.4,
+    "vector_collar_to_head": {
+      "dx": -0.2,
+      "dy": 27.81,
+      "distance": 27.81
+    }
+  },
+  {
+    "frame": 10,
+    "file_name": "frame_0010.png",
+    "time_seconds": 0.3,
+    "neck_x": 569.11,
+    "neck_y": 443.0,
+    "neck_angle": 0.44,
+    "dot_x": 569.32,
+    "dot_y": 415.19,
+    "chin_x": 569.11,
+    "chin_y": 443.0,
+    "angle": 0.44,
+    "vector_collar_to_head": {
+      "dx": -0.21,
+      "dy": 27.81,
+      "distance": 27.81
+    }
+  },
+  {
+    "frame": 11,
+    "file_name": "frame_0011.png",
+    "time_seconds": 0.3333,
+    "neck_x": 569.11,
+    "neck_y": 443.0,
+    "neck_angle": 0.45,
+    "dot_x": 569.33,
+    "dot_y": 415.19,
+    "chin_x": 569.11,
+    "chin_y": 443.0,
+    "angle": 0.45,
+    "vector_collar_to_head": {
+      "dx": -0.22,
+      "dy": 27.81,
+      "distance": 27.81
+    }
+  },
+  {
+    "frame": 12,
+    "file_name": "frame_0012.png",
+    "time_seconds": 0.3667,
+    "neck_x": 569.11,
+    "neck_y": 443.0,
+    "neck_angle": 0.44,
+    "dot_x": 569.32,
+    "dot_y": 415.19,
+    "chin_x": 569.11,
+    "chin_y": 443.0,
+    "angle": 0.44,
+    "vector_collar_to_head": {
+      "dx": -0.21,
+      "dy": 27.81,
+      "distance": 27.81
+    }
+  },
+  {
+    "frame": 13,
+    "file_name": "frame_0013.png",
+    "time_seconds": 0.4,
+    "neck_x": 569.11,
+    "neck_y": 443.0,
+    "neck_angle": 0.42,
+    "dot_x": 569.32,
+    "dot_y": 415.19,
+    "chin_x": 569.11,
+    "chin_y": 443.0,
+    "angle": 0.42,
+    "vector_collar_to_head": {
+      "dx": -0.21,
+      "dy": 27.81,
+      "distance": 27.81
+    }
+  },
+  {
+    "frame": 14,
+    "file_name": "frame_0014.png",
+    "time_seconds": 0.4333,
+    "neck_x": 569.1,
+    "neck_y": 443.0,
+    "neck_angle": 0.43,
+    "dot_x": 569.31,
+    "dot_y": 415.2,
+    "chin_x": 569.1,
+    "chin_y": 443.0,
+    "angle": 0.43,
+    "vector_collar_to_head": {
+      "dx": -0.21,
+      "dy": 27.8,
+      "distance": 27.8
+    }
+  },
+  {
+    "frame": 15,
+    "file_name": "frame_0015.png",
+    "time_seconds": 0.4667,
+    "neck_x": 569.1,
+    "neck_y": 443.0,
+    "neck_angle": 0.44,
+    "dot_x": 569.32,
+    "dot_y": 415.19,
+    "chin_x": 569.1,
+    "chin_y": 443.0,
+    "angle": 0.44,
+    "vector_collar_to_head": {
+      "dx": -0.22,
+      "dy": 27.81,
+      "distance": 27.81
+    }
+  },
+  {
+    "frame": 16,
+    "file_name": "frame_0016.png",
+    "time_seconds": 0.5,
+    "neck_x": 569.1,
+    "neck_y": 443.0,
+    "neck_angle": 0.45,
+    "dot_x": 569.32,
+    "dot_y": 415.19,
+    "chin_x": 569.1,
+    "chin_y": 443.0,
+    "angle": 0.45,
+    "vector_collar_to_head": {
+      "dx": -0.22,
+      "dy": 27.81,
+      "distance": 27.81
+    }
+  },
+  {
+    "frame": 17,
+    "file_name": "frame_0017.png",
+    "time_seconds": 0.5333,
+    "neck_x": 569.11,
+    "neck_y": 443.0,
+    "neck_angle": 0.44,
+    "dot_x": 569.32,
+    "dot_y": 415.18,
+    "chin_x": 569.11,
+    "chin_y": 443.0,
+    "angle": 0.44,
+    "vector_collar_to_head": {
+      "dx": -0.21,
+      "dy": 27.82,
+      "distance": 27.82
+    }
+  },
+  {
+    "frame": 18,
+    "file_name": "frame_0018.png",
+    "time_seconds": 0.5667,
+    "neck_x": 569.11,
+    "neck_y": 443.0,
+    "neck_angle": 0.44,
+    "dot_x": 569.33,
+    "dot_y": 415.18,
+    "chin_x": 569.11,
+    "chin_y": 443.0,
+    "angle": 0.44,
+    "vector_collar_to_head": {
+      "dx": -0.22,
+      "dy": 27.82,
+      "distance": 27.83
+    }
+  },
+  {
+    "frame": 19,
+    "file_name": "frame_0019.png",
+    "time_seconds": 0.6,
+    "neck_x": 569.11,
+    "neck_y": 443.0,
+    "neck_angle": 0.46,
+    "dot_x": 569.33,
+    "dot_y": 415.17,
+    "chin_x": 569.11,
+    "chin_y": 443.0,
+    "angle": 0.46,
+    "vector_collar_to_head": {
+      "dx": -0.22,
+      "dy": 27.83,
+      "distance": 27.83
+    }
+  },
+  {
+    "frame": 20,
+    "file_name": "frame_0020.png",
+    "time_seconds": 0.6333,
+    "neck_x": 569.11,
+    "neck_y": 443.0,
+    "neck_angle": 0.46,
+    "dot_x": 569.34,
+    "dot_y": 415.18,
+    "chin_x": 569.11,
+    "chin_y": 443.0,
+    "angle": 0.46,
+    "vector_collar_to_head": {
+      "dx": -0.22,
+      "dy": 27.82,
+      "distance": 27.82
+    }
+  },
+  {
+    "frame": 21,
+    "file_name": "frame_0021.png",
+    "time_seconds": 0.6667,
+    "neck_x": 569.12,
+    "neck_y": 443.0,
+    "neck_angle": 0.43,
+    "dot_x": 569.33,
+    "dot_y": 415.19,
+    "chin_x": 569.12,
+    "chin_y": 443.0,
+    "angle": 0.43,
+    "vector_collar_to_head": {
+      "dx": -0.21,
+      "dy": 27.81,
+      "distance": 27.81
+    }
+  },
+  {
+    "frame": 22,
+    "file_name": "frame_0022.png",
+    "time_seconds": 0.7,
+    "neck_x": 569.13,
+    "neck_y": 443.0,
+    "neck_angle": 0.4,
+    "dot_x": 569.33,
+    "dot_y": 415.19,
+    "chin_x": 569.13,
+    "chin_y": 443.0,
+    "angle": 0.4,
+    "vector_collar_to_head": {
+      "dx": -0.19,
+      "dy": 27.81,
+      "distance": 27.81
+    }
+  },
+  {
+    "frame": 23,
+    "file_name": "frame_0023.png",
+    "time_seconds": 0.7333,
+    "neck_x": 569.13,
+    "neck_y": 443.0,
+    "neck_angle": 0.4,
+    "dot_x": 569.33,
+    "dot_y": 415.19,
+    "chin_x": 569.13,
+    "chin_y": 443.0,
+    "angle": 0.4,
+    "vector_collar_to_head": {
+      "dx": -0.19,
+      "dy": 27.81,
+      "distance": 27.81
+    }
+  },
+  {
+    "frame": 24,
+    "file_name": "frame_0024.png",
+    "time_seconds": 0.7667,
+    "neck_x": 569.13,
+    "neck_y": 443.0,
+    "neck_angle": 0.4,
+    "dot_x": 569.33,
+    "dot_y": 415.19,
+    "chin_x": 569.13,
+    "chin_y": 443.0,
+    "angle": 0.4,
+    "vector_collar_to_head": {
+      "dx": -0.19,
+      "dy": 27.81,
+      "distance": 27.81
+    }
+  },
+  {
+    "frame": 25,
+    "file_name": "frame_0025.png",
+    "time_seconds": 0.8,
+    "neck_x": 569.13,
+    "neck_y": 443.0,
+    "neck_angle": 0.39,
+    "dot_x": 569.32,
+    "dot_y": 415.2,
+    "chin_x": 569.13,
+    "chin_y": 443.0,
+    "angle": 0.39,
+    "vector_collar_to_head": {
+      "dx": -0.19,
+      "dy": 27.8,
+      "distance": 27.8
+    }
+  },
+  {
+    "frame": 26,
+    "file_name": "frame_0026.png",
+    "time_seconds": 0.8333,
+    "neck_x": 569.13,
+    "neck_y": 443.0,
+    "neck_angle": 0.39,
+    "dot_x": 569.32,
+    "dot_y": 415.2,
+    "chin_x": 569.13,
+    "chin_y": 443.0,
+    "angle": 0.39,
+    "vector_collar_to_head": {
+      "dx": -0.19,
+      "dy": 27.8,
+      "distance": 27.8
+    }
+  },
+  {
+    "frame": 27,
+    "file_name": "frame_0027.png",
+    "time_seconds": 0.8667,
+    "neck_x": 569.13,
+    "neck_y": 443.0,
+    "neck_angle": 0.4,
+    "dot_x": 569.33,
+    "dot_y": 415.19,
+    "chin_x": 569.13,
+    "chin_y": 443.0,
+    "angle": 0.4,
+    "vector_collar_to_head": {
+      "dx": -0.19,
+      "dy": 27.81,
+      "distance": 27.81
+    }
+  },
+  {
+    "frame": 28,
+    "file_name": "frame_0028.png",
+    "time_seconds": 0.9,
+    "neck_x": 569.14,
+    "neck_y": 443.0,
+    "neck_angle": 0.39,
+    "dot_x": 569.33,
+    "dot_y": 415.19,
+    "chin_x": 569.14,
+    "chin_y": 443.0,
+    "angle": 0.39,
+    "vector_collar_to_head": {
+      "dx": -0.19,
+      "dy": 27.81,
+      "distance": 27.81
+    }
+  },
+  {
+    "frame": 29,
+    "file_name": "frame_0029.png",
+    "time_seconds": 0.9333,
+    "neck_x": 569.15,
+    "neck_y": 443.0,
+    "neck_angle": 0.37,
+    "dot_x": 569.33,
+    "dot_y": 415.19,
+    "chin_x": 569.15,
+    "chin_y": 443.0,
+    "angle": 0.37,
+    "vector_collar_to_head": {
+      "dx": -0.18,
+      "dy": 27.81,
+      "distance": 27.81
+    }
+  },
+  {
+    "frame": 30,
+    "file_name": "frame_0030.png",
+    "time_seconds": 0.9667,
+    "neck_x": 569.15,
+    "neck_y": 443.0,
+    "neck_angle": 0.36,
+    "dot_x": 569.32,
+    "dot_y": 415.19,
+    "chin_x": 569.15,
+    "chin_y": 443.0,
+    "angle": 0.36,
+    "vector_collar_to_head": {
+      "dx": -0.17,
+      "dy": 27.81,
+      "distance": 27.81
+    }
+  },
+  {
+    "frame": 31,
+    "file_name": "frame_0031.png",
+    "time_seconds": 1.0,
+    "neck_x": 569.14,
+    "neck_y": 443.0,
+    "neck_angle": 0.36,
+    "dot_x": 569.32,
+    "dot_y": 415.18,
+    "chin_x": 569.14,
+    "chin_y": 443.0,
+    "angle": 0.36,
+    "vector_collar_to_head": {
+      "dx": -0.18,
+      "dy": 27.82,
+      "distance": 27.82
+    }
+  },
+  {
+    "frame": 32,
+    "file_name": "frame_0032.png",
+    "time_seconds": 1.0333,
+    "neck_x": 569.13,
+    "neck_y": 443.0,
+    "neck_angle": 0.37,
+    "dot_x": 569.31,
+    "dot_y": 415.18,
+    "chin_x": 569.13,
+    "chin_y": 443.0,
+    "angle": 0.37,
+    "vector_collar_to_head": {
+      "dx": -0.18,
+      "dy": 27.82,
+      "distance": 27.82
+    }
+  },
+  {
+    "frame": 33,
+    "file_name": "frame_0033.png",
+    "time_seconds": 1.0667,
+    "neck_x": 569.13,
+    "neck_y": 443.0,
+    "neck_angle": 0.38,
+    "dot_x": 569.32,
+    "dot_y": 415.18,
+    "chin_x": 569.13,
+    "chin_y": 443.0,
+    "angle": 0.38,
+    "vector_collar_to_head": {
+      "dx": -0.18,
+      "dy": 27.82,
+      "distance": 27.82
+    }
+  },
+  {
+    "frame": 34,
+    "file_name": "frame_0034.png",
+    "time_seconds": 1.1,
+    "neck_x": 569.24,
+    "neck_y": 443.0,
+    "neck_angle": 0.22,
+    "dot_x": 569.35,
+    "dot_y": 415.14,
+    "chin_x": 569.24,
+    "chin_y": 443.0,
+    "angle": 0.22,
+    "vector_collar_to_head": {
+      "dx": -0.11,
+      "dy": 27.86,
+      "distance": 27.86
+    }
+  },
+  {
+    "frame": 35,
+    "file_name": "frame_0035.png",
+    "time_seconds": 1.1333,
+    "neck_x": 569.38,
+    "neck_y": 443.0,
+    "neck_angle": 0.34,
+    "dot_x": 569.54,
+    "dot_y": 415.08,
+    "chin_x": 569.38,
+    "chin_y": 443.0,
+    "angle": 0.34,
+    "vector_collar_to_head": {
+      "dx": -0.16,
+      "dy": 27.92,
+      "distance": 27.92
+    }
+  },
+  {
+    "frame": 36,
+    "file_name": "frame_0036.png",
+    "time_seconds": 1.1667,
+    "neck_x": 569.9,
+    "neck_y": 443.0,
+    "neck_angle": 0.37,
+    "dot_x": 570.08,
+    "dot_y": 415.02,
+    "chin_x": 569.9,
+    "chin_y": 443.0,
+    "angle": 0.37,
+    "vector_collar_to_head": {
+      "dx": -0.18,
+      "dy": 27.98,
+      "distance": 27.98
+    }
+  },
+  {
+    "frame": 37,
+    "file_name": "frame_0037.png",
+    "time_seconds": 1.2,
+    "neck_x": 570.58,
+    "neck_y": 443.0,
+    "neck_angle": 0.66,
+    "dot_x": 570.9,
+    "dot_y": 414.95,
+    "chin_x": 570.58,
+    "chin_y": 443.0,
+    "angle": 0.66,
+    "vector_collar_to_head": {
+      "dx": -0.32,
+      "dy": 28.05,
+      "distance": 28.06
+    }
+  },
+  {
+    "frame": 38,
+    "file_name": "frame_0038.png",
+    "time_seconds": 1.2333,
+    "neck_x": 571.66,
+    "neck_y": 443.0,
+    "neck_angle": 0.84,
+    "dot_x": 572.07,
+    "dot_y": 414.92,
+    "chin_x": 571.66,
+    "chin_y": 443.0,
+    "angle": 0.84,
+    "vector_collar_to_head": {
+      "dx": -0.41,
+      "dy": 28.08,
+      "distance": 28.08
+    }
+  },
+  {
+    "frame": 39,
+    "file_name": "frame_0039.png",
+    "time_seconds": 1.2667,
+    "neck_x": 572.9,
+    "neck_y": 443.0,
+    "neck_angle": 1.07,
+    "dot_x": 573.43,
+    "dot_y": 414.81,
+    "chin_x": 572.9,
+    "chin_y": 443.0,
+    "angle": 1.07,
+    "vector_collar_to_head": {
+      "dx": -0.53,
+      "dy": 28.19,
+      "distance": 28.2
+    }
+  },
+  {
+    "frame": 40,
+    "file_name": "frame_0040.png",
+    "time_seconds": 1.3,
+    "neck_x": 574.39,
+    "neck_y": 443.0,
+    "neck_angle": 1.37,
+    "dot_x": 575.06,
+    "dot_y": 414.66,
+    "chin_x": 574.39,
+    "chin_y": 443.0,
+    "angle": 1.37,
+    "vector_collar_to_head": {
+      "dx": -0.68,
+      "dy": 28.34,
+      "distance": 28.34
+    }
+  },
+  {
+    "frame": 41,
+    "file_name": "frame_0041.png",
+    "time_seconds": 1.3333,
+    "neck_x": 576.01,
+    "neck_y": 443.0,
+    "neck_angle": 1.55,
+    "dot_x": 576.78,
+    "dot_y": 414.48,
+    "chin_x": 576.01,
+    "chin_y": 443.0,
+    "angle": 1.55,
+    "vector_collar_to_head": {
+      "dx": -0.77,
+      "dy": 28.52,
+      "distance": 28.53
+    }
+  },
+  {
+    "frame": 42,
+    "file_name": "frame_0042.png",
+    "time_seconds": 1.3667,
+    "neck_x": 577.59,
+    "neck_y": 443.0,
+    "neck_angle": 1.95,
+    "dot_x": 578.56,
+    "dot_y": 414.35,
+    "chin_x": 577.59,
+    "chin_y": 443.0,
+    "angle": 1.95,
+    "vector_collar_to_head": {
+      "dx": -0.97,
+      "dy": 28.65,
+      "distance": 28.67
+    }
+  },
+  {
+    "frame": 43,
+    "file_name": "frame_0043.png",
+    "time_seconds": 1.4,
+    "neck_x": 579.28,
+    "neck_y": 443.0,
+    "neck_angle": 2.27,
+    "dot_x": 580.42,
+    "dot_y": 414.29,
+    "chin_x": 579.28,
+    "chin_y": 443.0,
+    "angle": 2.27,
+    "vector_collar_to_head": {
+      "dx": -1.14,
+      "dy": 28.71,
+      "distance": 28.74
+    }
+  },
+  {
+    "frame": 44,
+    "file_name": "frame_0044.png",
+    "time_seconds": 1.4333,
+    "neck_x": 581.03,
+    "neck_y": 443.0,
+    "neck_angle": 2.53,
+    "dot_x": 582.3,
+    "dot_y": 414.23,
+    "chin_x": 581.03,
+    "chin_y": 443.0,
+    "angle": 2.53,
+    "vector_collar_to_head": {
+      "dx": -1.27,
+      "dy": 28.77,
+      "distance": 28.8
+    }
+  },
+  {
+    "frame": 45,
+    "file_name": "frame_0045.png",
+    "time_seconds": 1.4667,
+    "neck_x": 582.87,
+    "neck_y": 443.0,
+    "neck_angle": 2.68,
+    "dot_x": 584.22,
+    "dot_y": 414.2,
+    "chin_x": 582.87,
+    "chin_y": 443.0,
+    "angle": 2.68,
+    "vector_collar_to_head": {
+      "dx": -1.35,
+      "dy": 28.8,
+      "distance": 28.83
+    }
+  },
+  {
+    "frame": 46,
+    "file_name": "frame_0046.png",
+    "time_seconds": 1.5,
+    "neck_x": 584.64,
+    "neck_y": 443.0,
+    "neck_angle": 2.91,
+    "dot_x": 586.11,
+    "dot_y": 414.17,
+    "chin_x": 584.64,
+    "chin_y": 443.0,
+    "angle": 2.91,
+    "vector_collar_to_head": {
+      "dx": -1.46,
+      "dy": 28.83,
+      "distance": 28.87
+    }
+  },
+  {
+    "frame": 47,
+    "file_name": "frame_0047.png",
+    "time_seconds": 1.5333,
+    "neck_x": 586.2,
+    "neck_y": 443.0,
+    "neck_angle": 3.5,
+    "dot_x": 587.97,
+    "dot_y": 414.13,
+    "chin_x": 586.2,
+    "chin_y": 443.0,
+    "angle": 3.5,
+    "vector_collar_to_head": {
+      "dx": -1.76,
+      "dy": 28.87,
+      "distance": 28.92
+    }
+  },
+  {
+    "frame": 48,
+    "file_name": "frame_0048.png",
+    "time_seconds": 1.5667,
+    "neck_x": 587.67,
+    "neck_y": 443.0,
+    "neck_angle": 4.06,
+    "dot_x": 589.72,
+    "dot_y": 414.1,
+    "chin_x": 587.67,
+    "chin_y": 443.0,
+    "angle": 4.06,
+    "vector_collar_to_head": {
+      "dx": -2.05,
+      "dy": 28.9,
+      "distance": 28.97
+    }
+  },
+  {
+    "frame": 49,
+    "file_name": "frame_0049.png",
+    "time_seconds": 1.6,
+    "neck_x": 589.1,
+    "neck_y": 443.0,
+    "neck_angle": 4.39,
+    "dot_x": 591.32,
+    "dot_y": 414.07,
+    "chin_x": 589.1,
+    "chin_y": 443.0,
+    "angle": 4.39,
+    "vector_collar_to_head": {
+      "dx": -2.22,
+      "dy": 28.93,
+      "distance": 29.02
+    }
+  },
+  {
+    "frame": 50,
+    "file_name": "frame_0050.png",
+    "time_seconds": 1.6333,
+    "neck_x": 590.35,
+    "neck_y": 443.0,
+    "neck_angle": 4.59,
+    "dot_x": 592.68,
+    "dot_y": 414.04,
+    "chin_x": 590.35,
+    "chin_y": 443.0,
+    "angle": 4.59,
+    "vector_collar_to_head": {
+      "dx": -2.33,
+      "dy": 28.96,
+      "distance": 29.05
+    }
+  },
+  {
+    "frame": 51,
+    "file_name": "frame_0051.png",
+    "time_seconds": 1.6667,
+    "neck_x": 591.43,
+    "neck_y": 443.0,
+    "neck_angle": 4.73,
+    "dot_x": 593.83,
+    "dot_y": 414.05,
+    "chin_x": 591.43,
+    "chin_y": 443.0,
+    "angle": 4.73,
+    "vector_collar_to_head": {
+      "dx": -2.39,
+      "dy": 28.95,
+      "distance": 29.05
+    }
+  },
+  {
+    "frame": 52,
+    "file_name": "frame_0052.png",
+    "time_seconds": 1.7,
+    "neck_x": 592.16,
+    "neck_y": 443.0,
+    "neck_angle": 4.93,
+    "dot_x": 594.66,
+    "dot_y": 414.07,
+    "chin_x": 592.16,
+    "chin_y": 443.0,
+    "angle": 4.93,
+    "vector_collar_to_head": {
+      "dx": -2.5,
+      "dy": 28.93,
+      "distance": 29.03
+    }
+  },
+  {
+    "frame": 53,
+    "file_name": "frame_0053.png",
+    "time_seconds": 1.7333,
+    "neck_x": 592.7,
+    "neck_y": 443.0,
+    "neck_angle": 4.94,
+    "dot_x": 595.2,
+    "dot_y": 414.09,
+    "chin_x": 592.7,
+    "chin_y": 443.0,
+    "angle": 4.94,
+    "vector_collar_to_head": {
+      "dx": -2.5,
+      "dy": 28.91,
+      "distance": 29.02
+    }
+  },
+  {
+    "frame": 54,
+    "file_name": "frame_0054.png",
+    "time_seconds": 1.7667,
+    "neck_x": 592.8,
+    "neck_y": 443.0,
+    "neck_angle": 4.99,
+    "dot_x": 595.32,
+    "dot_y": 414.11,
+    "chin_x": 592.8,
+    "chin_y": 443.0,
+    "angle": 4.99,
+    "vector_collar_to_head": {
+      "dx": -2.52,
+      "dy": 28.89,
+      "distance": 29.0
+    }
+  },
+  {
+    "frame": 55,
+    "file_name": "frame_0055.png",
+    "time_seconds": 1.8,
+    "neck_x": 592.3,
+    "neck_y": 443.0,
+    "neck_angle": 4.96,
+    "dot_x": 594.81,
+    "dot_y": 414.11,
+    "chin_x": 592.3,
+    "chin_y": 443.0,
+    "angle": 4.96,
+    "vector_collar_to_head": {
+      "dx": -2.51,
+      "dy": 28.89,
+      "distance": 29.0
+    }
+  },
+  {
+    "frame": 56,
+    "file_name": "frame_0056.png",
+    "time_seconds": 1.8333,
+    "neck_x": 591.13,
+    "neck_y": 443.0,
+    "neck_angle": 4.85,
+    "dot_x": 593.58,
+    "dot_y": 414.12,
+    "chin_x": 591.13,
+    "chin_y": 443.0,
+    "angle": 4.85,
+    "vector_collar_to_head": {
+      "dx": -2.45,
+      "dy": 28.88,
+      "distance": 28.98
+    }
+  },
+  {
+    "frame": 57,
+    "file_name": "frame_0057.png",
+    "time_seconds": 1.8667,
+    "neck_x": 589.22,
+    "neck_y": 443.0,
+    "neck_angle": 4.64,
+    "dot_x": 591.56,
+    "dot_y": 414.14,
+    "chin_x": 589.22,
+    "chin_y": 443.0,
+    "angle": 4.64,
+    "vector_collar_to_head": {
+      "dx": -2.34,
+      "dy": 28.86,
+      "distance": 28.95
+    }
+  },
+  {
+    "frame": 58,
+    "file_name": "frame_0058.png",
+    "time_seconds": 1.9,
+    "neck_x": 586.82,
+    "neck_y": 443.0,
+    "neck_angle": 4.19,
+    "dot_x": 588.93,
+    "dot_y": 414.18,
+    "chin_x": 586.82,
+    "chin_y": 443.0,
+    "angle": 4.19,
+    "vector_collar_to_head": {
+      "dx": -2.11,
+      "dy": 28.82,
+      "distance": 28.9
+    }
+  },
+  {
+    "frame": 59,
+    "file_name": "frame_0059.png",
+    "time_seconds": 1.9333,
+    "neck_x": 583.91,
+    "neck_y": 443.0,
+    "neck_angle": 3.64,
+    "dot_x": 585.74,
+    "dot_y": 414.28,
+    "chin_x": 583.91,
+    "chin_y": 443.0,
+    "angle": 3.64,
+    "vector_collar_to_head": {
+      "dx": -1.83,
+      "dy": 28.72,
+      "distance": 28.78
+    }
+  },
+  {
+    "frame": 60,
+    "file_name": "frame_0060.png",
+    "time_seconds": 1.9667,
+    "neck_x": 580.56,
+    "neck_y": 443.0,
+    "neck_angle": 3.05,
+    "dot_x": 582.09,
+    "dot_y": 414.37,
+    "chin_x": 580.56,
+    "chin_y": 443.0,
+    "angle": 3.05,
+    "vector_collar_to_head": {
+      "dx": -1.52,
+      "dy": 28.63,
+      "distance": 28.67
+    }
+  },
+  {
+    "frame": 61,
+    "file_name": "frame_0061.png",
+    "time_seconds": 2.0,
+    "neck_x": 576.75,
+    "neck_y": 443.0,
+    "neck_angle": 2.69,
+    "dot_x": 578.09,
+    "dot_y": 414.59,
+    "chin_x": 576.75,
+    "chin_y": 443.0,
+    "angle": 2.69,
+    "vector_collar_to_head": {
+      "dx": -1.33,
+      "dy": 28.41,
+      "distance": 28.44
+    }
+  },
+  {
+    "frame": 62,
+    "file_name": "frame_0062.png",
+    "time_seconds": 2.0333,
+    "neck_x": 572.73,
+    "neck_y": 443.0,
+    "neck_angle": 2.35,
+    "dot_x": 573.89,
+    "dot_y": 414.89,
+    "chin_x": 572.73,
+    "chin_y": 443.0,
+    "angle": 2.35,
+    "vector_collar_to_head": {
+      "dx": -1.16,
+      "dy": 28.11,
+      "distance": 28.13
+    }
+  },
+  {
+    "frame": 63,
+    "file_name": "frame_0063.png",
+    "time_seconds": 2.0667,
+    "neck_x": 568.48,
+    "neck_y": 443.67,
+    "neck_angle": 2.11,
+    "dot_x": 569.53,
+    "dot_y": 415.22,
+    "chin_x": 568.48,
+    "chin_y": 443.67,
+    "angle": 2.11,
+    "vector_collar_to_head": {
+      "dx": -1.05,
+      "dy": 28.45,
+      "distance": 28.47
+    }
+  },
+  {
+    "frame": 64,
+    "file_name": "frame_0064.png",
+    "time_seconds": 2.1,
+    "neck_x": 564.17,
+    "neck_y": 444.33,
+    "neck_angle": 1.78,
+    "dot_x": 565.06,
+    "dot_y": 415.48,
+    "chin_x": 564.17,
+    "chin_y": 444.33,
+    "angle": 1.78,
+    "vector_collar_to_head": {
+      "dx": -0.89,
+      "dy": 28.85,
+      "distance": 28.86
+    }
+  },
+  {
+    "frame": 65,
+    "file_name": "frame_0065.png",
+    "time_seconds": 2.1333,
+    "neck_x": 559.81,
+    "neck_y": 445.0,
+    "neck_angle": 1.37,
+    "dot_x": 560.52,
+    "dot_y": 415.71,
+    "chin_x": 559.81,
+    "chin_y": 445.0,
+    "angle": 1.37,
+    "vector_collar_to_head": {
+      "dx": -0.7,
+      "dy": 29.29,
+      "distance": 29.29
+    }
+  },
+  {
+    "frame": 66,
+    "file_name": "frame_0066.png",
+    "time_seconds": 2.1667,
+    "neck_x": 555.66,
+    "neck_y": 445.0,
+    "neck_angle": 0.77,
+    "dot_x": 556.05,
+    "dot_y": 416.02,
+    "chin_x": 555.66,
+    "chin_y": 445.0,
+    "angle": 0.77,
+    "vector_collar_to_head": {
+      "dx": -0.39,
+      "dy": 28.98,
+      "distance": 28.98
+    }
+  },
+  {
+    "frame": 67,
+    "file_name": "frame_0067.png",
+    "time_seconds": 2.2,
+    "neck_x": 551.67,
+    "neck_y": 445.0,
+    "neck_angle": 0.24,
+    "dot_x": 551.8,
+    "dot_y": 416.43,
+    "chin_x": 551.67,
+    "chin_y": 445.0,
+    "angle": 0.24,
+    "vector_collar_to_head": {
+      "dx": -0.12,
+      "dy": 28.57,
+      "distance": 28.57
+    }
+  },
+  {
+    "frame": 68,
+    "file_name": "frame_0068.png",
+    "time_seconds": 2.2333,
+    "neck_x": 547.91,
+    "neck_y": 445.33,
+    "neck_angle": -0.21,
+    "dot_x": 547.8,
+    "dot_y": 416.92,
+    "chin_x": 547.91,
+    "chin_y": 445.33,
+    "angle": -0.21,
+    "vector_collar_to_head": {
+      "dx": 0.11,
+      "dy": 28.41,
+      "distance": 28.41
+    }
+  },
+  {
+    "frame": 69,
+    "file_name": "frame_0069.png",
+    "time_seconds": 2.2667,
+    "neck_x": 544.44,
+    "neck_y": 446.0,
+    "neck_angle": -0.37,
+    "dot_x": 544.26,
+    "dot_y": 417.31,
+    "chin_x": 544.44,
+    "chin_y": 446.0,
+    "angle": -0.37,
+    "vector_collar_to_head": {
+      "dx": 0.18,
+      "dy": 28.69,
+      "distance": 28.69
+    }
+  },
+  {
+    "frame": 70,
+    "file_name": "frame_0070.png",
+    "time_seconds": 2.3,
+    "neck_x": 541.5,
+    "neck_y": 446.67,
+    "neck_angle": -0.75,
+    "dot_x": 541.12,
+    "dot_y": 417.68,
+    "chin_x": 541.5,
+    "chin_y": 446.67,
+    "angle": -0.75,
+    "vector_collar_to_head": {
+      "dx": 0.38,
+      "dy": 28.99,
+      "distance": 28.99
+    }
+  },
+  {
+    "frame": 71,
+    "file_name": "frame_0071.png",
+    "time_seconds": 2.3333,
+    "neck_x": 539.08,
+    "neck_y": 447.0,
+    "neck_angle": -1.06,
+    "dot_x": 538.55,
+    "dot_y": 417.91,
+    "chin_x": 539.08,
+    "chin_y": 447.0,
+    "angle": -1.06,
+    "vector_collar_to_head": {
+      "dx": 0.53,
+      "dy": 29.09,
+      "distance": 29.1
+    }
+  },
+  {
+    "frame": 72,
+    "file_name": "frame_0072.png",
+    "time_seconds": 2.3667,
+    "neck_x": 537.29,
+    "neck_y": 447.0,
+    "neck_angle": -1.44,
+    "dot_x": 536.57,
+    "dot_y": 418.15,
+    "chin_x": 537.29,
+    "chin_y": 447.0,
+    "angle": -1.44,
+    "vector_collar_to_head": {
+      "dx": 0.72,
+      "dy": 28.85,
+      "distance": 28.86
+    }
+  },
+  {
+    "frame": 73,
+    "file_name": "frame_0073.png",
+    "time_seconds": 2.4,
+    "neck_x": 536.13,
+    "neck_y": 447.0,
+    "neck_angle": -1.55,
+    "dot_x": 535.36,
+    "dot_y": 418.25,
+    "chin_x": 536.13,
+    "chin_y": 447.0,
+    "angle": -1.55,
+    "vector_collar_to_head": {
+      "dx": 0.78,
+      "dy": 28.75,
+      "distance": 28.76
+    }
+  },
+  {
+    "frame": 74,
+    "file_name": "frame_0074.png",
+    "time_seconds": 2.4333,
+    "neck_x": 535.75,
+    "neck_y": 447.0,
+    "neck_angle": -1.53,
+    "dot_x": 534.99,
+    "dot_y": 418.31,
+    "chin_x": 535.75,
+    "chin_y": 447.0,
+    "angle": -1.53,
+    "vector_collar_to_head": {
+      "dx": 0.77,
+      "dy": 28.69,
+      "distance": 28.7
+    }
+  },
+  {
+    "frame": 75,
+    "file_name": "frame_0075.png",
+    "time_seconds": 2.4667,
+    "neck_x": 536.13,
+    "neck_y": 447.0,
+    "neck_angle": -1.55,
+    "dot_x": 535.35,
+    "dot_y": 418.27,
+    "chin_x": 536.13,
+    "chin_y": 447.0,
+    "angle": -1.55,
+    "vector_collar_to_head": {
+      "dx": 0.78,
+      "dy": 28.73,
+      "distance": 28.74
+    }
+  },
+  {
+    "frame": 76,
+    "file_name": "frame_0076.png",
+    "time_seconds": 2.5,
+    "neck_x": 537.24,
+    "neck_y": 447.0,
+    "neck_angle": -1.36,
+    "dot_x": 536.55,
+    "dot_y": 418.17,
+    "chin_x": 537.24,
+    "chin_y": 447.0,
+    "angle": -1.36,
+    "vector_collar_to_head": {
+      "dx": 0.69,
+      "dy": 28.83,
+      "distance": 28.84
+    }
+  },
+  {
+    "frame": 77,
+    "file_name": "frame_0077.png",
+    "time_seconds": 2.5333,
+    "neck_x": 539.02,
+    "neck_y": 447.0,
+    "neck_angle": -1.0,
+    "dot_x": 538.52,
+    "dot_y": 417.92,
+    "chin_x": 539.02,
+    "chin_y": 447.0,
+    "angle": -1.0,
+    "vector_collar_to_head": {
+      "dx": 0.5,
+      "dy": 29.08,
+      "distance": 29.08
+    }
+  },
+  {
+    "frame": 78,
+    "file_name": "frame_0078.png",
+    "time_seconds": 2.5667,
+    "neck_x": 541.48,
+    "neck_y": 447.0,
+    "neck_angle": -0.73,
+    "dot_x": 541.11,
+    "dot_y": 417.69,
+    "chin_x": 541.48,
+    "chin_y": 447.0,
+    "angle": -0.73,
+    "vector_collar_to_head": {
+      "dx": 0.37,
+      "dy": 29.31,
+      "distance": 29.31
+    }
+  },
+  {
+    "frame": 79,
+    "file_name": "frame_0079.png",
+    "time_seconds": 2.6,
+    "neck_x": 544.47,
+    "neck_y": 446.33,
+    "neck_angle": -0.45,
+    "dot_x": 544.25,
+    "dot_y": 417.33,
+    "chin_x": 544.47,
+    "chin_y": 446.33,
+    "angle": -0.45,
+    "vector_collar_to_head": {
+      "dx": 0.23,
+      "dy": 29.0,
+      "distance": 29.0
+    }
+  },
+  {
+    "frame": 80,
+    "file_name": "frame_0080.png",
+    "time_seconds": 2.6333,
+    "neck_x": 547.96,
+    "neck_y": 445.67,
+    "neck_angle": -0.29,
+    "dot_x": 547.81,
+    "dot_y": 416.93,
+    "chin_x": 547.96,
+    "chin_y": 445.67,
+    "angle": -0.29,
+    "vector_collar_to_head": {
+      "dx": 0.15,
+      "dy": 28.74,
+      "distance": 28.74
+    }
+  },
+  {
+    "frame": 81,
+    "file_name": "frame_0081.png",
+    "time_seconds": 2.6667,
+    "neck_x": 551.72,
+    "neck_y": 445.0,
+    "neck_angle": 0.13,
+    "dot_x": 551.79,
+    "dot_y": 416.44,
+    "chin_x": 551.72,
+    "chin_y": 445.0,
+    "angle": 0.13,
+    "vector_collar_to_head": {
+      "dx": -0.07,
+      "dy": 28.56,
+      "distance": 28.57
+    }
+  },
+  {
+    "frame": 82,
+    "file_name": "frame_0082.png",
+    "time_seconds": 2.7,
+    "neck_x": 555.71,
+    "neck_y": 445.0,
+    "neck_angle": 0.66,
+    "dot_x": 556.05,
+    "dot_y": 416.02,
+    "chin_x": 555.71,
+    "chin_y": 445.0,
+    "angle": 0.66,
+    "vector_collar_to_head": {
+      "dx": -0.34,
+      "dy": 28.98,
+      "distance": 28.98
+    }
+  },
+  {
+    "frame": 83,
+    "file_name": "frame_0083.png",
+    "time_seconds": 2.7333,
+    "neck_x": 559.86,
+    "neck_y": 445.0,
+    "neck_angle": 1.24,
+    "dot_x": 560.5,
+    "dot_y": 415.75,
+    "chin_x": 559.86,
+    "chin_y": 445.0,
+    "angle": 1.24,
+    "vector_collar_to_head": {
+      "dx": -0.63,
+      "dy": 29.25,
+      "distance": 29.26
+    }
+  },
+  {
+    "frame": 84,
+    "file_name": "frame_0084.png",
+    "time_seconds": 2.7667,
+    "neck_x": 564.14,
+    "neck_y": 444.67,
+    "neck_angle": 1.78,
+    "dot_x": 565.05,
+    "dot_y": 415.49,
+    "chin_x": 564.14,
+    "chin_y": 444.67,
+    "angle": 1.78,
+    "vector_collar_to_head": {
+      "dx": -0.91,
+      "dy": 29.18,
+      "distance": 29.19
+    }
+  },
+  {
+    "frame": 85,
+    "file_name": "frame_0085.png",
+    "time_seconds": 2.8,
+    "neck_x": 568.45,
+    "neck_y": 444.0,
+    "neck_angle": 2.12,
+    "dot_x": 569.51,
+    "dot_y": 415.23,
+    "chin_x": 568.45,
+    "chin_y": 444.0,
+    "angle": 2.12,
+    "vector_collar_to_head": {
+      "dx": -1.06,
+      "dy": 28.77,
+      "distance": 28.79
+    }
+  },
+  {
+    "frame": 86,
+    "file_name": "frame_0086.png",
+    "time_seconds": 2.8333,
+    "neck_x": 572.69,
+    "neck_y": 443.33,
+    "neck_angle": 2.41,
+    "dot_x": 573.89,
+    "dot_y": 414.89,
+    "chin_x": 572.69,
+    "chin_y": 443.33,
+    "angle": 2.41,
+    "vector_collar_to_head": {
+      "dx": -1.2,
+      "dy": 28.44,
+      "distance": 28.46
+    }
+  },
+  {
+    "frame": 87,
+    "file_name": "frame_0087.png",
+    "time_seconds": 2.8667,
+    "neck_x": 576.78,
+    "neck_y": 443.0,
+    "neck_angle": 2.68,
+    "dot_x": 578.11,
+    "dot_y": 414.6,
+    "chin_x": 576.78,
+    "chin_y": 443.0,
+    "angle": 2.68,
+    "vector_collar_to_head": {
+      "dx": -1.33,
+      "dy": 28.4,
+      "distance": 28.43
+    }
+  },
+  {
+    "frame": 88,
+    "file_name": "frame_0088.png",
+    "time_seconds": 2.9,
+    "neck_x": 580.54,
+    "neck_y": 443.0,
+    "neck_angle": 3.13,
+    "dot_x": 582.1,
+    "dot_y": 414.38,
+    "chin_x": 580.54,
+    "chin_y": 443.0,
+    "angle": 3.13,
+    "vector_collar_to_head": {
+      "dx": -1.57,
+      "dy": 28.62,
+      "distance": 28.67
+    }
+  },
+  {
+    "frame": 89,
+    "file_name": "frame_0089.png",
+    "time_seconds": 2.9333,
+    "neck_x": 583.88,
+    "neck_y": 443.0,
+    "neck_angle": 3.73,
+    "dot_x": 585.75,
+    "dot_y": 414.26,
+    "chin_x": 583.88,
+    "chin_y": 443.0,
+    "angle": 3.73,
+    "vector_collar_to_head": {
+      "dx": -1.87,
+      "dy": 28.74,
+      "distance": 28.8
+    }
+  },
+  {
+    "frame": 90,
+    "file_name": "frame_0090.png",
+    "time_seconds": 2.9667,
+    "neck_x": 586.74,
+    "neck_y": 443.0,
+    "neck_angle": 4.34,
+    "dot_x": 588.94,
+    "dot_y": 414.16,
+    "chin_x": 586.74,
+    "chin_y": 443.0,
+    "angle": 4.34,
+    "vector_collar_to_head": {
+      "dx": -2.19,
+      "dy": 28.84,
+      "distance": 28.93
+    }
+  },
+  {
+    "frame": 91,
+    "file_name": "frame_0091.png",
+    "time_seconds": 3.0,
+    "neck_x": 589.13,
+    "neck_y": 443.0,
+    "neck_angle": 4.8,
+    "dot_x": 591.56,
+    "dot_y": 414.09,
+    "chin_x": 589.13,
+    "chin_y": 443.0,
+    "angle": 4.8,
+    "vector_collar_to_head": {
+      "dx": -2.43,
+      "dy": 28.91,
+      "distance": 29.01
+    }
+  },
+  {
+    "frame": 92,
+    "file_name": "frame_0092.png",
+    "time_seconds": 3.0333,
+    "neck_x": 591.03,
+    "neck_y": 443.0,
+    "neck_angle": 4.99,
+    "dot_x": 593.56,
+    "dot_y": 414.08,
+    "chin_x": 591.03,
+    "chin_y": 443.0,
+    "angle": 4.99,
+    "vector_collar_to_head": {
+      "dx": -2.52,
+      "dy": 28.92,
+      "distance": 29.03
+    }
+  },
+  {
+    "frame": 93,
+    "file_name": "frame_0093.png",
+    "time_seconds": 3.0667,
+    "neck_x": 592.24,
+    "neck_y": 443.0,
+    "neck_angle": 5.03,
+    "dot_x": 594.78,
+    "dot_y": 414.07,
+    "chin_x": 592.24,
+    "chin_y": 443.0,
+    "angle": 5.03,
+    "vector_collar_to_head": {
+      "dx": -2.54,
+      "dy": 28.93,
+      "distance": 29.04
+    }
+  },
+  {
+    "frame": 94,
+    "file_name": "frame_0094.png",
+    "time_seconds": 3.1,
+    "neck_x": 592.73,
+    "neck_y": 443.0,
+    "neck_angle": 4.99,
+    "dot_x": 595.25,
+    "dot_y": 414.1,
+    "chin_x": 592.73,
+    "chin_y": 443.0,
+    "angle": 4.99,
+    "vector_collar_to_head": {
+      "dx": -2.52,
+      "dy": 28.9,
+      "distance": 29.01
+    }
+  },
+  {
+    "frame": 95,
+    "file_name": "frame_0095.png",
+    "time_seconds": 3.1333,
+    "neck_x": 592.27,
+    "neck_y": 443.0,
+    "neck_angle": 4.98,
+    "dot_x": 594.79,
+    "dot_y": 414.08,
+    "chin_x": 592.27,
+    "chin_y": 443.0,
+    "angle": 4.98,
+    "vector_collar_to_head": {
+      "dx": -2.52,
+      "dy": 28.92,
+      "distance": 29.03
+    }
+  },
+  {
+    "frame": 96,
+    "file_name": "frame_0096.png",
+    "time_seconds": 3.1667,
+    "neck_x": 591.09,
+    "neck_y": 443.0,
+    "neck_angle": 4.87,
+    "dot_x": 593.56,
+    "dot_y": 414.09,
+    "chin_x": 591.09,
+    "chin_y": 443.0,
+    "angle": 4.87,
+    "vector_collar_to_head": {
+      "dx": -2.46,
+      "dy": 28.91,
+      "distance": 29.01
+    }
+  },
+  {
+    "frame": 97,
+    "file_name": "frame_0097.png",
+    "time_seconds": 3.2,
+    "neck_x": 589.19,
+    "neck_y": 443.0,
+    "neck_angle": 4.69,
+    "dot_x": 591.56,
+    "dot_y": 414.13,
+    "chin_x": 589.19,
+    "chin_y": 443.0,
+    "angle": 4.69,
+    "vector_collar_to_head": {
+      "dx": -2.37,
+      "dy": 28.87,
+      "distance": 28.96
+    }
+  },
+  {
+    "frame": 98,
+    "file_name": "frame_0098.png",
+    "time_seconds": 3.2333,
+    "neck_x": 586.79,
+    "neck_y": 443.0,
+    "neck_angle": 4.26,
+    "dot_x": 588.94,
+    "dot_y": 414.17,
+    "chin_x": 586.79,
+    "chin_y": 443.0,
+    "angle": 4.26,
+    "vector_collar_to_head": {
+      "dx": -2.15,
+      "dy": 28.83,
+      "distance": 28.91
+    }
+  },
+  {
+    "frame": 99,
+    "file_name": "frame_0099.png",
+    "time_seconds": 3.2667,
+    "neck_x": 583.89,
+    "neck_y": 443.0,
+    "neck_angle": 3.75,
+    "dot_x": 585.77,
+    "dot_y": 414.26,
+    "chin_x": 583.89,
+    "chin_y": 443.0,
+    "angle": 3.75,
+    "vector_collar_to_head": {
+      "dx": -1.88,
+      "dy": 28.74,
+      "distance": 28.8
+    }
+  },
+  {
+    "frame": 100,
+    "file_name": "frame_0100.png",
+    "time_seconds": 3.3,
+    "neck_x": 580.53,
+    "neck_y": 443.0,
+    "neck_angle": 3.18,
+    "dot_x": 582.12,
+    "dot_y": 414.36,
+    "chin_x": 580.53,
+    "chin_y": 443.0,
+    "angle": 3.18,
+    "vector_collar_to_head": {
+      "dx": -1.59,
+      "dy": 28.64,
+      "distance": 28.69
+    }
+  },
+  {
+    "frame": 101,
+    "file_name": "frame_0101.png",
+    "time_seconds": 3.3333,
+    "neck_x": 576.77,
+    "neck_y": 443.0,
+    "neck_angle": 2.71,
+    "dot_x": 578.12,
+    "dot_y": 414.6,
+    "chin_x": 576.77,
+    "chin_y": 443.0,
+    "angle": 2.71,
+    "vector_collar_to_head": {
+      "dx": -1.35,
+      "dy": 28.4,
+      "distance": 28.43
+    }
+  },
+  {
+    "frame": 102,
+    "file_name": "frame_0102.png",
+    "time_seconds": 3.3667,
+    "neck_x": 572.75,
+    "neck_y": 443.0,
+    "neck_angle": 2.34,
+    "dot_x": 573.9,
+    "dot_y": 414.91,
+    "chin_x": 572.75,
+    "chin_y": 443.0,
+    "angle": 2.34,
+    "vector_collar_to_head": {
+      "dx": -1.15,
+      "dy": 28.09,
+      "distance": 28.11
+    }
+  },
+  {
+    "frame": 103,
+    "file_name": "frame_0103.png",
+    "time_seconds": 3.4,
+    "neck_x": 568.49,
+    "neck_y": 443.67,
+    "neck_angle": 2.07,
+    "dot_x": 569.52,
+    "dot_y": 415.22,
+    "chin_x": 568.49,
+    "chin_y": 443.67,
+    "angle": 2.07,
+    "vector_collar_to_head": {
+      "dx": -1.03,
+      "dy": 28.45,
+      "distance": 28.47
+    }
+  },
+  {
+    "frame": 104,
+    "file_name": "frame_0104.png",
+    "time_seconds": 3.4333,
+    "neck_x": 564.16,
+    "neck_y": 444.33,
+    "neck_angle": 1.79,
+    "dot_x": 565.06,
+    "dot_y": 415.47,
+    "chin_x": 564.16,
+    "chin_y": 444.33,
+    "angle": 1.79,
+    "vector_collar_to_head": {
+      "dx": -0.9,
+      "dy": 28.86,
+      "distance": 28.88
+    }
+  },
+  {
+    "frame": 105,
+    "file_name": "frame_0105.png",
+    "time_seconds": 3.4667,
+    "neck_x": 559.84,
+    "neck_y": 445.0,
+    "neck_angle": 1.31,
+    "dot_x": 560.52,
+    "dot_y": 415.72,
+    "chin_x": 559.84,
+    "chin_y": 445.0,
+    "angle": 1.31,
+    "vector_collar_to_head": {
+      "dx": -0.67,
+      "dy": 29.28,
+      "distance": 29.28
+    }
+  },
+  {
+    "frame": 106,
+    "file_name": "frame_0106.png",
+    "time_seconds": 3.5,
+    "neck_x": 555.74,
+    "neck_y": 445.0,
+    "neck_angle": 0.64,
+    "dot_x": 556.07,
+    "dot_y": 416.04,
+    "chin_x": 555.74,
+    "chin_y": 445.0,
+    "angle": 0.64,
+    "vector_collar_to_head": {
+      "dx": -0.33,
+      "dy": 28.96,
+      "distance": 28.96
+    }
+  },
+  {
+    "frame": 107,
+    "file_name": "frame_0107.png",
+    "time_seconds": 3.5333,
+    "neck_x": 551.76,
+    "neck_y": 445.0,
+    "neck_angle": 0.07,
+    "dot_x": 551.8,
+    "dot_y": 416.44,
+    "chin_x": 551.76,
+    "chin_y": 445.0,
+    "angle": 0.07,
+    "vector_collar_to_head": {
+      "dx": -0.03,
+      "dy": 28.56,
+      "distance": 28.56
+    }
+  },
+  {
+    "frame": 108,
+    "file_name": "frame_0108.png",
+    "time_seconds": 3.5667,
+    "neck_x": 547.96,
+    "neck_y": 445.33,
+    "neck_angle": -0.31,
+    "dot_x": 547.8,
+    "dot_y": 416.92,
+    "chin_x": 547.96,
+    "chin_y": 445.33,
+    "angle": -0.31,
+    "vector_collar_to_head": {
+      "dx": 0.16,
+      "dy": 28.42,
+      "distance": 28.42
+    }
+  },
+  {
+    "frame": 109,
+    "file_name": "frame_0109.png",
+    "time_seconds": 3.6,
+    "neck_x": 544.47,
+    "neck_y": 446.0,
+    "neck_angle": -0.45,
+    "dot_x": 544.25,
+    "dot_y": 417.32,
+    "chin_x": 544.47,
+    "chin_y": 446.0,
+    "angle": -0.45,
+    "vector_collar_to_head": {
+      "dx": 0.23,
+      "dy": 28.68,
+      "distance": 28.68
+    }
+  },
+  {
+    "frame": 110,
+    "file_name": "frame_0110.png",
+    "time_seconds": 3.6333,
+    "neck_x": 541.48,
+    "neck_y": 446.67,
+    "neck_angle": -0.67,
+    "dot_x": 541.14,
+    "dot_y": 417.67,
+    "chin_x": 541.48,
+    "chin_y": 446.67,
+    "angle": -0.67,
+    "vector_collar_to_head": {
+      "dx": 0.34,
+      "dy": 29.0,
+      "distance": 29.0
+    }
+  },
+  {
+    "frame": 111,
+    "file_name": "frame_0111.png",
+    "time_seconds": 3.6667,
+    "neck_x": 539.05,
+    "neck_y": 447.0,
+    "neck_angle": -0.97,
+    "dot_x": 538.56,
+    "dot_y": 417.9,
+    "chin_x": 539.05,
+    "chin_y": 447.0,
+    "angle": -0.97,
+    "vector_collar_to_head": {
+      "dx": 0.49,
+      "dy": 29.1,
+      "distance": 29.1
+    }
+  },
+  {
+    "frame": 112,
+    "file_name": "frame_0112.png",
+    "time_seconds": 3.7,
+    "neck_x": 537.27,
+    "neck_y": 447.0,
+    "neck_angle": -1.33,
+    "dot_x": 536.6,
+    "dot_y": 418.13,
+    "chin_x": 537.27,
+    "chin_y": 447.0,
+    "angle": -1.33,
+    "vector_collar_to_head": {
+      "dx": 0.67,
+      "dy": 28.87,
+      "distance": 28.87
+    }
+  },
+  {
+    "frame": 113,
+    "file_name": "frame_0113.png",
+    "time_seconds": 3.7333,
+    "neck_x": 536.14,
+    "neck_y": 447.0,
+    "neck_angle": -1.49,
+    "dot_x": 535.4,
+    "dot_y": 418.25,
+    "chin_x": 536.14,
+    "chin_y": 447.0,
+    "angle": -1.49,
+    "vector_collar_to_head": {
+      "dx": 0.75,
+      "dy": 28.75,
+      "distance": 28.76
+    }
+  },
+  {
+    "frame": 114,
+    "file_name": "frame_0114.png",
+    "time_seconds": 3.7667,
+    "neck_x": 535.77,
+    "neck_y": 447.0,
+    "neck_angle": -1.46,
+    "dot_x": 535.04,
+    "dot_y": 418.3,
+    "chin_x": 535.77,
+    "chin_y": 447.0,
+    "angle": -1.46,
+    "vector_collar_to_head": {
+      "dx": 0.73,
+      "dy": 28.7,
+      "distance": 28.71
+    }
+  },
+  {
+    "frame": 115,
+    "file_name": "frame_0115.png",
+    "time_seconds": 3.8,
+    "neck_x": 536.13,
+    "neck_y": 447.0,
+    "neck_angle": -1.47,
+    "dot_x": 535.39,
+    "dot_y": 418.26,
+    "chin_x": 536.13,
+    "chin_y": 447.0,
+    "angle": -1.47,
+    "vector_collar_to_head": {
+      "dx": 0.74,
+      "dy": 28.74,
+      "distance": 28.75
+    }
+  },
+  {
+    "frame": 116,
+    "file_name": "frame_0116.png",
+    "time_seconds": 3.8333,
+    "neck_x": 537.28,
+    "neck_y": 447.0,
+    "neck_angle": -1.43,
+    "dot_x": 536.56,
+    "dot_y": 418.16,
+    "chin_x": 537.28,
+    "chin_y": 447.0,
+    "angle": -1.43,
+    "vector_collar_to_head": {
+      "dx": 0.72,
+      "dy": 28.84,
+      "distance": 28.85
+    }
+  },
+  {
+    "frame": 117,
+    "file_name": "frame_0117.png",
+    "time_seconds": 3.8667,
+    "neck_x": 539.06,
+    "neck_y": 447.0,
+    "neck_angle": -1.07,
+    "dot_x": 538.52,
+    "dot_y": 417.91,
+    "chin_x": 539.06,
+    "chin_y": 447.0,
+    "angle": -1.07,
+    "vector_collar_to_head": {
+      "dx": 0.54,
+      "dy": 29.09,
+      "distance": 29.1
+    }
+  },
+  {
+    "frame": 118,
+    "file_name": "frame_0118.png",
+    "time_seconds": 3.9,
+    "neck_x": 541.53,
+    "neck_y": 446.67,
+    "neck_angle": -0.81,
+    "dot_x": 541.12,
+    "dot_y": 417.68,
+    "chin_x": 541.53,
+    "chin_y": 446.67,
+    "angle": -0.81,
+    "vector_collar_to_head": {
+      "dx": 0.41,
+      "dy": 28.99,
+      "distance": 28.99
+    }
+  },
+  {
+    "frame": 119,
+    "file_name": "frame_0119.png",
+    "time_seconds": 3.9333,
+    "neck_x": 544.49,
+    "neck_y": 446.0,
+    "neck_angle": -0.47,
+    "dot_x": 544.26,
+    "dot_y": 417.29,
+    "chin_x": 544.49,
+    "chin_y": 446.0,
+    "angle": -0.47,
+    "vector_collar_to_head": {
+      "dx": 0.24,
+      "dy": 28.71,
+      "distance": 28.71
+    }
+  },
+  {
+    "frame": 120,
+    "file_name": "frame_0120.png",
+    "time_seconds": 3.9667,
+    "neck_x": 547.98,
+    "neck_y": 445.33,
+    "neck_angle": -0.33,
+    "dot_x": 547.82,
+    "dot_y": 416.9,
+    "chin_x": 547.98,
+    "chin_y": 445.33,
+    "angle": -0.33,
+    "vector_collar_to_head": {
+      "dx": 0.17,
+      "dy": 28.44,
+      "distance": 28.44
+    }
+  },
+  {
+    "frame": 121,
+    "file_name": "frame_0121.png",
+    "time_seconds": 4.0,
+    "neck_x": 551.73,
+    "neck_y": 445.0,
+    "neck_angle": 0.11,
+    "dot_x": 551.78,
+    "dot_y": 416.4,
+    "chin_x": 551.73,
+    "chin_y": 445.0,
+    "angle": 0.11,
+    "vector_collar_to_head": {
+      "dx": -0.06,
+      "dy": 28.6,
+      "distance": 28.6
+    }
+  },
+  {
+    "frame": 122,
+    "file_name": "frame_0122.png",
+    "time_seconds": 4.0333,
+    "neck_x": 555.72,
+    "neck_y": 445.0,
+    "neck_angle": 0.66,
+    "dot_x": 556.05,
+    "dot_y": 416.02,
+    "chin_x": 555.72,
+    "chin_y": 445.0,
+    "angle": 0.66,
+    "vector_collar_to_head": {
+      "dx": -0.33,
+      "dy": 28.98,
+      "distance": 28.98
+    }
+  },
+  {
+    "frame": 123,
+    "file_name": "frame_0123.png",
+    "time_seconds": 4.0667,
+    "neck_x": 559.83,
+    "neck_y": 445.0,
+    "neck_angle": 1.33,
+    "dot_x": 560.51,
+    "dot_y": 415.72,
+    "chin_x": 559.83,
+    "chin_y": 445.0,
+    "angle": 1.33,
+    "vector_collar_to_head": {
+      "dx": -0.68,
+      "dy": 29.28,
+      "distance": 29.28
+    }
+  },
+  {
+    "frame": 124,
+    "file_name": "frame_0124.png",
+    "time_seconds": 4.1,
+    "neck_x": 564.1,
+    "neck_y": 444.67,
+    "neck_angle": 1.85,
+    "dot_x": 565.05,
+    "dot_y": 415.47,
+    "chin_x": 564.1,
+    "chin_y": 444.67,
+    "angle": 1.85,
+    "vector_collar_to_head": {
+      "dx": -0.94,
+      "dy": 29.19,
+      "distance": 29.21
+    }
+  },
+  {
+    "frame": 125,
+    "file_name": "frame_0125.png",
+    "time_seconds": 4.1333,
+    "neck_x": 568.43,
+    "neck_y": 444.0,
+    "neck_angle": 2.16,
+    "dot_x": 569.51,
+    "dot_y": 415.18,
+    "chin_x": 568.43,
+    "chin_y": 444.0,
+    "angle": 2.16,
+    "vector_collar_to_head": {
+      "dx": -1.09,
+      "dy": 28.82,
+      "distance": 28.85
+    }
+  },
+  {
+    "frame": 126,
+    "file_name": "frame_0126.png",
+    "time_seconds": 4.1667,
+    "neck_x": 572.67,
+    "neck_y": 443.33,
+    "neck_angle": 2.42,
+    "dot_x": 573.87,
+    "dot_y": 414.85,
+    "chin_x": 572.67,
+    "chin_y": 443.33,
+    "angle": 2.42,
+    "vector_collar_to_head": {
+      "dx": -1.2,
+      "dy": 28.49,
+      "distance": 28.51
+    }
+  },
+  {
+    "frame": 127,
+    "file_name": "frame_0127.png",
+    "time_seconds": 4.2,
+    "neck_x": 576.76,
+    "neck_y": 443.0,
+    "neck_angle": 2.7,
+    "dot_x": 578.1,
+    "dot_y": 414.56,
+    "chin_x": 576.76,
+    "chin_y": 443.0,
+    "angle": 2.7,
+    "vector_collar_to_head": {
+      "dx": -1.34,
+      "dy": 28.44,
+      "distance": 28.47
+    }
+  },
+  {
+    "frame": 128,
+    "file_name": "frame_0128.png",
+    "time_seconds": 4.2333,
+    "neck_x": 580.55,
+    "neck_y": 443.0,
+    "neck_angle": 3.12,
+    "dot_x": 582.12,
+    "dot_y": 414.39,
+    "chin_x": 580.55,
+    "chin_y": 443.0,
+    "angle": 3.12,
+    "vector_collar_to_head": {
+      "dx": -1.56,
+      "dy": 28.61,
+      "distance": 28.65
+    }
+  },
+  {
+    "frame": 129,
+    "file_name": "frame_0129.png",
+    "time_seconds": 4.2667,
+    "neck_x": 583.92,
+    "neck_y": 443.0,
+    "neck_angle": 3.67,
+    "dot_x": 585.77,
+    "dot_y": 414.29,
+    "chin_x": 583.92,
+    "chin_y": 443.0,
+    "angle": 3.67,
+    "vector_collar_to_head": {
+      "dx": -1.84,
+      "dy": 28.71,
+      "distance": 28.77
+    }
+  },
+  {
+    "frame": 130,
+    "file_name": "frame_0130.png",
+    "time_seconds": 4.3,
+    "neck_x": 586.78,
+    "neck_y": 443.0,
+    "neck_angle": 4.29,
+    "dot_x": 588.95,
+    "dot_y": 414.18,
+    "chin_x": 586.78,
+    "chin_y": 443.0,
+    "angle": 4.29,
+    "vector_collar_to_head": {
+      "dx": -2.16,
+      "dy": 28.82,
+      "distance": 28.9
+    }
+  },
+  {
+    "frame": 131,
+    "file_name": "frame_0131.png",
+    "time_seconds": 4.3333,
+    "neck_x": 589.16,
+    "neck_y": 443.0,
+    "neck_angle": 4.74,
+    "dot_x": 591.55,
+    "dot_y": 414.11,
+    "chin_x": 589.16,
+    "chin_y": 443.0,
+    "angle": 4.74,
+    "vector_collar_to_head": {
+      "dx": -2.4,
+      "dy": 28.89,
+      "distance": 28.99
+    }
+  },
+  {
+    "frame": 132,
+    "file_name": "frame_0132.png",
+    "time_seconds": 4.3667,
+    "neck_x": 591.03,
+    "neck_y": 443.0,
+    "neck_angle": 4.97,
+    "dot_x": 593.55,
+    "dot_y": 414.09,
+    "chin_x": 591.03,
+    "chin_y": 443.0,
+    "angle": 4.97,
+    "vector_collar_to_head": {
+      "dx": -2.51,
+      "dy": 28.91,
+      "distance": 29.02
+    }
+  },
+  {
+    "frame": 133,
+    "file_name": "frame_0133.png",
+    "time_seconds": 4.4,
+    "neck_x": 592.24,
+    "neck_y": 443.0,
+    "neck_angle": 5.03,
+    "dot_x": 594.78,
+    "dot_y": 414.11,
+    "chin_x": 592.24,
+    "chin_y": 443.0,
+    "angle": 5.03,
+    "vector_collar_to_head": {
+      "dx": -2.54,
+      "dy": 28.89,
+      "distance": 29.01
+    }
+  },
+  {
+    "frame": 134,
+    "file_name": "frame_0134.png",
+    "time_seconds": 4.4333,
+    "neck_x": 592.69,
+    "neck_y": 443.0,
+    "neck_angle": 5.07,
+    "dot_x": 595.25,
+    "dot_y": 414.14,
+    "chin_x": 592.69,
+    "chin_y": 443.0,
+    "angle": 5.07,
+    "vector_collar_to_head": {
+      "dx": -2.56,
+      "dy": 28.86,
+      "distance": 28.97
+    }
+  },
+  {
+    "frame": 135,
+    "file_name": "frame_0135.png",
+    "time_seconds": 4.4667,
+    "neck_x": 592.25,
+    "neck_y": 443.0,
+    "neck_angle": 5.02,
+    "dot_x": 594.79,
+    "dot_y": 414.13,
+    "chin_x": 592.25,
+    "chin_y": 443.0,
+    "angle": 5.02,
+    "vector_collar_to_head": {
+      "dx": -2.54,
+      "dy": 28.87,
+      "distance": 28.98
+    }
+  },
+  {
+    "frame": 136,
+    "file_name": "frame_0136.png",
+    "time_seconds": 4.5,
+    "neck_x": 591.08,
+    "neck_y": 443.0,
+    "neck_angle": 4.9,
+    "dot_x": 593.55,
+    "dot_y": 414.12,
+    "chin_x": 591.08,
+    "chin_y": 443.0,
+    "angle": 4.9,
+    "vector_collar_to_head": {
+      "dx": -2.48,
+      "dy": 28.88,
+      "distance": 28.98
+    }
+  },
+  {
+    "frame": 137,
+    "file_name": "frame_0137.png",
+    "time_seconds": 4.5333,
+    "neck_x": 589.18,
+    "neck_y": 443.0,
+    "neck_angle": 4.74,
+    "dot_x": 591.57,
+    "dot_y": 414.14,
+    "chin_x": 589.18,
+    "chin_y": 443.0,
+    "angle": 4.74,
+    "vector_collar_to_head": {
+      "dx": -2.4,
+      "dy": 28.86,
+      "distance": 28.96
+    }
+  },
+  {
+    "frame": 138,
+    "file_name": "frame_0138.png",
+    "time_seconds": 4.5667,
+    "neck_x": 586.77,
+    "neck_y": 443.0,
+    "neck_angle": 4.33,
+    "dot_x": 588.95,
+    "dot_y": 414.18,
+    "chin_x": 586.77,
+    "chin_y": 443.0,
+    "angle": 4.33,
+    "vector_collar_to_head": {
+      "dx": -2.18,
+      "dy": 28.82,
+      "distance": 28.9
+    }
+  },
+  {
+    "frame": 139,
+    "file_name": "frame_0139.png",
+    "time_seconds": 4.6,
+    "neck_x": 583.86,
+    "neck_y": 443.0,
+    "neck_angle": 3.8,
+    "dot_x": 585.77,
+    "dot_y": 414.27,
+    "chin_x": 583.86,
+    "chin_y": 443.0,
+    "angle": 3.8,
+    "vector_collar_to_head": {
+      "dx": -1.91,
+      "dy": 28.73,
+      "distance": 28.8
+    }
+  },
+  {
+    "frame": 140,
+    "file_name": "frame_0140.png",
+    "time_seconds": 4.6333,
+    "neck_x": 580.52,
+    "neck_y": 443.0,
+    "neck_angle": 3.18,
+    "dot_x": 582.11,
+    "dot_y": 414.36,
+    "chin_x": 580.52,
+    "chin_y": 443.0,
+    "angle": 3.18,
+    "vector_collar_to_head": {
+      "dx": -1.59,
+      "dy": 28.64,
+      "distance": 28.68
+    }
+  },
+  {
+    "frame": 141,
+    "file_name": "frame_0141.png",
+    "time_seconds": 4.6667,
+    "neck_x": 576.73,
+    "neck_y": 443.0,
+    "neck_angle": 2.77,
+    "dot_x": 578.11,
+    "dot_y": 414.59,
+    "chin_x": 576.73,
+    "chin_y": 443.0,
+    "angle": 2.77,
+    "vector_collar_to_head": {
+      "dx": -1.38,
+      "dy": 28.41,
+      "distance": 28.44
+    }
+  },
+  {
+    "frame": 142,
+    "file_name": "frame_0142.png",
+    "time_seconds": 4.7,
+    "neck_x": 572.72,
+    "neck_y": 443.0,
+    "neck_angle": 2.39,
+    "dot_x": 573.89,
+    "dot_y": 414.89,
+    "chin_x": 572.72,
+    "chin_y": 443.0,
+    "angle": 2.39,
+    "vector_collar_to_head": {
+      "dx": -1.18,
+      "dy": 28.11,
+      "distance": 28.14
+    }
+  },
+  {
+    "frame": 143,
+    "file_name": "frame_0143.png",
+    "time_seconds": 4.7333,
+    "neck_x": 568.49,
+    "neck_y": 443.67,
+    "neck_angle": 2.08,
+    "dot_x": 569.52,
+    "dot_y": 415.23,
+    "chin_x": 568.49,
+    "chin_y": 443.67,
+    "angle": 2.08,
+    "vector_collar_to_head": {
+      "dx": -1.03,
+      "dy": 28.44,
+      "distance": 28.46
+    }
+  },
+  {
+    "frame": 144,
+    "file_name": "frame_0144.png",
+    "time_seconds": 4.7667,
+    "neck_x": 564.2,
+    "neck_y": 444.33,
+    "neck_angle": 1.66,
+    "dot_x": 565.03,
+    "dot_y": 415.48,
+    "chin_x": 564.2,
+    "chin_y": 444.33,
+    "angle": 1.66,
+    "vector_collar_to_head": {
+      "dx": -0.84,
+      "dy": 28.85,
+      "distance": 28.87
+    }
+  },
+  {
+    "frame": 145,
+    "file_name": "frame_0145.png",
+    "time_seconds": 4.8,
+    "neck_x": 559.87,
+    "neck_y": 445.0,
+    "neck_angle": 1.22,
+    "dot_x": 560.49,
+    "dot_y": 415.72,
+    "chin_x": 559.87,
+    "chin_y": 445.0,
+    "angle": 1.22,
+    "vector_collar_to_head": {
+      "dx": -0.62,
+      "dy": 29.28,
+      "distance": 29.29
+    }
+  },
+  {
+    "frame": 146,
+    "file_name": "frame_0146.png",
+    "time_seconds": 4.8333,
+    "neck_x": 555.69,
+    "neck_y": 445.0,
+    "neck_angle": 0.67,
+    "dot_x": 556.03,
+    "dot_y": 416.0,
+    "chin_x": 555.69,
+    "chin_y": 445.0,
+    "angle": 0.67,
+    "vector_collar_to_head": {
+      "dx": -0.34,
+      "dy": 29.0,
+      "distance": 29.0
+    }
+  },
+  {
+    "frame": 147,
+    "file_name": "frame_0147.png",
+    "time_seconds": 4.8667,
+    "neck_x": 551.71,
+    "neck_y": 445.0,
+    "neck_angle": 0.14,
+    "dot_x": 551.78,
+    "dot_y": 416.41,
+    "chin_x": 551.71,
+    "chin_y": 445.0,
+    "angle": 0.14,
+    "vector_collar_to_head": {
+      "dx": -0.07,
+      "dy": 28.59,
+      "distance": 28.59
+    }
+  },
+  {
+    "frame": 148,
+    "file_name": "frame_0148.png",
+    "time_seconds": 4.9,
+    "neck_x": 547.95,
+    "neck_y": 445.33,
+    "neck_angle": -0.3,
+    "dot_x": 547.8,
+    "dot_y": 416.89,
+    "chin_x": 547.95,
+    "chin_y": 445.33,
+    "angle": -0.3,
+    "vector_collar_to_head": {
+      "dx": 0.15,
+      "dy": 28.44,
+      "distance": 28.44
+    }
+  },
+  {
+    "frame": 149,
+    "file_name": "frame_0149.png",
+    "time_seconds": 4.9333,
+    "neck_x": 544.48,
+    "neck_y": 446.0,
+    "neck_angle": -0.48,
+    "dot_x": 544.24,
+    "dot_y": 417.3,
+    "chin_x": 544.48,
+    "chin_y": 446.0,
+    "angle": -0.48,
+    "vector_collar_to_head": {
+      "dx": 0.24,
+      "dy": 28.7,
+      "distance": 28.7
+    }
+  },
+  {
+    "frame": 150,
+    "file_name": "frame_0150.png",
+    "time_seconds": 4.9667,
+    "neck_x": 541.51,
+    "neck_y": 446.67,
+    "neck_angle": -0.73,
+    "dot_x": 541.14,
+    "dot_y": 417.67,
+    "chin_x": 541.51,
+    "chin_y": 446.67,
+    "angle": -0.73,
+    "vector_collar_to_head": {
+      "dx": 0.37,
+      "dy": 29.0,
+      "distance": 29.0
+    }
+  },
+  {
+    "frame": 151,
+    "file_name": "frame_0151.png",
+    "time_seconds": 5.0,
+    "neck_x": 539.07,
+    "neck_y": 447.0,
+    "neck_angle": -1.0,
+    "dot_x": 538.56,
+    "dot_y": 417.91,
+    "chin_x": 539.07,
+    "chin_y": 447.0,
+    "angle": -1.0,
+    "vector_collar_to_head": {
+      "dx": 0.51,
+      "dy": 29.09,
+      "distance": 29.1
+    }
+  },
+  {
+    "frame": 152,
+    "file_name": "frame_0152.png",
+    "time_seconds": 5.0333,
+    "neck_x": 537.29,
+    "neck_y": 447.0,
+    "neck_angle": -1.37,
+    "dot_x": 536.6,
+    "dot_y": 418.15,
+    "chin_x": 537.29,
+    "chin_y": 447.0,
+    "angle": -1.37,
+    "vector_collar_to_head": {
+      "dx": 0.69,
+      "dy": 28.85,
+      "distance": 28.86
+    }
+  },
+  {
+    "frame": 153,
+    "file_name": "frame_0153.png",
+    "time_seconds": 5.0667,
+    "neck_x": 536.14,
+    "neck_y": 447.0,
+    "neck_angle": -1.49,
+    "dot_x": 535.39,
+    "dot_y": 418.25,
+    "chin_x": 536.14,
+    "chin_y": 447.0,
+    "angle": -1.49,
+    "vector_collar_to_head": {
+      "dx": 0.75,
+      "dy": 28.75,
+      "distance": 28.76
+    }
+  },
+  {
+    "frame": 154,
+    "file_name": "frame_0154.png",
+    "time_seconds": 5.1,
+    "neck_x": 535.72,
+    "neck_y": 447.0,
+    "neck_angle": -1.48,
+    "dot_x": 534.98,
+    "dot_y": 418.29,
+    "chin_x": 535.72,
+    "chin_y": 447.0,
+    "angle": -1.48,
+    "vector_collar_to_head": {
+      "dx": 0.74,
+      "dy": 28.71,
+      "distance": 28.72
+    }
+  },
+  {
+    "frame": 155,
+    "file_name": "frame_0155.png",
+    "time_seconds": 5.1333,
+    "neck_x": 535.93,
+    "neck_y": 447.0,
+    "neck_angle": -1.55,
+    "dot_x": 535.16,
+    "dot_y": 418.28,
+    "chin_x": 535.93,
+    "chin_y": 447.0,
+    "angle": -1.55,
+    "vector_collar_to_head": {
+      "dx": 0.78,
+      "dy": 28.72,
+      "distance": 28.73
+    }
+  },
+  {
+    "frame": 156,
+    "file_name": "frame_0156.png",
+    "time_seconds": 5.1667,
+    "neck_x": 536.76,
+    "neck_y": 447.0,
+    "neck_angle": -1.68,
+    "dot_x": 535.91,
+    "dot_y": 418.2,
+    "chin_x": 536.76,
+    "chin_y": 447.0,
+    "angle": -1.68,
+    "vector_collar_to_head": {
+      "dx": 0.84,
+      "dy": 28.8,
+      "distance": 28.81
+    }
+  },
+  {
+    "frame": 157,
+    "file_name": "frame_0157.png",
+    "time_seconds": 5.2,
+    "neck_x": 537.87,
+    "neck_y": 447.0,
+    "neck_angle": -1.53,
+    "dot_x": 537.1,
+    "dot_y": 418.07,
+    "chin_x": 537.87,
+    "chin_y": 447.0,
+    "angle": -1.53,
+    "vector_collar_to_head": {
+      "dx": 0.77,
+      "dy": 28.93,
+      "distance": 28.94
+    }
+  },
+  {
+    "frame": 158,
+    "file_name": "frame_0158.png",
+    "time_seconds": 5.2333,
+    "neck_x": 539.41,
+    "neck_y": 447.0,
+    "neck_angle": -1.37,
+    "dot_x": 538.72,
+    "dot_y": 417.89,
+    "chin_x": 539.41,
+    "chin_y": 447.0,
+    "angle": -1.37,
+    "vector_collar_to_head": {
+      "dx": 0.69,
+      "dy": 29.11,
+      "distance": 29.12
+    }
+  },
+  {
+    "frame": 159,
+    "file_name": "frame_0159.png",
+    "time_seconds": 5.2667,
+    "neck_x": 541.21,
+    "neck_y": 447.0,
+    "neck_angle": -1.0,
+    "dot_x": 540.7,
+    "dot_y": 417.68,
+    "chin_x": 541.21,
+    "chin_y": 447.0,
+    "angle": -1.0,
+    "vector_collar_to_head": {
+      "dx": 0.51,
+      "dy": 29.32,
+      "distance": 29.32
+    }
+  },
+  {
+    "frame": 160,
+    "file_name": "frame_0160.png",
+    "time_seconds": 5.3,
+    "neck_x": 543.47,
+    "neck_y": 446.67,
+    "neck_angle": -1.04,
+    "dot_x": 542.94,
+    "dot_y": 417.47,
+    "chin_x": 543.47,
+    "chin_y": 446.67,
+    "angle": -1.04,
+    "vector_collar_to_head": {
+      "dx": 0.53,
+      "dy": 29.2,
+      "distance": 29.2
+    }
+  },
+  {
+    "frame": 161,
+    "file_name": "frame_0161.png",
+    "time_seconds": 5.3333,
+    "neck_x": 545.82,
+    "neck_y": 446.0,
+    "neck_angle": -0.95,
+    "dot_x": 545.34,
+    "dot_y": 417.22,
+    "chin_x": 545.82,
+    "chin_y": 446.0,
+    "angle": -0.95,
+    "vector_collar_to_head": {
+      "dx": 0.48,
+      "dy": 28.78,
+      "distance": 28.79
+    }
+  },
+  {
+    "frame": 162,
+    "file_name": "frame_0162.png",
+    "time_seconds": 5.3667,
+    "neck_x": 548.35,
+    "neck_y": 445.33,
+    "neck_angle": -0.95,
+    "dot_x": 547.88,
+    "dot_y": 416.91,
+    "chin_x": 548.35,
+    "chin_y": 445.33,
+    "angle": -0.95,
+    "vector_collar_to_head": {
+      "dx": 0.47,
+      "dy": 28.43,
+      "distance": 28.43
+    }
+  },
+  {
+    "frame": 163,
+    "file_name": "frame_0163.png",
+    "time_seconds": 5.4,
+    "neck_x": 550.86,
+    "neck_y": 445.0,
+    "neck_angle": -0.65,
+    "dot_x": 550.54,
+    "dot_y": 416.56,
+    "chin_x": 550.86,
+    "chin_y": 445.0,
+    "angle": -0.65,
+    "vector_collar_to_head": {
+      "dx": 0.32,
+      "dy": 28.44,
+      "distance": 28.44
+    }
+  },
+  {
+    "frame": 164,
+    "file_name": "frame_0164.png",
+    "time_seconds": 5.4333,
+    "neck_x": 553.57,
+    "neck_y": 445.0,
+    "neck_angle": -0.58,
+    "dot_x": 553.27,
+    "dot_y": 416.27,
+    "chin_x": 553.57,
+    "chin_y": 445.0,
+    "angle": -0.58,
+    "vector_collar_to_head": {
+      "dx": 0.29,
+      "dy": 28.73,
+      "distance": 28.73
+    }
+  },
+  {
+    "frame": 165,
+    "file_name": "frame_0165.png",
+    "time_seconds": 5.4667,
+    "neck_x": 556.12,
+    "neck_y": 445.0,
+    "neck_angle": -0.33,
+    "dot_x": 555.96,
+    "dot_y": 416.08,
+    "chin_x": 556.12,
+    "chin_y": 445.0,
+    "angle": -0.33,
+    "vector_collar_to_head": {
+      "dx": 0.17,
+      "dy": 28.92,
+      "distance": 28.92
+    }
+  },
+  {
+    "frame": 166,
+    "file_name": "frame_0166.png",
+    "time_seconds": 5.5,
+    "neck_x": 558.71,
+    "neck_y": 445.0,
+    "neck_angle": -0.26,
+    "dot_x": 558.58,
+    "dot_y": 415.9,
+    "chin_x": 558.71,
+    "chin_y": 445.0,
+    "angle": -0.26,
+    "vector_collar_to_head": {
+      "dx": 0.13,
+      "dy": 29.1,
+      "distance": 29.1
+    }
+  },
+  {
+    "frame": 167,
+    "file_name": "frame_0167.png",
+    "time_seconds": 5.5333,
+    "neck_x": 561.1,
+    "neck_y": 445.0,
+    "neck_angle": -0.13,
+    "dot_x": 561.04,
+    "dot_y": 415.67,
+    "chin_x": 561.1,
+    "chin_y": 445.0,
+    "angle": -0.13,
+    "vector_collar_to_head": {
+      "dx": 0.06,
+      "dy": 29.33,
+      "distance": 29.33
+    }
+  },
+  {
+    "frame": 168,
+    "file_name": "frame_0168.png",
+    "time_seconds": 5.5667,
+    "neck_x": 563.41,
+    "neck_y": 444.67,
+    "neck_angle": -0.28,
+    "dot_x": 563.27,
+    "dot_y": 415.44,
+    "chin_x": 563.41,
+    "chin_y": 444.67,
+    "angle": -0.28,
+    "vector_collar_to_head": {
+      "dx": 0.14,
+      "dy": 29.22,
+      "distance": 29.22
+    }
+  },
+  {
+    "frame": 169,
+    "file_name": "frame_0169.png",
+    "time_seconds": 5.6,
+    "neck_x": 565.25,
+    "neck_y": 444.33,
+    "neck_angle": -0.07,
+    "dot_x": 565.21,
+    "dot_y": 415.35,
+    "chin_x": 565.25,
+    "chin_y": 444.33,
+    "angle": -0.07,
+    "vector_collar_to_head": {
+      "dx": 0.04,
+      "dy": 28.98,
+      "distance": 28.98
+    }
+  },
+  {
+    "frame": 170,
+    "file_name": "frame_0170.png",
+    "time_seconds": 5.6333,
+    "neck_x": 566.71,
+    "neck_y": 444.0,
+    "neck_angle": 0.14,
+    "dot_x": 566.78,
+    "dot_y": 415.32,
+    "chin_x": 566.71,
+    "chin_y": 444.0,
+    "angle": 0.14,
+    "vector_collar_to_head": {
+      "dx": -0.07,
+      "dy": 28.68,
+      "distance": 28.68
+    }
+  },
+  {
+    "frame": 171,
+    "file_name": "frame_0171.png",
+    "time_seconds": 5.6667,
+    "neck_x": 567.82,
+    "neck_y": 443.67,
+    "neck_angle": 0.43,
+    "dot_x": 568.04,
+    "dot_y": 415.31,
+    "chin_x": 567.82,
+    "chin_y": 443.67,
+    "angle": 0.43,
+    "vector_collar_to_head": {
+      "dx": -0.21,
+      "dy": 28.35,
+      "distance": 28.35
+    }
+  },
+  {
+    "frame": 172,
+    "file_name": "frame_0172.png",
+    "time_seconds": 5.7,
+    "neck_x": 568.6,
+    "neck_y": 443.33,
+    "neck_angle": 0.41,
+    "dot_x": 568.8,
+    "dot_y": 415.27,
+    "chin_x": 568.6,
+    "chin_y": 443.33,
+    "angle": 0.41,
+    "vector_collar_to_head": {
+      "dx": -0.2,
+      "dy": 28.07,
+      "distance": 28.07
+    }
+  },
+  {
+    "frame": 173,
+    "file_name": "frame_0173.png",
+    "time_seconds": 5.7333,
+    "neck_x": 569.0,
+    "neck_y": 443.0,
+    "neck_angle": 0.45,
+    "dot_x": 569.21,
+    "dot_y": 415.24,
+    "chin_x": 569.0,
+    "chin_y": 443.0,
+    "angle": 0.45,
+    "vector_collar_to_head": {
+      "dx": -0.22,
+      "dy": 27.76,
+      "distance": 27.76
+    }
+  },
+  {
+    "frame": 174,
+    "file_name": "frame_0174.png",
+    "time_seconds": 5.7667,
+    "neck_x": 569.07,
+    "neck_y": 443.0,
+    "neck_angle": 0.44,
+    "dot_x": 569.28,
+    "dot_y": 415.23,
+    "chin_x": 569.07,
+    "chin_y": 443.0,
+    "angle": 0.44,
+    "vector_collar_to_head": {
+      "dx": -0.21,
+      "dy": 27.77,
+      "distance": 27.77
+    }
+  },
+  {
+    "frame": 175,
+    "file_name": "frame_0175.png",
+    "time_seconds": 5.8,
+    "neck_x": 569.07,
+    "neck_y": 443.0,
+    "neck_angle": 0.44,
+    "dot_x": 569.28,
+    "dot_y": 415.23,
+    "chin_x": 569.07,
+    "chin_y": 443.0,
+    "angle": 0.44,
+    "vector_collar_to_head": {
+      "dx": -0.21,
+      "dy": 27.77,
+      "distance": 27.77
+    }
+  },
+  {
+    "frame": 176,
+    "file_name": "frame_0176.png",
+    "time_seconds": 5.8333,
+    "neck_x": 569.07,
+    "neck_y": 443.0,
+    "neck_angle": 0.44,
+    "dot_x": 569.28,
+    "dot_y": 415.23,
+    "chin_x": 569.07,
+    "chin_y": 443.0,
+    "angle": 0.44,
+    "vector_collar_to_head": {
+      "dx": -0.21,
+      "dy": 27.77,
+      "distance": 27.77
+    }
+  },
+  {
+    "frame": 177,
+    "file_name": "frame_0177.png",
+    "time_seconds": 5.8667,
+    "neck_x": 569.07,
+    "neck_y": 443.0,
+    "neck_angle": 0.44,
+    "dot_x": 569.29,
+    "dot_y": 415.22,
+    "chin_x": 569.07,
+    "chin_y": 443.0,
+    "angle": 0.44,
+    "vector_collar_to_head": {
+      "dx": -0.21,
+      "dy": 27.78,
+      "distance": 27.78
+    }
+  },
+  {
+    "frame": 178,
+    "file_name": "frame_0178.png",
+    "time_seconds": 5.9,
+    "neck_x": 569.07,
+    "neck_y": 443.0,
+    "neck_angle": 0.46,
+    "dot_x": 569.3,
+    "dot_y": 415.22,
+    "chin_x": 569.07,
+    "chin_y": 443.0,
+    "angle": 0.46,
+    "vector_collar_to_head": {
+      "dx": -0.22,
+      "dy": 27.78,
+      "distance": 27.78
+    }
+  },
+  {
+    "frame": 179,
+    "file_name": "frame_0179.png",
+    "time_seconds": 5.9333,
+    "neck_x": 569.08,
+    "neck_y": 443.0,
+    "neck_angle": 0.47,
+    "dot_x": 569.31,
+    "dot_y": 415.2,
+    "chin_x": 569.08,
+    "chin_y": 443.0,
+    "angle": 0.47,
+    "vector_collar_to_head": {
+      "dx": -0.23,
+      "dy": 27.8,
+      "distance": 27.8
+    }
+  },
+  {
+    "frame": 180,
+    "file_name": "frame_0180.png",
+    "time_seconds": 5.9667,
+    "neck_x": 569.09,
+    "neck_y": 443.0,
+    "neck_angle": 0.45,
+    "dot_x": 569.31,
+    "dot_y": 415.2,
+    "chin_x": 569.09,
+    "chin_y": 443.0,
+    "angle": 0.45,
+    "vector_collar_to_head": {
+      "dx": -0.22,
+      "dy": 27.8,
+      "distance": 27.81
+    }
+  },
+  {
+    "frame": 181,
+    "file_name": "frame_0181.png",
+    "time_seconds": 6.0,
+    "neck_x": 569.1,
+    "neck_y": 443.0,
+    "neck_angle": 0.42,
+    "dot_x": 569.31,
+    "dot_y": 415.19,
+    "chin_x": 569.1,
+    "chin_y": 443.0,
+    "angle": 0.42,
+    "vector_collar_to_head": {
+      "dx": -0.21,
+      "dy": 27.81,
+      "distance": 27.81
+    }
+  },
+  {
+    "frame": 182,
+    "file_name": "frame_0182.png",
+    "time_seconds": 6.0333,
+    "neck_x": 569.1,
+    "neck_y": 443.0,
+    "neck_angle": 0.41,
+    "dot_x": 569.3,
+    "dot_y": 415.21,
+    "chin_x": 569.1,
+    "chin_y": 443.0,
+    "angle": 0.41,
+    "vector_collar_to_head": {
+      "dx": -0.2,
+      "dy": 27.79,
+      "distance": 27.79
+    }
+  },
+  {
+    "frame": 183,
+    "file_name": "frame_0183.png",
+    "time_seconds": 6.0667,
+    "neck_x": 569.1,
+    "neck_y": 443.0,
+    "neck_angle": 0.43,
+    "dot_x": 569.31,
+    "dot_y": 415.21,
+    "chin_x": 569.1,
+    "chin_y": 443.0,
+    "angle": 0.43,
+    "vector_collar_to_head": {
+      "dx": -0.21,
+      "dy": 27.79,
+      "distance": 27.79
+    }
+  },
+  {
+    "frame": 184,
+    "file_name": "frame_0184.png",
+    "time_seconds": 6.1,
+    "neck_x": 569.1,
+    "neck_y": 443.0,
+    "neck_angle": 0.43,
+    "dot_x": 569.31,
+    "dot_y": 415.2,
+    "chin_x": 569.1,
+    "chin_y": 443.0,
+    "angle": 0.43,
+    "vector_collar_to_head": {
+      "dx": -0.21,
+      "dy": 27.8,
+      "distance": 27.8
+    }
+  },
+  {
+    "frame": 185,
+    "file_name": "frame_0185.png",
+    "time_seconds": 6.1333,
+    "neck_x": 569.11,
+    "neck_y": 443.0,
+    "neck_angle": 0.42,
+    "dot_x": 569.32,
+    "dot_y": 415.19,
+    "chin_x": 569.11,
+    "chin_y": 443.0,
+    "angle": 0.42,
+    "vector_collar_to_head": {
+      "dx": -0.21,
+      "dy": 27.81,
+      "distance": 27.81
+    }
+  },
+  {
+    "frame": 186,
+    "file_name": "frame_0186.png",
+    "time_seconds": 6.1667,
+    "neck_x": 569.11,
+    "neck_y": 443.0,
+    "neck_angle": 0.42,
+    "dot_x": 569.32,
+    "dot_y": 415.19,
+    "chin_x": 569.11,
+    "chin_y": 443.0,
+    "angle": 0.42,
+    "vector_collar_to_head": {
+      "dx": -0.21,
+      "dy": 27.81,
+      "distance": 27.81
+    }
+  },
+  {
+    "frame": 187,
+    "file_name": "frame_0187.png",
+    "time_seconds": 6.2,
+    "neck_x": 569.1,
+    "neck_y": 443.0,
+    "neck_angle": 0.46,
+    "dot_x": 569.32,
+    "dot_y": 415.19,
+    "chin_x": 569.1,
+    "chin_y": 443.0,
+    "angle": 0.46,
+    "vector_collar_to_head": {
+      "dx": -0.22,
+      "dy": 27.81,
+      "distance": 27.81
+    }
+  },
+  {
+    "frame": 188,
+    "file_name": "frame_0188.png",
+    "time_seconds": 6.2333,
+    "neck_x": 569.1,
+    "neck_y": 443.0,
+    "neck_angle": 0.46,
+    "dot_x": 569.32,
+    "dot_y": 415.19,
+    "chin_x": 569.1,
+    "chin_y": 443.0,
+    "angle": 0.46,
+    "vector_collar_to_head": {
+      "dx": -0.22,
+      "dy": 27.81,
+      "distance": 27.81
+    }
+  },
+  {
+    "frame": 189,
+    "file_name": "frame_0189.png",
+    "time_seconds": 6.2667,
+    "neck_x": 569.1,
+    "neck_y": 443.0,
+    "neck_angle": 0.47,
+    "dot_x": 569.33,
+    "dot_y": 415.19,
+    "chin_x": 569.1,
+    "chin_y": 443.0,
+    "angle": 0.47,
+    "vector_collar_to_head": {
+      "dx": -0.23,
+      "dy": 27.81,
+      "distance": 27.81
+    }
+  },
+  {
+    "frame": 190,
+    "file_name": "frame_0190.png",
+    "time_seconds": 6.3,
+    "neck_x": 569.11,
+    "neck_y": 443.0,
+    "neck_angle": 0.45,
+    "dot_x": 569.33,
+    "dot_y": 415.19,
+    "chin_x": 569.11,
+    "chin_y": 443.0,
+    "angle": 0.45,
+    "vector_collar_to_head": {
+      "dx": -0.22,
+      "dy": 27.81,
+      "distance": 27.81
+    }
+  },
+  {
+    "frame": 191,
+    "file_name": "frame_0191.png",
+    "time_seconds": 6.3333,
+    "neck_x": 569.11,
+    "neck_y": 443.0,
+    "neck_angle": 0.44,
+    "dot_x": 569.33,
+    "dot_y": 415.18,
+    "chin_x": 569.11,
+    "chin_y": 443.0,
+    "angle": 0.44,
+    "vector_collar_to_head": {
+      "dx": -0.22,
+      "dy": 27.82,
+      "distance": 27.82
+    }
+  },
+  {
+    "frame": 192,
+    "file_name": "frame_0192.png",
+    "time_seconds": 6.3667,
+    "neck_x": 569.11,
+    "neck_y": 443.0,
+    "neck_angle": 0.45,
+    "dot_x": 569.33,
+    "dot_y": 415.18,
+    "chin_x": 569.11,
+    "chin_y": 443.0,
+    "angle": 0.45,
+    "vector_collar_to_head": {
+      "dx": -0.22,
+      "dy": 27.82,
+      "distance": 27.82
+    }
+  },
+  {
+    "frame": 193,
+    "file_name": "frame_0193.png",
+    "time_seconds": 6.4,
+    "neck_x": 569.11,
+    "neck_y": 443.0,
+    "neck_angle": 0.46,
+    "dot_x": 569.33,
+    "dot_y": 415.17,
+    "chin_x": 569.11,
+    "chin_y": 443.0,
+    "angle": 0.46,
+    "vector_collar_to_head": {
+      "dx": -0.22,
+      "dy": 27.83,
+      "distance": 27.83
+    }
+  },
+  {
+    "frame": 194,
+    "file_name": "frame_0194.png",
+    "time_seconds": 6.4333,
+    "neck_x": 569.22,
+    "neck_y": 443.0,
+    "neck_angle": 0.31,
+    "dot_x": 569.37,
+    "dot_y": 415.15,
+    "chin_x": 569.22,
+    "chin_y": 443.0,
+    "angle": 0.31,
+    "vector_collar_to_head": {
+      "dx": -0.15,
+      "dy": 27.85,
+      "distance": 27.85
+    }
+  },
+  {
+    "frame": 195,
+    "file_name": "frame_0195.png",
+    "time_seconds": 6.4667,
+    "neck_x": 569.37,
+    "neck_y": 443.0,
+    "neck_angle": 0.36,
+    "dot_x": 569.54,
+    "dot_y": 415.13,
+    "chin_x": 569.37,
+    "chin_y": 443.0,
+    "angle": 0.36,
+    "vector_collar_to_head": {
+      "dx": -0.18,
+      "dy": 27.87,
+      "distance": 27.87
+    }
+  },
+  {
+    "frame": 196,
+    "file_name": "frame_0196.png",
+    "time_seconds": 6.5,
+    "neck_x": 569.9,
+    "neck_y": 443.0,
+    "neck_angle": 0.4,
+    "dot_x": 570.09,
+    "dot_y": 415.07,
+    "chin_x": 569.9,
+    "chin_y": 443.0,
+    "angle": 0.4,
+    "vector_collar_to_head": {
+      "dx": -0.19,
+      "dy": 27.93,
+      "distance": 27.93
+    }
+  },
+  {
+    "frame": 197,
+    "file_name": "frame_0197.png",
+    "time_seconds": 6.5333,
+    "neck_x": 570.58,
+    "neck_y": 443.0,
+    "neck_angle": 0.66,
+    "dot_x": 570.9,
+    "dot_y": 414.99,
+    "chin_x": 570.58,
+    "chin_y": 443.0,
+    "angle": 0.66,
+    "vector_collar_to_head": {
+      "dx": -0.32,
+      "dy": 28.01,
+      "distance": 28.01
+    }
+  },
+  {
+    "frame": 198,
+    "file_name": "frame_0198.png",
+    "time_seconds": 6.5667,
+    "neck_x": 571.66,
+    "neck_y": 443.0,
+    "neck_angle": 0.87,
+    "dot_x": 572.09,
+    "dot_y": 414.92,
+    "chin_x": 571.66,
+    "chin_y": 443.0,
+    "angle": 0.87,
+    "vector_collar_to_head": {
+      "dx": -0.43,
+      "dy": 28.08,
+      "distance": 28.09
+    }
+  },
+  {
+    "frame": 199,
+    "file_name": "frame_0199.png",
+    "time_seconds": 6.6,
+    "neck_x": 572.91,
+    "neck_y": 443.0,
+    "neck_angle": 1.1,
+    "dot_x": 573.45,
+    "dot_y": 414.78,
+    "chin_x": 572.91,
+    "chin_y": 443.0,
+    "angle": 1.1,
+    "vector_collar_to_head": {
+      "dx": -0.54,
+      "dy": 28.22,
+      "distance": 28.22
+    }
+  },
+  {
+    "frame": 200,
+    "file_name": "frame_0200.png",
+    "time_seconds": 6.6333,
+    "neck_x": 574.4,
+    "neck_y": 443.0,
+    "neck_angle": 1.38,
+    "dot_x": 575.08,
+    "dot_y": 414.63,
+    "chin_x": 574.4,
+    "chin_y": 443.0,
+    "angle": 1.38,
+    "vector_collar_to_head": {
+      "dx": -0.68,
+      "dy": 28.37,
+      "distance": 28.38
+    }
+  },
+  {
+    "frame": 201,
+    "file_name": "frame_0201.png",
+    "time_seconds": 6.6667,
+    "neck_x": 576.02,
+    "neck_y": 443.0,
+    "neck_angle": 1.58,
+    "dot_x": 576.81,
+    "dot_y": 414.44,
+    "chin_x": 576.02,
+    "chin_y": 443.0,
+    "angle": 1.58,
+    "vector_collar_to_head": {
+      "dx": -0.79,
+      "dy": 28.56,
+      "distance": 28.57
+    }
+  },
+  {
+    "frame": 202,
+    "file_name": "frame_0202.png",
+    "time_seconds": 6.7,
+    "neck_x": 577.59,
+    "neck_y": 443.0,
+    "neck_angle": 2.01,
+    "dot_x": 578.6,
+    "dot_y": 414.33,
+    "chin_x": 577.59,
+    "chin_y": 443.0,
+    "angle": 2.01,
+    "vector_collar_to_head": {
+      "dx": -1.01,
+      "dy": 28.67,
+      "distance": 28.69
+    }
+  },
+  {
+    "frame": 203,
+    "file_name": "frame_0203.png",
+    "time_seconds": 6.7333,
+    "neck_x": 579.28,
+    "neck_y": 443.0,
+    "neck_angle": 2.32,
+    "dot_x": 580.44,
+    "dot_y": 414.26,
+    "chin_x": 579.28,
+    "chin_y": 443.0,
+    "angle": 2.32,
+    "vector_collar_to_head": {
+      "dx": -1.16,
+      "dy": 28.74,
+      "distance": 28.76
+    }
+  },
+  {
+    "frame": 204,
+    "file_name": "frame_0204.png",
+    "time_seconds": 6.7667,
+    "neck_x": 581.03,
+    "neck_y": 443.0,
+    "neck_angle": 2.53,
+    "dot_x": 582.3,
+    "dot_y": 414.21,
+    "chin_x": 581.03,
+    "chin_y": 443.0,
+    "angle": 2.53,
+    "vector_collar_to_head": {
+      "dx": -1.27,
+      "dy": 28.79,
+      "distance": 28.82
+    }
+  },
+  {
+    "frame": 205,
+    "file_name": "frame_0205.png",
+    "time_seconds": 6.8,
+    "neck_x": 582.87,
+    "neck_y": 443.0,
+    "neck_angle": 2.63,
+    "dot_x": 584.2,
+    "dot_y": 414.19,
+    "chin_x": 582.87,
+    "chin_y": 443.0,
+    "angle": 2.63,
+    "vector_collar_to_head": {
+      "dx": -1.32,
+      "dy": 28.81,
+      "distance": 28.84
+    }
+  },
+  {
+    "frame": 206,
+    "file_name": "frame_0206.png",
+    "time_seconds": 6.8333,
+    "neck_x": 584.64,
+    "neck_y": 443.0,
+    "neck_angle": 2.89,
+    "dot_x": 586.1,
+    "dot_y": 414.17,
+    "chin_x": 584.64,
+    "chin_y": 443.0,
+    "angle": 2.89,
+    "vector_collar_to_head": {
+      "dx": -1.46,
+      "dy": 28.83,
+      "distance": 28.87
+    }
+  },
+  {
+    "frame": 207,
+    "file_name": "frame_0207.png",
+    "time_seconds": 6.8667,
+    "neck_x": 586.19,
+    "neck_y": 443.0,
+    "neck_angle": 3.52,
+    "dot_x": 587.97,
+    "dot_y": 414.13,
+    "chin_x": 586.19,
+    "chin_y": 443.0,
+    "angle": 3.52,
+    "vector_collar_to_head": {
+      "dx": -1.78,
+      "dy": 28.87,
+      "distance": 28.93
+    }
+  },
+  {
+    "frame": 208,
+    "file_name": "frame_0208.png",
+    "time_seconds": 6.9,
+    "neck_x": 587.68,
+    "neck_y": 443.0,
+    "neck_angle": 4.05,
+    "dot_x": 589.73,
+    "dot_y": 414.07,
+    "chin_x": 587.68,
+    "chin_y": 443.0,
+    "angle": 4.05,
+    "vector_collar_to_head": {
+      "dx": -2.05,
+      "dy": 28.93,
+      "distance": 29.0
+    }
+  },
+  {
+    "frame": 209,
+    "file_name": "frame_0209.png",
+    "time_seconds": 6.9333,
+    "neck_x": 589.11,
+    "neck_y": 443.0,
+    "neck_angle": 4.4,
+    "dot_x": 591.34,
+    "dot_y": 414.05,
+    "chin_x": 589.11,
+    "chin_y": 443.0,
+    "angle": 4.4,
+    "vector_collar_to_head": {
+      "dx": -2.23,
+      "dy": 28.95,
+      "distance": 29.04
+    }
+  },
+  {
+    "frame": 210,
+    "file_name": "frame_0210.png",
+    "time_seconds": 6.9667,
+    "neck_x": 590.41,
+    "neck_y": 443.0,
+    "neck_angle": 4.52,
+    "dot_x": 592.69,
+    "dot_y": 414.04,
+    "chin_x": 590.41,
+    "chin_y": 443.0,
+    "angle": 4.52,
+    "vector_collar_to_head": {
+      "dx": -2.29,
+      "dy": 28.96,
+      "distance": 29.05
+    }
+  },
+  {
+    "frame": 211,
+    "file_name": "frame_0211.png",
+    "time_seconds": 7.0,
+    "neck_x": 591.48,
+    "neck_y": 443.0,
+    "neck_angle": 4.64,
+    "dot_x": 593.83,
+    "dot_y": 414.06,
+    "chin_x": 591.48,
+    "chin_y": 443.0,
+    "angle": 4.64,
+    "vector_collar_to_head": {
+      "dx": -2.35,
+      "dy": 28.94,
+      "distance": 29.03
+    }
+  },
+  {
+    "frame": 212,
+    "file_name": "frame_0212.png",
+    "time_seconds": 7.0333,
+    "neck_x": 592.21,
+    "neck_y": 443.0,
+    "neck_angle": 4.82,
+    "dot_x": 594.65,
+    "dot_y": 414.06,
+    "chin_x": 592.21,
+    "chin_y": 443.0,
+    "angle": 4.82,
+    "vector_collar_to_head": {
+      "dx": -2.44,
+      "dy": 28.94,
+      "distance": 29.04
+    }
+  },
+  {
+    "frame": 213,
+    "file_name": "frame_0213.png",
+    "time_seconds": 7.0667,
+    "neck_x": 592.71,
+    "neck_y": 443.0,
+    "neck_angle": 4.89,
+    "dot_x": 595.19,
+    "dot_y": 414.07,
+    "chin_x": 592.71,
+    "chin_y": 443.0,
+    "angle": 4.89,
+    "vector_collar_to_head": {
+      "dx": -2.47,
+      "dy": 28.93,
+      "distance": 29.04
+    }
+  },
+  {
+    "frame": 214,
+    "file_name": "frame_0214.png",
+    "time_seconds": 7.1,
+    "neck_x": 592.8,
+    "neck_y": 443.0,
+    "neck_angle": 4.96,
+    "dot_x": 595.3,
+    "dot_y": 414.09,
+    "chin_x": 592.8,
+    "chin_y": 443.0,
+    "angle": 4.96,
+    "vector_collar_to_head": {
+      "dx": -2.51,
+      "dy": 28.91,
+      "distance": 29.01
+    }
+  },
+  {
+    "frame": 215,
+    "file_name": "frame_0215.png",
+    "time_seconds": 7.1333,
+    "neck_x": 592.26,
+    "neck_y": 443.0,
+    "neck_angle": 5.0,
+    "dot_x": 594.79,
+    "dot_y": 414.09,
+    "chin_x": 592.26,
+    "chin_y": 443.0,
+    "angle": 5.0,
+    "vector_collar_to_head": {
+      "dx": -2.53,
+      "dy": 28.91,
+      "distance": 29.02
+    }
+  },
+  {
+    "frame": 216,
+    "file_name": "frame_0216.png",
+    "time_seconds": 7.1667,
+    "neck_x": 591.09,
+    "neck_y": 443.0,
+    "neck_angle": 4.89,
+    "dot_x": 593.56,
+    "dot_y": 414.09,
+    "chin_x": 591.09,
+    "chin_y": 443.0,
+    "angle": 4.89,
+    "vector_collar_to_head": {
+      "dx": -2.47,
+      "dy": 28.91,
+      "distance": 29.01
+    }
+  },
+  {
+    "frame": 217,
+    "file_name": "frame_0217.png",
+    "time_seconds": 7.2,
+    "neck_x": 589.18,
+    "neck_y": 443.0,
+    "neck_angle": 4.73,
+    "dot_x": 591.58,
+    "dot_y": 414.11,
+    "chin_x": 589.18,
+    "chin_y": 443.0,
+    "angle": 4.73,
+    "vector_collar_to_head": {
+      "dx": -2.39,
+      "dy": 28.89,
+      "distance": 28.99
+    }
+  },
+  {
+    "frame": 218,
+    "file_name": "frame_0218.png",
+    "time_seconds": 7.2333,
+    "neck_x": 586.78,
+    "neck_y": 443.0,
+    "neck_angle": 4.3,
+    "dot_x": 588.95,
+    "dot_y": 414.15,
+    "chin_x": 586.78,
+    "chin_y": 443.0,
+    "angle": 4.3,
+    "vector_collar_to_head": {
+      "dx": -2.17,
+      "dy": 28.85,
+      "distance": 28.93
+    }
+  },
+  {
+    "frame": 219,
+    "file_name": "frame_0219.png",
+    "time_seconds": 7.2667,
+    "neck_x": 583.87,
+    "neck_y": 443.0,
+    "neck_angle": 3.79,
+    "dot_x": 585.78,
+    "dot_y": 414.25,
+    "chin_x": 583.87,
+    "chin_y": 443.0,
+    "angle": 3.79,
+    "vector_collar_to_head": {
+      "dx": -1.91,
+      "dy": 28.75,
+      "distance": 28.82
+    }
+  },
+  {
+    "frame": 220,
+    "file_name": "frame_0220.png",
+    "time_seconds": 7.3,
+    "neck_x": 580.52,
+    "neck_y": 443.0,
+    "neck_angle": 3.17,
+    "dot_x": 582.1,
+    "dot_y": 414.36,
+    "chin_x": 580.52,
+    "chin_y": 443.0,
+    "angle": 3.17,
+    "vector_collar_to_head": {
+      "dx": -1.59,
+      "dy": 28.64,
+      "distance": 28.69
+    }
+  },
+  {
+    "frame": 221,
+    "file_name": "frame_0221.png",
+    "time_seconds": 7.3333,
+    "neck_x": 576.75,
+    "neck_y": 443.0,
+    "neck_angle": 2.73,
+    "dot_x": 578.1,
+    "dot_y": 414.6,
+    "chin_x": 576.75,
+    "chin_y": 443.0,
+    "angle": 2.73,
+    "vector_collar_to_head": {
+      "dx": -1.36,
+      "dy": 28.4,
+      "distance": 28.44
+    }
+  },
+  {
+    "frame": 222,
+    "file_name": "frame_0222.png",
+    "time_seconds": 7.3667,
+    "neck_x": 572.68,
+    "neck_y": 443.33,
+    "neck_angle": 2.39,
+    "dot_x": 573.87,
+    "dot_y": 414.9,
+    "chin_x": 572.68,
+    "chin_y": 443.33,
+    "angle": 2.39,
+    "vector_collar_to_head": {
+      "dx": -1.19,
+      "dy": 28.43,
+      "distance": 28.46
+    }
+  },
+  {
+    "frame": 223,
+    "file_name": "frame_0223.png",
+    "time_seconds": 7.4,
+    "neck_x": 568.42,
+    "neck_y": 444.0,
+    "neck_angle": 2.15,
+    "dot_x": 569.5,
+    "dot_y": 415.23,
+    "chin_x": 568.42,
+    "chin_y": 444.0,
+    "angle": 2.15,
+    "vector_collar_to_head": {
+      "dx": -1.08,
+      "dy": 28.77,
+      "distance": 28.79
+    }
+  },
+  {
+    "frame": 224,
+    "file_name": "frame_0224.png",
+    "time_seconds": 7.4333,
+    "neck_x": 564.11,
+    "neck_y": 444.67,
+    "neck_angle": 1.83,
+    "dot_x": 565.04,
+    "dot_y": 415.49,
+    "chin_x": 564.11,
+    "chin_y": 444.67,
+    "angle": 1.83,
+    "vector_collar_to_head": {
+      "dx": -0.93,
+      "dy": 29.17,
+      "distance": 29.19
+    }
+  },
+  {
+    "frame": 225,
+    "file_name": "frame_0225.png",
+    "time_seconds": 7.4667,
+    "neck_x": 559.83,
+    "neck_y": 445.0,
+    "neck_angle": 1.31,
+    "dot_x": 560.5,
+    "dot_y": 415.73,
+    "chin_x": 559.83,
+    "chin_y": 445.0,
+    "angle": 1.31,
+    "vector_collar_to_head": {
+      "dx": -0.67,
+      "dy": 29.27,
+      "distance": 29.27
+    }
+  },
+  {
+    "frame": 226,
+    "file_name": "frame_0226.png",
+    "time_seconds": 7.5,
+    "neck_x": 555.72,
+    "neck_y": 445.0,
+    "neck_angle": 0.66,
+    "dot_x": 556.05,
+    "dot_y": 416.03,
+    "chin_x": 555.72,
+    "chin_y": 445.0,
+    "angle": 0.66,
+    "vector_collar_to_head": {
+      "dx": -0.33,
+      "dy": 28.97,
+      "distance": 28.97
+    }
+  },
+  {
+    "frame": 227,
+    "file_name": "frame_0227.png",
+    "time_seconds": 7.5333,
+    "neck_x": 551.73,
+    "neck_y": 445.0,
+    "neck_angle": 0.1,
+    "dot_x": 551.78,
+    "dot_y": 416.39,
+    "chin_x": 551.73,
+    "chin_y": 445.0,
+    "angle": 0.1,
+    "vector_collar_to_head": {
+      "dx": -0.05,
+      "dy": 28.61,
+      "distance": 28.61
+    }
+  },
+  {
+    "frame": 228,
+    "file_name": "frame_0228.png",
+    "time_seconds": 7.5667,
+    "neck_x": 547.94,
+    "neck_y": 445.33,
+    "neck_angle": -0.3,
+    "dot_x": 547.79,
+    "dot_y": 416.89,
+    "chin_x": 547.94,
+    "chin_y": 445.33,
+    "angle": -0.3,
+    "vector_collar_to_head": {
+      "dx": 0.15,
+      "dy": 28.45,
+      "distance": 28.45
+    }
+  },
+  {
+    "frame": 229,
+    "file_name": "frame_0229.png",
+    "time_seconds": 7.6,
+    "neck_x": 544.45,
+    "neck_y": 446.0,
+    "neck_angle": -0.44,
+    "dot_x": 544.23,
+    "dot_y": 417.29,
+    "chin_x": 544.45,
+    "chin_y": 446.0,
+    "angle": -0.44,
+    "vector_collar_to_head": {
+      "dx": 0.22,
+      "dy": 28.71,
+      "distance": 28.72
+    }
+  },
+  {
+    "frame": 230,
+    "file_name": "frame_0230.png",
+    "time_seconds": 7.6333,
+    "neck_x": 541.51,
+    "neck_y": 446.67,
+    "neck_angle": -0.77,
+    "dot_x": 541.12,
+    "dot_y": 417.68,
+    "chin_x": 541.51,
+    "chin_y": 446.67,
+    "angle": -0.77,
+    "vector_collar_to_head": {
+      "dx": 0.39,
+      "dy": 28.98,
+      "distance": 28.98
+    }
+  },
+  {
+    "frame": 231,
+    "file_name": "frame_0231.png",
+    "time_seconds": 7.6667,
+    "neck_x": 539.07,
+    "neck_y": 447.0,
+    "neck_angle": -1.04,
+    "dot_x": 538.54,
+    "dot_y": 417.91,
+    "chin_x": 539.07,
+    "chin_y": 447.0,
+    "angle": -1.04,
+    "vector_collar_to_head": {
+      "dx": 0.53,
+      "dy": 29.09,
+      "distance": 29.09
+    }
+  },
+  {
+    "frame": 232,
+    "file_name": "frame_0232.png",
+    "time_seconds": 7.7,
+    "neck_x": 537.31,
+    "neck_y": 447.0,
+    "neck_angle": -1.42,
+    "dot_x": 536.6,
+    "dot_y": 418.14,
+    "chin_x": 537.31,
+    "chin_y": 447.0,
+    "angle": -1.42,
+    "vector_collar_to_head": {
+      "dx": 0.72,
+      "dy": 28.86,
+      "distance": 28.87
+    }
+  },
+  {
+    "frame": 233,
+    "file_name": "frame_0233.png",
+    "time_seconds": 7.7333,
+    "neck_x": 536.13,
+    "neck_y": 447.0,
+    "neck_angle": -1.52,
+    "dot_x": 535.37,
+    "dot_y": 418.23,
+    "chin_x": 536.13,
+    "chin_y": 447.0,
+    "angle": -1.52,
+    "vector_collar_to_head": {
+      "dx": 0.76,
+      "dy": 28.77,
+      "distance": 28.78
+    }
+  },
+  {
+    "frame": 234,
+    "file_name": "frame_0234.png",
+    "time_seconds": 7.7667,
+    "neck_x": 535.77,
+    "neck_y": 447.0,
+    "neck_angle": -1.54,
+    "dot_x": 535.0,
+    "dot_y": 418.28,
+    "chin_x": 535.77,
+    "chin_y": 447.0,
+    "angle": -1.54,
+    "vector_collar_to_head": {
+      "dx": 0.77,
+      "dy": 28.72,
+      "distance": 28.73
+    }
+  },
+  {
+    "frame": 235,
+    "file_name": "frame_0235.png",
+    "time_seconds": 7.8,
+    "neck_x": 536.13,
+    "neck_y": 447.0,
+    "neck_angle": -1.57,
+    "dot_x": 535.34,
+    "dot_y": 418.25,
+    "chin_x": 536.13,
+    "chin_y": 447.0,
+    "angle": -1.57,
+    "vector_collar_to_head": {
+      "dx": 0.79,
+      "dy": 28.75,
+      "distance": 28.76
+    }
+  },
+  {
+    "frame": 236,
+    "file_name": "frame_0236.png",
+    "time_seconds": 7.8333,
+    "neck_x": 537.26,
+    "neck_y": 447.0,
+    "neck_angle": -1.43,
+    "dot_x": 536.54,
+    "dot_y": 418.15,
+    "chin_x": 537.26,
+    "chin_y": 447.0,
+    "angle": -1.43,
+    "vector_collar_to_head": {
+      "dx": 0.72,
+      "dy": 28.85,
+      "distance": 28.86
+    }
+  },
+  {
+    "frame": 237,
+    "file_name": "frame_0237.png",
+    "time_seconds": 7.8667,
+    "neck_x": 539.03,
+    "neck_y": 447.0,
+    "neck_angle": -1.03,
+    "dot_x": 538.51,
+    "dot_y": 417.9,
+    "chin_x": 539.03,
+    "chin_y": 447.0,
+    "angle": -1.03,
+    "vector_collar_to_head": {
+      "dx": 0.52,
+      "dy": 29.1,
+      "distance": 29.1
+    }
+  },
+  {
+    "frame": 238,
+    "file_name": "frame_0238.png",
+    "time_seconds": 7.9,
+    "neck_x": 541.49,
+    "neck_y": 446.67,
+    "neck_angle": -0.74,
+    "dot_x": 541.12,
+    "dot_y": 417.68,
+    "chin_x": 541.49,
+    "chin_y": 446.67,
+    "angle": -0.74,
+    "vector_collar_to_head": {
+      "dx": 0.37,
+      "dy": 28.99,
+      "distance": 28.99
+    }
+  },
+  {
+    "frame": 239,
+    "file_name": "frame_0239.png",
+    "time_seconds": 7.9333,
+    "neck_x": 544.47,
+    "neck_y": 446.0,
+    "neck_angle": -0.43,
+    "dot_x": 544.25,
+    "dot_y": 417.34,
+    "chin_x": 544.47,
+    "chin_y": 446.0,
+    "angle": -0.43,
+    "vector_collar_to_head": {
+      "dx": 0.22,
+      "dy": 28.66,
+      "distance": 28.66
+    }
+  },
+  {
+    "frame": 240,
+    "file_name": "frame_0240.png",
+    "time_seconds": 7.9667,
+    "neck_x": 547.94,
+    "neck_y": 445.33,
+    "neck_angle": -0.24,
+    "dot_x": 547.82,
+    "dot_y": 416.96,
+    "chin_x": 547.94,
+    "chin_y": 445.33,
+    "angle": -0.24,
+    "vector_collar_to_head": {
+      "dx": 0.12,
+      "dy": 28.38,
+      "distance": 28.38
+    }
+  },
+  {
+    "frame": 241,
+    "file_name": "frame_0241.png",
+    "time_seconds": 8.0,
+    "neck_x": 551.69,
+    "neck_y": 445.0,
+    "neck_angle": 0.19,
+    "dot_x": 551.79,
+    "dot_y": 416.46,
+    "chin_x": 551.69,
+    "chin_y": 445.0,
+    "angle": 0.19,
+    "vector_collar_to_head": {
+      "dx": -0.1,
+      "dy": 28.54,
+      "distance": 28.54
+    }
+  },
+  {
+    "frame": 242,
+    "file_name": "frame_0242.png",
+    "time_seconds": 8.0333,
+    "neck_x": 555.69,
+    "neck_y": 445.0,
+    "neck_angle": 0.72,
+    "dot_x": 556.06,
+    "dot_y": 416.04,
+    "chin_x": 555.69,
+    "chin_y": 445.0,
+    "angle": 0.72,
+    "vector_collar_to_head": {
+      "dx": -0.37,
+      "dy": 28.96,
+      "distance": 28.97
+    }
+  },
+  {
+    "frame": 243,
+    "file_name": "frame_0243.png",
+    "time_seconds": 8.0667,
+    "neck_x": 559.83,
+    "neck_y": 445.0,
+    "neck_angle": 1.33,
+    "dot_x": 560.51,
+    "dot_y": 415.72,
+    "chin_x": 559.83,
+    "chin_y": 445.0,
+    "angle": 1.33,
+    "vector_collar_to_head": {
+      "dx": -0.68,
+      "dy": 29.28,
+      "distance": 29.29
+    }
+  },
+  {
+    "frame": 244,
+    "file_name": "frame_0244.png",
+    "time_seconds": 8.1,
+    "neck_x": 564.1,
+    "neck_y": 444.67,
+    "neck_angle": 1.88,
+    "dot_x": 565.06,
+    "dot_y": 415.47,
+    "chin_x": 564.1,
+    "chin_y": 444.67,
+    "angle": 1.88,
+    "vector_collar_to_head": {
+      "dx": -0.96,
+      "dy": 29.2,
+      "distance": 29.21
+    }
+  },
+  {
+    "frame": 245,
+    "file_name": "frame_0245.png",
+    "time_seconds": 8.1333,
+    "neck_x": 568.41,
+    "neck_y": 444.0,
+    "neck_angle": 2.21,
+    "dot_x": 569.52,
+    "dot_y": 415.21,
+    "chin_x": 568.41,
+    "chin_y": 444.0,
+    "angle": 2.21,
+    "vector_collar_to_head": {
+      "dx": -1.11,
+      "dy": 28.79,
+      "distance": 28.81
+    }
+  },
+  {
+    "frame": 246,
+    "file_name": "frame_0246.png",
+    "time_seconds": 8.1667,
+    "neck_x": 572.68,
+    "neck_y": 443.33,
+    "neck_angle": 2.44,
+    "dot_x": 573.89,
+    "dot_y": 414.89,
+    "chin_x": 572.68,
+    "chin_y": 443.33,
+    "angle": 2.44,
+    "vector_collar_to_head": {
+      "dx": -1.21,
+      "dy": 28.44,
+      "distance": 28.47
+    }
+  },
+  {
+    "frame": 247,
+    "file_name": "frame_0247.png",
+    "time_seconds": 8.2,
+    "neck_x": 576.77,
+    "neck_y": 443.0,
+    "neck_angle": 2.68,
+    "dot_x": 578.1,
+    "dot_y": 414.59,
+    "chin_x": 576.77,
+    "chin_y": 443.0,
+    "angle": 2.68,
+    "vector_collar_to_head": {
+      "dx": -1.33,
+      "dy": 28.41,
+      "distance": 28.44
+    }
+  },
+  {
+    "frame": 248,
+    "file_name": "frame_0248.png",
+    "time_seconds": 8.2333,
+    "neck_x": 580.57,
+    "neck_y": 443.0,
+    "neck_angle": 3.06,
+    "dot_x": 582.1,
+    "dot_y": 414.36,
+    "chin_x": 580.57,
+    "chin_y": 443.0,
+    "angle": 3.06,
+    "vector_collar_to_head": {
+      "dx": -1.53,
+      "dy": 28.64,
+      "distance": 28.68
+    }
+  },
+  {
+    "frame": 249,
+    "file_name": "frame_0249.png",
+    "time_seconds": 8.2667,
+    "neck_x": 583.93,
+    "neck_y": 443.0,
+    "neck_angle": 3.62,
+    "dot_x": 585.75,
+    "dot_y": 414.27,
+    "chin_x": 583.93,
+    "chin_y": 443.0,
+    "angle": 3.62,
+    "vector_collar_to_head": {
+      "dx": -1.82,
+      "dy": 28.73,
+      "distance": 28.79
+    }
+  },
+  {
+    "frame": 250,
+    "file_name": "frame_0250.png",
+    "time_seconds": 8.3,
+    "neck_x": 586.79,
+    "neck_y": 443.0,
+    "neck_angle": 4.23,
+    "dot_x": 588.92,
+    "dot_y": 414.16,
+    "chin_x": 586.79,
+    "chin_y": 443.0,
+    "angle": 4.23,
+    "vector_collar_to_head": {
+      "dx": -2.13,
+      "dy": 28.84,
+      "distance": 28.91
+    }
+  },
+  {
+    "frame": 251,
+    "file_name": "frame_0251.png",
+    "time_seconds": 8.3333,
+    "neck_x": 589.16,
+    "neck_y": 443.0,
+    "neck_angle": 4.68,
+    "dot_x": 591.53,
+    "dot_y": 414.1,
+    "chin_x": 589.16,
+    "chin_y": 443.0,
+    "angle": 4.68,
+    "vector_collar_to_head": {
+      "dx": -2.37,
+      "dy": 28.9,
+      "distance": 28.99
+    }
+  },
+  {
+    "frame": 252,
+    "file_name": "frame_0252.png",
+    "time_seconds": 8.3667,
+    "neck_x": 591.06,
+    "neck_y": 443.0,
+    "neck_angle": 4.89,
+    "dot_x": 593.54,
+    "dot_y": 414.08,
+    "chin_x": 591.06,
+    "chin_y": 443.0,
+    "angle": 4.89,
+    "vector_collar_to_head": {
+      "dx": -2.47,
+      "dy": 28.92,
+      "distance": 29.03
+    }
+  },
+  {
+    "frame": 253,
+    "file_name": "frame_0253.png",
+    "time_seconds": 8.4,
+    "neck_x": 592.27,
+    "neck_y": 443.0,
+    "neck_angle": 4.94,
+    "dot_x": 594.77,
+    "dot_y": 414.1,
+    "chin_x": 592.27,
+    "chin_y": 443.0,
+    "angle": 4.94,
+    "vector_collar_to_head": {
+      "dx": -2.5,
+      "dy": 28.9,
+      "distance": 29.01
+    }
+  },
+  {
+    "frame": 254,
+    "file_name": "frame_0254.png",
+    "time_seconds": 8.4333,
+    "neck_x": 592.73,
+    "neck_y": 443.0,
+    "neck_angle": 5.0,
+    "dot_x": 595.26,
+    "dot_y": 414.13,
+    "chin_x": 592.73,
+    "chin_y": 443.0,
+    "angle": 5.0,
+    "vector_collar_to_head": {
+      "dx": -2.52,
+      "dy": 28.87,
+      "distance": 28.98
+    }
+  },
+  {
+    "frame": 255,
+    "file_name": "frame_0255.png",
+    "time_seconds": 8.4667,
+    "neck_x": 592.26,
+    "neck_y": 443.0,
+    "neck_angle": 5.0,
+    "dot_x": 594.79,
+    "dot_y": 414.14,
+    "chin_x": 592.26,
+    "chin_y": 443.0,
+    "angle": 5.0,
+    "vector_collar_to_head": {
+      "dx": -2.53,
+      "dy": 28.86,
+      "distance": 28.97
+    }
+  },
+  {
+    "frame": 256,
+    "file_name": "frame_0256.png",
+    "time_seconds": 8.5,
+    "neck_x": 591.09,
+    "neck_y": 443.0,
+    "neck_angle": 4.92,
+    "dot_x": 593.58,
+    "dot_y": 414.13,
+    "chin_x": 591.09,
+    "chin_y": 443.0,
+    "angle": 4.92,
+    "vector_collar_to_head": {
+      "dx": -2.49,
+      "dy": 28.87,
+      "distance": 28.98
+    }
+  },
+  {
+    "frame": 257,
+    "file_name": "frame_0257.png",
+    "time_seconds": 8.5333,
+    "neck_x": 589.18,
+    "neck_y": 443.0,
+    "neck_angle": 4.75,
+    "dot_x": 591.57,
+    "dot_y": 414.16,
+    "chin_x": 589.18,
+    "chin_y": 443.0,
+    "angle": 4.75,
+    "vector_collar_to_head": {
+      "dx": -2.4,
+      "dy": 28.84,
+      "distance": 28.94
+    }
+  },
+  {
+    "frame": 258,
+    "file_name": "frame_0258.png",
+    "time_seconds": 8.5667,
+    "neck_x": 586.76,
+    "neck_y": 443.0,
+    "neck_angle": 4.35,
+    "dot_x": 588.95,
+    "dot_y": 414.18,
+    "chin_x": 586.76,
+    "chin_y": 443.0,
+    "angle": 4.35,
+    "vector_collar_to_head": {
+      "dx": -2.19,
+      "dy": 28.82,
+      "distance": 28.9
+    }
+  },
+  {
+    "frame": 259,
+    "file_name": "frame_0259.png",
+    "time_seconds": 8.6,
+    "neck_x": 583.85,
+    "neck_y": 443.0,
+    "neck_angle": 3.8,
+    "dot_x": 585.76,
+    "dot_y": 414.27,
+    "chin_x": 583.85,
+    "chin_y": 443.0,
+    "angle": 3.8,
+    "vector_collar_to_head": {
+      "dx": -1.91,
+      "dy": 28.73,
+      "distance": 28.79
+    }
+  },
+  {
+    "frame": 260,
+    "file_name": "frame_0260.png",
+    "time_seconds": 8.6333,
+    "neck_x": 580.51,
+    "neck_y": 443.0,
+    "neck_angle": 3.22,
+    "dot_x": 582.12,
+    "dot_y": 414.37,
+    "chin_x": 580.51,
+    "chin_y": 443.0,
+    "angle": 3.22,
+    "vector_collar_to_head": {
+      "dx": -1.61,
+      "dy": 28.63,
+      "distance": 28.68
+    }
+  },
+  {
+    "frame": 261,
+    "file_name": "frame_0261.png",
+    "time_seconds": 8.6667,
+    "neck_x": 576.76,
+    "neck_y": 443.0,
+    "neck_angle": 2.73,
+    "dot_x": 578.11,
+    "dot_y": 414.6,
+    "chin_x": 576.76,
+    "chin_y": 443.0,
+    "angle": 2.73,
+    "vector_collar_to_head": {
+      "dx": -1.35,
+      "dy": 28.4,
+      "distance": 28.44
+    }
+  },
+  {
+    "frame": 262,
+    "file_name": "frame_0262.png",
+    "time_seconds": 8.7,
+    "neck_x": 572.74,
+    "neck_y": 443.0,
+    "neck_angle": 2.35,
+    "dot_x": 573.9,
+    "dot_y": 414.89,
+    "chin_x": 572.74,
+    "chin_y": 443.0,
+    "angle": 2.35,
+    "vector_collar_to_head": {
+      "dx": -1.16,
+      "dy": 28.11,
+      "distance": 28.13
+    }
+  },
+  {
+    "frame": 263,
+    "file_name": "frame_0263.png",
+    "time_seconds": 8.7333,
+    "neck_x": 568.53,
+    "neck_y": 443.67,
+    "neck_angle": 1.98,
+    "dot_x": 569.51,
+    "dot_y": 415.21,
+    "chin_x": 568.53,
+    "chin_y": 443.67,
+    "angle": 1.98,
+    "vector_collar_to_head": {
+      "dx": -0.98,
+      "dy": 28.46,
+      "distance": 28.47
+    }
+  },
+  {
+    "frame": 264,
+    "file_name": "frame_0264.png",
+    "time_seconds": 8.7667,
+    "neck_x": 564.22,
+    "neck_y": 444.33,
+    "neck_angle": 1.63,
+    "dot_x": 565.04,
+    "dot_y": 415.46,
+    "chin_x": 564.22,
+    "chin_y": 444.33,
+    "angle": 1.63,
+    "vector_collar_to_head": {
+      "dx": -0.82,
+      "dy": 28.87,
+      "distance": 28.88
+    }
+  },
+  {
+    "frame": 265,
+    "file_name": "frame_0265.png",
+    "time_seconds": 8.8,
+    "neck_x": 559.9,
+    "neck_y": 445.0,
+    "neck_angle": 1.17,
+    "dot_x": 560.51,
+    "dot_y": 415.72,
+    "chin_x": 559.9,
+    "chin_y": 445.0,
+    "angle": 1.17,
+    "vector_collar_to_head": {
+      "dx": -0.6,
+      "dy": 29.28,
+      "distance": 29.29
+    }
+  },
+  {
+    "frame": 266,
+    "file_name": "frame_0266.png",
+    "time_seconds": 8.8333,
+    "neck_x": 555.73,
+    "neck_y": 445.0,
+    "neck_angle": 0.64,
+    "dot_x": 556.05,
+    "dot_y": 416.01,
+    "chin_x": 555.73,
+    "chin_y": 445.0,
+    "angle": 0.64,
+    "vector_collar_to_head": {
+      "dx": -0.33,
+      "dy": 28.99,
+      "distance": 28.99
+    }
+  },
+  {
+    "frame": 267,
+    "file_name": "frame_0267.png",
+    "time_seconds": 8.8667,
+    "neck_x": 551.75,
+    "neck_y": 445.0,
+    "neck_angle": 0.07,
+    "dot_x": 551.79,
+    "dot_y": 416.48,
+    "chin_x": 551.75,
+    "chin_y": 445.0,
+    "angle": 0.07,
+    "vector_collar_to_head": {
+      "dx": -0.04,
+      "dy": 28.52,
+      "distance": 28.52
+    }
+  },
+  {
+    "frame": 268,
+    "file_name": "frame_0268.png",
+    "time_seconds": 8.9,
+    "neck_x": 547.97,
+    "neck_y": 445.33,
+    "neck_angle": -0.32,
+    "dot_x": 547.81,
+    "dot_y": 416.97,
+    "chin_x": 547.97,
+    "chin_y": 445.33,
+    "angle": -0.32,
+    "vector_collar_to_head": {
+      "dx": 0.16,
+      "dy": 28.37,
+      "distance": 28.37
+    }
+  },
+  {
+    "frame": 269,
+    "file_name": "frame_0269.png",
+    "time_seconds": 8.9333,
+    "neck_x": 544.5,
+    "neck_y": 446.0,
+    "neck_angle": -0.5,
+    "dot_x": 544.26,
+    "dot_y": 417.38,
+    "chin_x": 544.5,
+    "chin_y": 446.0,
+    "angle": -0.5,
+    "vector_collar_to_head": {
+      "dx": 0.25,
+      "dy": 28.62,
+      "distance": 28.62
+    }
+  },
+  {
+    "frame": 270,
+    "file_name": "frame_0270.png",
+    "time_seconds": 8.9667,
+    "neck_x": 541.51,
+    "neck_y": 446.67,
+    "neck_angle": -0.78,
+    "dot_x": 541.11,
+    "dot_y": 417.69,
+    "chin_x": 541.51,
+    "chin_y": 446.67,
+    "angle": -0.78,
+    "vector_collar_to_head": {
+      "dx": 0.4,
+      "dy": 28.98,
+      "distance": 28.98
+    }
+  },
+  {
+    "frame": 271,
+    "file_name": "frame_0271.png",
+    "time_seconds": 9.0,
+    "neck_x": 539.07,
+    "neck_y": 447.0,
+    "neck_angle": -1.11,
+    "dot_x": 538.51,
+    "dot_y": 417.92,
+    "chin_x": 539.07,
+    "chin_y": 447.0,
+    "angle": -1.11,
+    "vector_collar_to_head": {
+      "dx": 0.56,
+      "dy": 29.08,
+      "distance": 29.08
+    }
+  },
+  {
+    "frame": 272,
+    "file_name": "frame_0272.png",
+    "time_seconds": 9.0333,
+    "neck_x": 537.3,
+    "neck_y": 447.0,
+    "neck_angle": -1.51,
+    "dot_x": 536.54,
+    "dot_y": 418.15,
+    "chin_x": 537.3,
+    "chin_y": 447.0,
+    "angle": -1.51,
+    "vector_collar_to_head": {
+      "dx": 0.76,
+      "dy": 28.85,
+      "distance": 28.86
+    }
+  },
+  {
+    "frame": 273,
+    "file_name": "frame_0273.png",
+    "time_seconds": 9.0667,
+    "neck_x": 536.19,
+    "neck_y": 447.0,
+    "neck_angle": -1.63,
+    "dot_x": 535.37,
+    "dot_y": 418.25,
+    "chin_x": 536.19,
+    "chin_y": 447.0,
+    "angle": -1.63,
+    "vector_collar_to_head": {
+      "dx": 0.82,
+      "dy": 28.75,
+      "distance": 28.77
+    }
+  },
+  {
+    "frame": 274,
+    "file_name": "frame_0274.png",
+    "time_seconds": 9.1,
+    "neck_x": 535.8,
+    "neck_y": 447.0,
+    "neck_angle": -1.56,
+    "dot_x": 535.01,
+    "dot_y": 418.29,
+    "chin_x": 535.8,
+    "chin_y": 447.0,
+    "angle": -1.56,
+    "vector_collar_to_head": {
+      "dx": 0.78,
+      "dy": 28.71,
+      "distance": 28.72
+    }
+  },
+  {
+    "frame": 275,
+    "file_name": "frame_0275.png",
+    "time_seconds": 9.1333,
+    "neck_x": 536.13,
+    "neck_y": 447.0,
+    "neck_angle": -1.52,
+    "dot_x": 535.37,
+    "dot_y": 418.24,
+    "chin_x": 536.13,
+    "chin_y": 447.0,
+    "angle": -1.52,
+    "vector_collar_to_head": {
+      "dx": 0.76,
+      "dy": 28.76,
+      "distance": 28.77
+    }
+  },
+  {
+    "frame": 276,
+    "file_name": "frame_0276.png",
+    "time_seconds": 9.1667,
+    "neck_x": 537.24,
+    "neck_y": 447.0,
+    "neck_angle": -1.37,
+    "dot_x": 536.56,
+    "dot_y": 418.15,
+    "chin_x": 537.24,
+    "chin_y": 447.0,
+    "angle": -1.37,
+    "vector_collar_to_head": {
+      "dx": 0.69,
+      "dy": 28.85,
+      "distance": 28.86
+    }
+  },
+  {
+    "frame": 277,
+    "file_name": "frame_0277.png",
+    "time_seconds": 9.2,
+    "neck_x": 539.04,
+    "neck_y": 447.0,
+    "neck_angle": -0.99,
+    "dot_x": 538.53,
+    "dot_y": 417.9,
+    "chin_x": 539.04,
+    "chin_y": 447.0,
+    "angle": -0.99,
+    "vector_collar_to_head": {
+      "dx": 0.5,
+      "dy": 29.1,
+      "distance": 29.1
+    }
+  },
+  {
+    "frame": 278,
+    "file_name": "frame_0278.png",
+    "time_seconds": 9.2333,
+    "neck_x": 541.47,
+    "neck_y": 446.67,
+    "neck_angle": -0.69,
+    "dot_x": 541.12,
+    "dot_y": 417.67,
+    "chin_x": 541.47,
+    "chin_y": 446.67,
+    "angle": -0.69,
+    "vector_collar_to_head": {
+      "dx": 0.35,
+      "dy": 28.99,
+      "distance": 29.0
+    }
+  },
+  {
+    "frame": 279,
+    "file_name": "frame_0279.png",
+    "time_seconds": 9.2667,
+    "neck_x": 544.45,
+    "neck_y": 446.0,
+    "neck_angle": -0.38,
+    "dot_x": 544.26,
+    "dot_y": 417.32,
+    "chin_x": 544.45,
+    "chin_y": 446.0,
+    "angle": -0.38,
+    "vector_collar_to_head": {
+      "dx": 0.19,
+      "dy": 28.68,
+      "distance": 28.68
+    }
+  },
+  {
+    "frame": 280,
+    "file_name": "frame_0280.png",
+    "time_seconds": 9.3,
+    "neck_x": 547.93,
+    "neck_y": 445.33,
+    "neck_angle": -0.25,
+    "dot_x": 547.81,
+    "dot_y": 416.94,
+    "chin_x": 547.93,
+    "chin_y": 445.33,
+    "angle": -0.25,
+    "vector_collar_to_head": {
+      "dx": 0.12,
+      "dy": 28.39,
+      "distance": 28.39
+    }
+  },
+  {
+    "frame": 281,
+    "file_name": "frame_0281.png",
+    "time_seconds": 9.3333,
+    "neck_x": 551.72,
+    "neck_y": 445.0,
+    "neck_angle": 0.15,
+    "dot_x": 551.79,
+    "dot_y": 416.46,
+    "chin_x": 551.72,
+    "chin_y": 445.0,
+    "angle": 0.15,
+    "vector_collar_to_head": {
+      "dx": -0.07,
+      "dy": 28.54,
+      "distance": 28.54
+    }
+  },
+  {
+    "frame": 282,
+    "file_name": "frame_0282.png",
+    "time_seconds": 9.3667,
+    "neck_x": 555.7,
+    "neck_y": 445.0,
+    "neck_angle": 0.67,
+    "dot_x": 556.05,
+    "dot_y": 416.05,
+    "chin_x": 555.7,
+    "chin_y": 445.0,
+    "angle": 0.67,
+    "vector_collar_to_head": {
+      "dx": -0.34,
+      "dy": 28.95,
+      "distance": 28.96
+    }
+  },
+  {
+    "frame": 283,
+    "file_name": "frame_0283.png",
+    "time_seconds": 9.4,
+    "neck_x": 559.82,
+    "neck_y": 445.0,
+    "neck_angle": 1.33,
+    "dot_x": 560.5,
+    "dot_y": 415.73,
+    "chin_x": 559.82,
+    "chin_y": 445.0,
+    "angle": 1.33,
+    "vector_collar_to_head": {
+      "dx": -0.68,
+      "dy": 29.27,
+      "distance": 29.28
+    }
+  },
+  {
+    "frame": 284,
+    "file_name": "frame_0284.png",
+    "time_seconds": 9.4333,
+    "neck_x": 564.1,
+    "neck_y": 444.67,
+    "neck_angle": 1.83,
+    "dot_x": 565.04,
+    "dot_y": 415.48,
+    "chin_x": 564.1,
+    "chin_y": 444.67,
+    "angle": 1.83,
+    "vector_collar_to_head": {
+      "dx": -0.93,
+      "dy": 29.19,
+      "distance": 29.21
+    }
+  },
+  {
+    "frame": 285,
+    "file_name": "frame_0285.png",
+    "time_seconds": 9.4667,
+    "neck_x": 568.41,
+    "neck_y": 444.0,
+    "neck_angle": 2.18,
+    "dot_x": 569.51,
+    "dot_y": 415.22,
+    "chin_x": 568.41,
+    "chin_y": 444.0,
+    "angle": 2.18,
+    "vector_collar_to_head": {
+      "dx": -1.09,
+      "dy": 28.78,
+      "distance": 28.8
+    }
+  },
+  {
+    "frame": 286,
+    "file_name": "frame_0286.png",
+    "time_seconds": 9.5,
+    "neck_x": 572.69,
+    "neck_y": 443.33,
+    "neck_angle": 2.37,
+    "dot_x": 573.86,
+    "dot_y": 414.89,
+    "chin_x": 572.69,
+    "chin_y": 443.33,
+    "angle": 2.37,
+    "vector_collar_to_head": {
+      "dx": -1.17,
+      "dy": 28.44,
+      "distance": 28.46
+    }
+  },
+  {
+    "frame": 287,
+    "file_name": "frame_0287.png",
+    "time_seconds": 9.5333,
+    "neck_x": 576.77,
+    "neck_y": 443.0,
+    "neck_angle": 2.66,
+    "dot_x": 578.09,
+    "dot_y": 414.6,
+    "chin_x": 576.77,
+    "chin_y": 443.0,
+    "angle": 2.66,
+    "vector_collar_to_head": {
+      "dx": -1.32,
+      "dy": 28.4,
+      "distance": 28.43
+    }
+  },
+  {
+    "frame": 288,
+    "file_name": "frame_0288.png",
+    "time_seconds": 9.5667,
+    "neck_x": 580.6,
+    "neck_y": 443.0,
+    "neck_angle": 2.97,
+    "dot_x": 582.08,
+    "dot_y": 414.38,
+    "chin_x": 580.6,
+    "chin_y": 443.0,
+    "angle": 2.97,
+    "vector_collar_to_head": {
+      "dx": -1.49,
+      "dy": 28.62,
+      "distance": 28.66
+    }
+  },
+  {
+    "frame": 289,
+    "file_name": "frame_0289.png",
+    "time_seconds": 9.6,
+    "neck_x": 583.94,
+    "neck_y": 443.0,
+    "neck_angle": 3.59,
+    "dot_x": 585.75,
+    "dot_y": 414.28,
+    "chin_x": 583.94,
+    "chin_y": 443.0,
+    "angle": 3.59,
+    "vector_collar_to_head": {
+      "dx": -1.81,
+      "dy": 28.72,
+      "distance": 28.78
+    }
+  },
+  {
+    "frame": 290,
+    "file_name": "frame_0290.png",
+    "time_seconds": 9.6333,
+    "neck_x": 586.77,
+    "neck_y": 443.0,
+    "neck_angle": 4.22,
+    "dot_x": 588.9,
+    "dot_y": 414.17,
+    "chin_x": 586.77,
+    "chin_y": 443.0,
+    "angle": 4.22,
+    "vector_collar_to_head": {
+      "dx": -2.13,
+      "dy": 28.83,
+      "distance": 28.91
+    }
+  },
+  {
+    "frame": 291,
+    "file_name": "frame_0291.png",
+    "time_seconds": 9.6667,
+    "neck_x": 589.13,
+    "neck_y": 443.0,
+    "neck_angle": 4.7,
+    "dot_x": 591.51,
+    "dot_y": 414.1,
+    "chin_x": 589.13,
+    "chin_y": 443.0,
+    "angle": 4.7,
+    "vector_collar_to_head": {
+      "dx": -2.38,
+      "dy": 28.9,
+      "distance": 29.0
+    }
+  },
+  {
+    "frame": 292,
+    "file_name": "frame_0292.png",
+    "time_seconds": 9.7,
+    "neck_x": 591.02,
+    "neck_y": 443.0,
+    "neck_angle": 4.92,
+    "dot_x": 593.51,
+    "dot_y": 414.08,
+    "chin_x": 591.02,
+    "chin_y": 443.0,
+    "angle": 4.92,
+    "vector_collar_to_head": {
+      "dx": -2.49,
+      "dy": 28.92,
+      "distance": 29.03
+    }
+  },
+  {
+    "frame": 293,
+    "file_name": "frame_0293.png",
+    "time_seconds": 9.7333,
+    "neck_x": 592.25,
+    "neck_y": 443.0,
+    "neck_angle": 4.98,
+    "dot_x": 594.77,
+    "dot_y": 414.11,
+    "chin_x": 592.25,
+    "chin_y": 443.0,
+    "angle": 4.98,
+    "vector_collar_to_head": {
+      "dx": -2.52,
+      "dy": 28.89,
+      "distance": 29.0
+    }
+  },
+  {
+    "frame": 294,
+    "file_name": "frame_0294.png",
+    "time_seconds": 9.7667,
+    "neck_x": 592.72,
+    "neck_y": 443.0,
+    "neck_angle": 5.05,
+    "dot_x": 595.27,
+    "dot_y": 414.13,
+    "chin_x": 592.72,
+    "chin_y": 443.0,
+    "angle": 5.05,
+    "vector_collar_to_head": {
+      "dx": -2.55,
+      "dy": 28.87,
+      "distance": 28.98
+    }
+  },
+  {
+    "frame": 295,
+    "file_name": "frame_0295.png",
+    "time_seconds": 9.8,
+    "neck_x": 592.32,
+    "neck_y": 443.0,
+    "neck_angle": 4.94,
+    "dot_x": 594.82,
+    "dot_y": 414.12,
+    "chin_x": 592.32,
+    "chin_y": 443.0,
+    "angle": 4.94,
+    "vector_collar_to_head": {
+      "dx": -2.49,
+      "dy": 28.88,
+      "distance": 28.98
+    }
+  },
+  {
+    "frame": 296,
+    "file_name": "frame_0296.png",
+    "time_seconds": 9.8333,
+    "neck_x": 591.15,
+    "neck_y": 443.0,
+    "neck_angle": 4.82,
+    "dot_x": 593.59,
+    "dot_y": 414.11,
+    "chin_x": 591.15,
+    "chin_y": 443.0,
+    "angle": 4.82,
+    "vector_collar_to_head": {
+      "dx": -2.44,
+      "dy": 28.89,
+      "distance": 28.99
+    }
+  },
+  {
+    "frame": 297,
+    "file_name": "frame_0297.png",
+    "time_seconds": 9.8667,
+    "neck_x": 589.23,
+    "neck_y": 443.0,
+    "neck_angle": 4.64,
+    "dot_x": 591.58,
+    "dot_y": 414.13,
+    "chin_x": 589.23,
+    "chin_y": 443.0,
+    "angle": 4.64,
+    "vector_collar_to_head": {
+      "dx": -2.34,
+      "dy": 28.87,
+      "distance": 28.96
+    }
+  },
+  {
+    "frame": 298,
+    "file_name": "frame_0298.png",
+    "time_seconds": 9.9,
+    "neck_x": 586.8,
+    "neck_y": 443.0,
+    "neck_angle": 4.26,
+    "dot_x": 588.95,
+    "dot_y": 414.17,
+    "chin_x": 586.8,
+    "chin_y": 443.0,
+    "angle": 4.26,
+    "vector_collar_to_head": {
+      "dx": -2.15,
+      "dy": 28.83,
+      "distance": 28.91
+    }
+  },
+  {
+    "frame": 299,
+    "file_name": "frame_0299.png",
+    "time_seconds": 9.9333,
+    "neck_x": 583.89,
+    "neck_y": 443.0,
+    "neck_angle": 3.72,
+    "dot_x": 585.76,
+    "dot_y": 414.27,
+    "chin_x": 583.89,
+    "chin_y": 443.0,
+    "angle": 3.72,
+    "vector_collar_to_head": {
+      "dx": -1.87,
+      "dy": 28.73,
+      "distance": 28.8
+    }
+  },
+  {
+    "frame": 300,
+    "file_name": "frame_0300.png",
+    "time_seconds": 9.9667,
+    "neck_x": 580.51,
+    "neck_y": 443.0,
+    "neck_angle": 3.18,
+    "dot_x": 582.11,
+    "dot_y": 414.37,
+    "chin_x": 580.51,
+    "chin_y": 443.0,
+    "angle": 3.18,
+    "vector_collar_to_head": {
+      "dx": -1.59,
+      "dy": 28.63,
+      "distance": 28.67
+    }
+  },
+  {
+    "frame": 301,
+    "file_name": "frame_0301.png",
+    "time_seconds": 10.0,
+    "neck_x": 576.73,
+    "neck_y": 443.0,
+    "neck_angle": 2.77,
+    "dot_x": 578.1,
+    "dot_y": 414.6,
+    "chin_x": 576.73,
+    "chin_y": 443.0,
+    "angle": 2.77,
+    "vector_collar_to_head": {
+      "dx": -1.37,
+      "dy": 28.4,
+      "distance": 28.43
+    }
+  },
+  {
+    "frame": 302,
+    "file_name": "frame_0302.png",
+    "time_seconds": 10.0333,
+    "neck_x": 572.72,
+    "neck_y": 443.0,
+    "neck_angle": 2.36,
+    "dot_x": 573.88,
+    "dot_y": 414.9,
+    "chin_x": 572.72,
+    "chin_y": 443.0,
+    "angle": 2.36,
+    "vector_collar_to_head": {
+      "dx": -1.16,
+      "dy": 28.1,
+      "distance": 28.12
+    }
+  },
+  {
+    "frame": 303,
+    "file_name": "frame_0303.png",
+    "time_seconds": 10.0667,
+    "neck_x": 568.48,
+    "neck_y": 443.67,
+    "neck_angle": 2.06,
+    "dot_x": 569.51,
+    "dot_y": 415.21,
+    "chin_x": 568.48,
+    "chin_y": 443.67,
+    "angle": 2.06,
+    "vector_collar_to_head": {
+      "dx": -1.02,
+      "dy": 28.46,
+      "distance": 28.48
+    }
+  },
+  {
+    "frame": 304,
+    "file_name": "frame_0304.png",
+    "time_seconds": 10.1,
+    "neck_x": 564.17,
+    "neck_y": 444.33,
+    "neck_angle": 1.74,
+    "dot_x": 565.04,
+    "dot_y": 415.46,
+    "chin_x": 564.17,
+    "chin_y": 444.33,
+    "angle": 1.74,
+    "vector_collar_to_head": {
+      "dx": -0.88,
+      "dy": 28.87,
+      "distance": 28.88
+    }
+  },
+  {
+    "frame": 305,
+    "file_name": "frame_0305.png",
+    "time_seconds": 10.1333,
+    "neck_x": 559.84,
+    "neck_y": 445.0,
+    "neck_angle": 1.33,
+    "dot_x": 560.52,
+    "dot_y": 415.71,
+    "chin_x": 559.84,
+    "chin_y": 445.0,
+    "angle": 1.33,
+    "vector_collar_to_head": {
+      "dx": -0.68,
+      "dy": 29.29,
+      "distance": 29.3
+    }
+  },
+  {
+    "frame": 306,
+    "file_name": "frame_0306.png",
+    "time_seconds": 10.1667,
+    "neck_x": 555.7,
+    "neck_y": 445.0,
+    "neck_angle": 0.69,
+    "dot_x": 556.05,
+    "dot_y": 416.03,
+    "chin_x": 555.7,
+    "chin_y": 445.0,
+    "angle": 0.69,
+    "vector_collar_to_head": {
+      "dx": -0.35,
+      "dy": 28.97,
+      "distance": 28.97
+    }
+  },
+  {
+    "frame": 307,
+    "file_name": "frame_0307.png",
+    "time_seconds": 10.2,
+    "neck_x": 551.71,
+    "neck_y": 445.0,
+    "neck_angle": 0.13,
+    "dot_x": 551.78,
+    "dot_y": 416.45,
+    "chin_x": 551.71,
+    "chin_y": 445.0,
+    "angle": 0.13,
+    "vector_collar_to_head": {
+      "dx": -0.07,
+      "dy": 28.55,
+      "distance": 28.55
+    }
+  },
+  {
+    "frame": 308,
+    "file_name": "frame_0308.png",
+    "time_seconds": 10.2333,
+    "neck_x": 547.94,
+    "neck_y": 445.33,
+    "neck_angle": -0.29,
+    "dot_x": 547.8,
+    "dot_y": 416.94,
+    "chin_x": 547.94,
+    "chin_y": 445.33,
+    "angle": -0.29,
+    "vector_collar_to_head": {
+      "dx": 0.14,
+      "dy": 28.39,
+      "distance": 28.39
+    }
+  },
+  {
+    "frame": 309,
+    "file_name": "frame_0309.png",
+    "time_seconds": 10.2667,
+    "neck_x": 544.46,
+    "neck_y": 446.0,
+    "neck_angle": -0.44,
+    "dot_x": 544.24,
+    "dot_y": 417.33,
+    "chin_x": 544.46,
+    "chin_y": 446.0,
+    "angle": -0.44,
+    "vector_collar_to_head": {
+      "dx": 0.22,
+      "dy": 28.67,
+      "distance": 28.67
+    }
+  },
+  {
+    "frame": 310,
+    "file_name": "frame_0310.png",
+    "time_seconds": 10.3,
+    "neck_x": 541.52,
+    "neck_y": 446.67,
+    "neck_angle": -0.8,
+    "dot_x": 541.11,
+    "dot_y": 417.68,
+    "chin_x": 541.52,
+    "chin_y": 446.67,
+    "angle": -0.8,
+    "vector_collar_to_head": {
+      "dx": 0.41,
+      "dy": 28.99,
+      "distance": 28.99
+    }
+  },
+  {
+    "frame": 311,
+    "file_name": "frame_0311.png",
+    "time_seconds": 10.3333,
+    "neck_x": 539.07,
+    "neck_y": 447.0,
+    "neck_angle": -1.05,
+    "dot_x": 538.54,
+    "dot_y": 417.92,
+    "chin_x": 539.07,
+    "chin_y": 447.0,
+    "angle": -1.05,
+    "vector_collar_to_head": {
+      "dx": 0.53,
+      "dy": 29.08,
+      "distance": 29.09
+    }
+  },
+  {
+    "frame": 312,
+    "file_name": "frame_0312.png",
+    "time_seconds": 10.3667,
+    "neck_x": 537.3,
+    "neck_y": 447.0,
+    "neck_angle": -1.42,
+    "dot_x": 536.59,
+    "dot_y": 418.17,
+    "chin_x": 537.3,
+    "chin_y": 447.0,
+    "angle": -1.42,
+    "vector_collar_to_head": {
+      "dx": 0.71,
+      "dy": 28.83,
+      "distance": 28.83
+    }
+  },
+  {
+    "frame": 313,
+    "file_name": "frame_0313.png",
+    "time_seconds": 10.4,
+    "neck_x": 536.14,
+    "neck_y": 447.0,
+    "neck_angle": -1.51,
+    "dot_x": 535.38,
+    "dot_y": 418.28,
+    "chin_x": 536.14,
+    "chin_y": 447.0,
+    "angle": -1.51,
+    "vector_collar_to_head": {
+      "dx": 0.76,
+      "dy": 28.72,
+      "distance": 28.73
+    }
+  },
+  {
+    "frame": 314,
+    "file_name": "frame_0314.png",
+    "time_seconds": 10.4333,
+    "neck_x": 535.78,
+    "neck_y": 447.0,
+    "neck_angle": -1.55,
+    "dot_x": 535.0,
+    "dot_y": 418.33,
+    "chin_x": 535.78,
+    "chin_y": 447.0,
+    "angle": -1.55,
+    "vector_collar_to_head": {
+      "dx": 0.78,
+      "dy": 28.67,
+      "distance": 28.68
+    }
+  },
+  {
+    "frame": 315,
+    "file_name": "frame_0315.png",
+    "time_seconds": 10.4667,
+    "neck_x": 536.15,
+    "neck_y": 447.0,
+    "neck_angle": -1.58,
+    "dot_x": 535.36,
+    "dot_y": 418.28,
+    "chin_x": 536.15,
+    "chin_y": 447.0,
+    "angle": -1.58,
+    "vector_collar_to_head": {
+      "dx": 0.79,
+      "dy": 28.72,
+      "distance": 28.73
+    }
+  },
+  {
+    "frame": 316,
+    "file_name": "frame_0316.png",
+    "time_seconds": 10.5,
+    "neck_x": 537.26,
+    "neck_y": 447.0,
+    "neck_angle": -1.32,
+    "dot_x": 536.6,
+    "dot_y": 418.16,
+    "chin_x": 537.26,
+    "chin_y": 447.0,
+    "angle": -1.32,
+    "vector_collar_to_head": {
+      "dx": 0.66,
+      "dy": 28.84,
+      "distance": 28.85
+    }
+  },
+  {
+    "frame": 317,
+    "file_name": "frame_0317.png",
+    "time_seconds": 10.5333,
+    "neck_x": 539.06,
+    "neck_y": 447.0,
+    "neck_angle": -0.97,
+    "dot_x": 538.57,
+    "dot_y": 417.91,
+    "chin_x": 539.06,
+    "chin_y": 447.0,
+    "angle": -0.97,
+    "vector_collar_to_head": {
+      "dx": 0.49,
+      "dy": 29.09,
+      "distance": 29.09
+    }
+  },
+  {
+    "frame": 318,
+    "file_name": "frame_0318.png",
+    "time_seconds": 10.5667,
+    "neck_x": 541.52,
+    "neck_y": 447.0,
+    "neck_angle": -0.72,
+    "dot_x": 541.15,
+    "dot_y": 417.67,
+    "chin_x": 541.52,
+    "chin_y": 447.0,
+    "angle": -0.72,
+    "vector_collar_to_head": {
+      "dx": 0.37,
+      "dy": 29.33,
+      "distance": 29.33
+    }
+  },
+  {
+    "frame": 319,
+    "file_name": "frame_0319.png",
+    "time_seconds": 10.6,
+    "neck_x": 544.52,
+    "neck_y": 446.33,
+    "neck_angle": -0.54,
+    "dot_x": 544.25,
+    "dot_y": 417.33,
+    "chin_x": 544.52,
+    "chin_y": 446.33,
+    "angle": -0.54,
+    "vector_collar_to_head": {
+      "dx": 0.27,
+      "dy": 29.0,
+      "distance": 29.01
+    }
+  },
+  {
+    "frame": 320,
+    "file_name": "frame_0320.png",
+    "time_seconds": 10.6333,
+    "neck_x": 547.98,
+    "neck_y": 445.67,
+    "neck_angle": -0.35,
+    "dot_x": 547.81,
+    "dot_y": 416.92,
+    "chin_x": 547.98,
+    "chin_y": 445.67,
+    "angle": -0.35,
+    "vector_collar_to_head": {
+      "dx": 0.18,
+      "dy": 28.75,
+      "distance": 28.75
+    }
+  },
+  {
+    "frame": 321,
+    "file_name": "frame_0321.png",
+    "time_seconds": 10.6667,
+    "neck_x": 551.74,
+    "neck_y": 445.0,
+    "neck_angle": 0.06,
+    "dot_x": 551.77,
+    "dot_y": 416.45,
+    "chin_x": 551.74,
+    "chin_y": 445.0,
+    "angle": 0.06,
+    "vector_collar_to_head": {
+      "dx": -0.03,
+      "dy": 28.55,
+      "distance": 28.55
+    }
+  },
+  {
+    "frame": 322,
+    "file_name": "frame_0322.png",
+    "time_seconds": 10.7,
+    "neck_x": 555.74,
+    "neck_y": 445.0,
+    "neck_angle": 0.58,
+    "dot_x": 556.04,
+    "dot_y": 416.04,
+    "chin_x": 555.74,
+    "chin_y": 445.0,
+    "angle": 0.58,
+    "vector_collar_to_head": {
+      "dx": -0.29,
+      "dy": 28.96,
+      "distance": 28.96
+    }
+  },
+  {
+    "frame": 323,
+    "file_name": "frame_0323.png",
+    "time_seconds": 10.7333,
+    "neck_x": 559.96,
+    "neck_y": 444.67,
+    "neck_angle": 1.07,
+    "dot_x": 560.5,
+    "dot_y": 415.75,
+    "chin_x": 559.96,
+    "chin_y": 444.67,
+    "angle": 1.07,
+    "vector_collar_to_head": {
+      "dx": -0.54,
+      "dy": 28.91,
+      "distance": 28.92
+    }
+  },
+  {
+    "frame": 324,
+    "file_name": "frame_0324.png",
+    "time_seconds": 10.7667,
+    "neck_x": 564.27,
+    "neck_y": 444.0,
+    "neck_angle": 1.59,
+    "dot_x": 565.06,
+    "dot_y": 415.49,
+    "chin_x": 564.27,
+    "chin_y": 444.0,
+    "angle": 1.59,
+    "vector_collar_to_head": {
+      "dx": -0.79,
+      "dy": 28.51,
+      "distance": 28.52
+    }
+  },
+  {
+    "frame": 325,
+    "file_name": "frame_0325.png",
+    "time_seconds": 10.8,
+    "neck_x": 568.55,
+    "neck_y": 443.33,
+    "neck_angle": 2.0,
+    "dot_x": 569.53,
+    "dot_y": 415.24,
+    "chin_x": 568.55,
+    "chin_y": 443.33,
+    "angle": 2.0,
+    "vector_collar_to_head": {
+      "dx": -0.98,
+      "dy": 28.09,
+      "distance": 28.11
+    }
+  },
+  {
+    "frame": 326,
+    "file_name": "frame_0326.png",
+    "time_seconds": 10.8333,
+    "neck_x": 572.72,
+    "neck_y": 443.0,
+    "neck_angle": 2.41,
+    "dot_x": 573.91,
+    "dot_y": 414.91,
+    "chin_x": 572.72,
+    "chin_y": 443.0,
+    "angle": 2.41,
+    "vector_collar_to_head": {
+      "dx": -1.19,
+      "dy": 28.09,
+      "distance": 28.11
+    }
+  },
+  {
+    "frame": 327,
+    "file_name": "frame_0327.png",
+    "time_seconds": 10.8667,
+    "neck_x": 576.74,
+    "neck_y": 443.0,
+    "neck_angle": 2.75,
+    "dot_x": 578.11,
+    "dot_y": 414.62,
+    "chin_x": 576.74,
+    "chin_y": 443.0,
+    "angle": 2.75,
+    "vector_collar_to_head": {
+      "dx": -1.36,
+      "dy": 28.38,
+      "distance": 28.41
+    }
+  },
+  {
+    "frame": 328,
+    "file_name": "frame_0328.png",
+    "time_seconds": 10.9,
+    "neck_x": 580.55,
+    "neck_y": 443.0,
+    "neck_angle": 3.12,
+    "dot_x": 582.11,
+    "dot_y": 414.37,
+    "chin_x": 580.55,
+    "chin_y": 443.0,
+    "angle": 3.12,
+    "vector_collar_to_head": {
+      "dx": -1.56,
+      "dy": 28.63,
+      "distance": 28.68
+    }
+  },
+  {
+    "frame": 329,
+    "file_name": "frame_0329.png",
+    "time_seconds": 10.9333,
+    "neck_x": 583.89,
+    "neck_y": 443.0,
+    "neck_angle": 3.69,
+    "dot_x": 585.75,
+    "dot_y": 414.25,
+    "chin_x": 583.89,
+    "chin_y": 443.0,
+    "angle": 3.69,
+    "vector_collar_to_head": {
+      "dx": -1.86,
+      "dy": 28.75,
+      "distance": 28.81
+    }
+  },
+  {
+    "frame": 330,
+    "file_name": "frame_0330.png",
+    "time_seconds": 10.9667,
+    "neck_x": 586.81,
+    "neck_y": 443.0,
+    "neck_angle": 4.22,
+    "dot_x": 588.94,
+    "dot_y": 414.15,
+    "chin_x": 586.81,
+    "chin_y": 443.0,
+    "angle": 4.22,
+    "vector_collar_to_head": {
+      "dx": -2.13,
+      "dy": 28.85,
+      "distance": 28.93
+    }
+  },
+  {
+    "frame": 331,
+    "file_name": "frame_0331.png",
+    "time_seconds": 11.0,
+    "neck_x": 589.19,
+    "neck_y": 443.0,
+    "neck_angle": 4.66,
+    "dot_x": 591.55,
+    "dot_y": 414.11,
+    "chin_x": 589.19,
+    "chin_y": 443.0,
+    "angle": 4.66,
+    "vector_collar_to_head": {
+      "dx": -2.36,
+      "dy": 28.89,
+      "distance": 28.98
+    }
+  },
+  {
+    "frame": 332,
+    "file_name": "frame_0332.png",
+    "time_seconds": 11.0333,
+    "neck_x": 591.07,
+    "neck_y": 443.0,
+    "neck_angle": 4.87,
+    "dot_x": 593.54,
+    "dot_y": 414.09,
+    "chin_x": 591.07,
+    "chin_y": 443.0,
+    "angle": 4.87,
+    "vector_collar_to_head": {
+      "dx": -2.47,
+      "dy": 28.91,
+      "distance": 29.01
+    }
+  },
+  {
+    "frame": 333,
+    "file_name": "frame_0333.png",
+    "time_seconds": 11.0667,
+    "neck_x": 592.24,
+    "neck_y": 443.0,
+    "neck_angle": 5.05,
+    "dot_x": 594.8,
+    "dot_y": 414.1,
+    "chin_x": 592.24,
+    "chin_y": 443.0,
+    "angle": 5.05,
+    "vector_collar_to_head": {
+      "dx": -2.56,
+      "dy": 28.9,
+      "distance": 29.01
+    }
+  },
+  {
+    "frame": 334,
+    "file_name": "frame_0334.png",
+    "time_seconds": 11.1,
+    "neck_x": 592.72,
+    "neck_y": 443.0,
+    "neck_angle": 5.06,
+    "dot_x": 595.28,
+    "dot_y": 414.12,
+    "chin_x": 592.72,
+    "chin_y": 443.0,
+    "angle": 5.06,
+    "vector_collar_to_head": {
+      "dx": -2.56,
+      "dy": 28.88,
+      "distance": 28.99
+    }
+  },
+  {
+    "frame": 335,
+    "file_name": "frame_0335.png",
+    "time_seconds": 11.1333,
+    "neck_x": 592.29,
+    "neck_y": 443.0,
+    "neck_angle": 5.02,
+    "dot_x": 594.83,
+    "dot_y": 414.1,
+    "chin_x": 592.29,
+    "chin_y": 443.0,
+    "angle": 5.02,
+    "vector_collar_to_head": {
+      "dx": -2.54,
+      "dy": 28.9,
+      "distance": 29.01
+    }
+  },
+  {
+    "frame": 336,
+    "file_name": "frame_0336.png",
+    "time_seconds": 11.1667,
+    "neck_x": 591.11,
+    "neck_y": 443.0,
+    "neck_angle": 4.87,
+    "dot_x": 593.58,
+    "dot_y": 414.09,
+    "chin_x": 591.11,
+    "chin_y": 443.0,
+    "angle": 4.87,
+    "vector_collar_to_head": {
+      "dx": -2.46,
+      "dy": 28.91,
+      "distance": 29.01
+    }
+  },
+  {
+    "frame": 337,
+    "file_name": "frame_0337.png",
+    "time_seconds": 11.2,
+    "neck_x": 589.19,
+    "neck_y": 443.0,
+    "neck_angle": 4.72,
+    "dot_x": 591.58,
+    "dot_y": 414.12,
+    "chin_x": 589.19,
+    "chin_y": 443.0,
+    "angle": 4.72,
+    "vector_collar_to_head": {
+      "dx": -2.39,
+      "dy": 28.88,
+      "distance": 28.98
+    }
+  },
+  {
+    "frame": 338,
+    "file_name": "frame_0338.png",
+    "time_seconds": 11.2333,
+    "neck_x": 586.82,
+    "neck_y": 443.0,
+    "neck_angle": 4.21,
+    "dot_x": 588.95,
+    "dot_y": 414.17,
+    "chin_x": 586.82,
+    "chin_y": 443.0,
+    "angle": 4.21,
+    "vector_collar_to_head": {
+      "dx": -2.12,
+      "dy": 28.83,
+      "distance": 28.91
+    }
+  },
+  {
+    "frame": 339,
+    "file_name": "frame_0339.png",
+    "time_seconds": 11.2667,
+    "neck_x": 583.92,
+    "neck_y": 443.0,
+    "neck_angle": 3.69,
+    "dot_x": 585.77,
+    "dot_y": 414.27,
+    "chin_x": 583.92,
+    "chin_y": 443.0,
+    "angle": 3.69,
+    "vector_collar_to_head": {
+      "dx": -1.86,
+      "dy": 28.73,
+      "distance": 28.79
+    }
+  },
+  {
+    "frame": 340,
+    "file_name": "frame_0340.png",
+    "time_seconds": 11.3,
+    "neck_x": 580.56,
+    "neck_y": 443.0,
+    "neck_angle": 3.11,
+    "dot_x": 582.12,
+    "dot_y": 414.38,
+    "chin_x": 580.56,
+    "chin_y": 443.0,
+    "angle": 3.11,
+    "vector_collar_to_head": {
+      "dx": -1.56,
+      "dy": 28.62,
+      "distance": 28.66
+    }
+  },
+  {
+    "frame": 341,
+    "file_name": "frame_0341.png",
+    "time_seconds": 11.3333,
+    "neck_x": 576.75,
+    "neck_y": 443.0,
+    "neck_angle": 2.74,
+    "dot_x": 578.12,
+    "dot_y": 414.56,
+    "chin_x": 576.75,
+    "chin_y": 443.0,
+    "angle": 2.74,
+    "vector_collar_to_head": {
+      "dx": -1.36,
+      "dy": 28.44,
+      "distance": 28.47
+    }
+  },
+  {
+    "frame": 342,
+    "file_name": "frame_0342.png",
+    "time_seconds": 11.3667,
+    "neck_x": 572.73,
+    "neck_y": 443.0,
+    "neck_angle": 2.35,
+    "dot_x": 573.89,
+    "dot_y": 414.86,
+    "chin_x": 572.73,
+    "chin_y": 443.0,
+    "angle": 2.35,
+    "vector_collar_to_head": {
+      "dx": -1.15,
+      "dy": 28.14,
+      "distance": 28.17
+    }
+  },
+  {
+    "frame": 343,
+    "file_name": "frame_0343.png",
+    "time_seconds": 11.4,
+    "neck_x": 568.53,
+    "neck_y": 443.33,
+    "neck_angle": 1.99,
+    "dot_x": 569.51,
+    "dot_y": 415.18,
+    "chin_x": 568.53,
+    "chin_y": 443.33,
+    "angle": 1.99,
+    "vector_collar_to_head": {
+      "dx": -0.98,
+      "dy": 28.15,
+      "distance": 28.17
+    }
+  },
+  {
+    "frame": 344,
+    "file_name": "frame_0344.png",
+    "time_seconds": 11.4333,
+    "neck_x": 564.22,
+    "neck_y": 444.0,
+    "neck_angle": 1.65,
+    "dot_x": 565.04,
+    "dot_y": 415.49,
+    "chin_x": 564.22,
+    "chin_y": 444.0,
+    "angle": 1.65,
+    "vector_collar_to_head": {
+      "dx": -0.82,
+      "dy": 28.51,
+      "distance": 28.52
+    }
+  },
+  {
+    "frame": 345,
+    "file_name": "frame_0345.png",
+    "time_seconds": 11.4667,
+    "neck_x": 559.89,
+    "neck_y": 444.67,
+    "neck_angle": 1.22,
+    "dot_x": 560.51,
+    "dot_y": 415.73,
+    "chin_x": 559.89,
+    "chin_y": 444.67,
+    "angle": 1.22,
+    "vector_collar_to_head": {
+      "dx": -0.62,
+      "dy": 28.93,
+      "distance": 28.94
+    }
+  },
+  {
+    "frame": 346,
+    "file_name": "frame_0346.png",
+    "time_seconds": 11.5,
+    "neck_x": 555.71,
+    "neck_y": 445.0,
+    "neck_angle": 0.72,
+    "dot_x": 556.07,
+    "dot_y": 416.03,
+    "chin_x": 555.71,
+    "chin_y": 445.0,
+    "angle": 0.72,
+    "vector_collar_to_head": {
+      "dx": -0.37,
+      "dy": 28.97,
+      "distance": 28.98
+    }
+  },
+  {
+    "frame": 347,
+    "file_name": "frame_0347.png",
+    "time_seconds": 11.5333,
+    "neck_x": 551.73,
+    "neck_y": 445.0,
+    "neck_angle": 0.14,
+    "dot_x": 551.8,
+    "dot_y": 416.39,
+    "chin_x": 551.73,
+    "chin_y": 445.0,
+    "angle": 0.14,
+    "vector_collar_to_head": {
+      "dx": -0.07,
+      "dy": 28.61,
+      "distance": 28.61
+    }
+  },
+  {
+    "frame": 348,
+    "file_name": "frame_0348.png",
+    "time_seconds": 11.5667,
+    "neck_x": 547.95,
+    "neck_y": 445.33,
+    "neck_angle": -0.28,
+    "dot_x": 547.81,
+    "dot_y": 416.87,
+    "chin_x": 547.95,
+    "chin_y": 445.33,
+    "angle": -0.28,
+    "vector_collar_to_head": {
+      "dx": 0.14,
+      "dy": 28.46,
+      "distance": 28.46
+    }
+  },
+  {
+    "frame": 349,
+    "file_name": "frame_0349.png",
+    "time_seconds": 11.6,
+    "neck_x": 544.49,
+    "neck_y": 446.0,
+    "neck_angle": -0.49,
+    "dot_x": 544.24,
+    "dot_y": 417.27,
+    "chin_x": 544.49,
+    "chin_y": 446.0,
+    "angle": -0.49,
+    "vector_collar_to_head": {
+      "dx": 0.24,
+      "dy": 28.73,
+      "distance": 28.73
+    }
+  },
+  {
+    "frame": 350,
+    "file_name": "frame_0350.png",
+    "time_seconds": 11.6333,
+    "neck_x": 541.53,
+    "neck_y": 446.67,
+    "neck_angle": -0.79,
+    "dot_x": 541.14,
+    "dot_y": 417.67,
+    "chin_x": 541.53,
+    "chin_y": 446.67,
+    "angle": -0.79,
+    "vector_collar_to_head": {
+      "dx": 0.4,
+      "dy": 29.0,
+      "distance": 29.0
+    }
+  },
+  {
+    "frame": 351,
+    "file_name": "frame_0351.png",
+    "time_seconds": 11.6667,
+    "neck_x": 539.09,
+    "neck_y": 447.0,
+    "neck_angle": -1.05,
+    "dot_x": 538.56,
+    "dot_y": 417.91,
+    "chin_x": 539.09,
+    "chin_y": 447.0,
+    "angle": -1.05,
+    "vector_collar_to_head": {
+      "dx": 0.53,
+      "dy": 29.09,
+      "distance": 29.1
+    }
+  },
+  {
+    "frame": 352,
+    "file_name": "frame_0352.png",
+    "time_seconds": 11.7,
+    "neck_x": 537.31,
+    "neck_y": 447.0,
+    "neck_angle": -1.42,
+    "dot_x": 536.6,
+    "dot_y": 418.13,
+    "chin_x": 537.31,
+    "chin_y": 447.0,
+    "angle": -1.42,
+    "vector_collar_to_head": {
+      "dx": 0.71,
+      "dy": 28.87,
+      "distance": 28.87
+    }
+  },
+  {
+    "frame": 353,
+    "file_name": "frame_0353.png",
+    "time_seconds": 11.7333,
+    "neck_x": 536.16,
+    "neck_y": 447.0,
+    "neck_angle": -1.53,
+    "dot_x": 535.39,
+    "dot_y": 418.24,
+    "chin_x": 536.16,
+    "chin_y": 447.0,
+    "angle": -1.53,
+    "vector_collar_to_head": {
+      "dx": 0.77,
+      "dy": 28.76,
+      "distance": 28.77
+    }
+  },
+  {
+    "frame": 354,
+    "file_name": "frame_0354.png",
+    "time_seconds": 11.7667,
+    "neck_x": 535.77,
+    "neck_y": 447.0,
+    "neck_angle": -1.49,
+    "dot_x": 535.02,
+    "dot_y": 418.29,
+    "chin_x": 535.77,
+    "chin_y": 447.0,
+    "angle": -1.49,
+    "vector_collar_to_head": {
+      "dx": 0.74,
+      "dy": 28.71,
+      "distance": 28.72
+    }
+  },
+  {
+    "frame": 355,
+    "file_name": "frame_0355.png",
+    "time_seconds": 11.8,
+    "neck_x": 536.14,
+    "neck_y": 447.0,
+    "neck_angle": -1.56,
+    "dot_x": 535.36,
+    "dot_y": 418.24,
+    "chin_x": 536.14,
+    "chin_y": 447.0,
+    "angle": -1.56,
+    "vector_collar_to_head": {
+      "dx": 0.78,
+      "dy": 28.76,
+      "distance": 28.77
+    }
+  },
+  {
+    "frame": 356,
+    "file_name": "frame_0356.png",
+    "time_seconds": 11.8333,
+    "neck_x": 537.25,
+    "neck_y": 447.0,
+    "neck_angle": -1.38,
+    "dot_x": 536.56,
+    "dot_y": 418.15,
+    "chin_x": 537.25,
+    "chin_y": 447.0,
+    "angle": -1.38,
+    "vector_collar_to_head": {
+      "dx": 0.69,
+      "dy": 28.85,
+      "distance": 28.86
+    }
+  },
+  {
+    "frame": 357,
+    "file_name": "frame_0357.png",
+    "time_seconds": 11.8667,
+    "neck_x": 539.05,
+    "neck_y": 447.0,
+    "neck_angle": -1.08,
+    "dot_x": 538.5,
+    "dot_y": 417.9,
+    "chin_x": 539.05,
+    "chin_y": 447.0,
+    "angle": -1.08,
+    "vector_collar_to_head": {
+      "dx": 0.55,
+      "dy": 29.1,
+      "distance": 29.1
+    }
+  },
+  {
+    "frame": 358,
+    "file_name": "frame_0358.png",
+    "time_seconds": 11.9,
+    "neck_x": 541.47,
+    "neck_y": 446.67,
+    "neck_angle": -0.7,
+    "dot_x": 541.12,
+    "dot_y": 417.67,
+    "chin_x": 541.47,
+    "chin_y": 446.67,
+    "angle": -0.7,
+    "vector_collar_to_head": {
+      "dx": 0.35,
+      "dy": 29.0,
+      "distance": 29.0
+    }
+  },
+  {
+    "frame": 359,
+    "file_name": "frame_0359.png",
+    "time_seconds": 11.9333,
+    "neck_x": 544.44,
+    "neck_y": 446.0,
+    "neck_angle": -0.38,
+    "dot_x": 544.25,
+    "dot_y": 417.36,
+    "chin_x": 544.44,
+    "chin_y": 446.0,
+    "angle": -0.38,
+    "vector_collar_to_head": {
+      "dx": 0.19,
+      "dy": 28.64,
+      "distance": 28.64
+    }
+  },
+  {
+    "frame": 360,
+    "file_name": "frame_0360.png",
+    "time_seconds": 11.9667,
+    "neck_x": 547.94,
+    "neck_y": 445.33,
+    "neck_angle": -0.25,
+    "dot_x": 547.82,
+    "dot_y": 416.98,
+    "chin_x": 547.94,
+    "chin_y": 445.33,
+    "angle": -0.25,
+    "vector_collar_to_head": {
+      "dx": 0.13,
+      "dy": 28.35,
+      "distance": 28.35
+    }
+  },
+  {
+    "frame": 361,
+    "file_name": "frame_0361.png",
+    "time_seconds": 12.0,
+    "neck_x": 551.73,
+    "neck_y": 445.0,
+    "neck_angle": 0.15,
+    "dot_x": 551.8,
+    "dot_y": 416.51,
+    "chin_x": 551.73,
+    "chin_y": 445.0,
+    "angle": 0.15,
+    "vector_collar_to_head": {
+      "dx": -0.07,
+      "dy": 28.49,
+      "distance": 28.49
+    }
+  },
+  {
+    "frame": 362,
+    "file_name": "frame_0362.png",
+    "time_seconds": 12.0333,
+    "neck_x": 555.73,
+    "neck_y": 445.0,
+    "neck_angle": 0.64,
+    "dot_x": 556.06,
+    "dot_y": 416.04,
+    "chin_x": 555.73,
+    "chin_y": 445.0,
+    "angle": 0.64,
+    "vector_collar_to_head": {
+      "dx": -0.33,
+      "dy": 28.96,
+      "distance": 28.96
+    }
+  },
+  {
+    "frame": 363,
+    "file_name": "frame_0363.png",
+    "time_seconds": 12.0667,
+    "neck_x": 559.85,
+    "neck_y": 445.0,
+    "neck_angle": 1.29,
+    "dot_x": 560.51,
+    "dot_y": 415.72,
+    "chin_x": 559.85,
+    "chin_y": 445.0,
+    "angle": 1.29,
+    "vector_collar_to_head": {
+      "dx": -0.66,
+      "dy": 29.28,
+      "distance": 29.29
+    }
+  },
+  {
+    "frame": 364,
+    "file_name": "frame_0364.png",
+    "time_seconds": 12.1,
+    "neck_x": 564.18,
+    "neck_y": 444.33,
+    "neck_angle": 1.71,
+    "dot_x": 565.04,
+    "dot_y": 415.48,
+    "chin_x": 564.18,
+    "chin_y": 444.33,
+    "angle": 1.71,
+    "vector_collar_to_head": {
+      "dx": -0.86,
+      "dy": 28.85,
+      "distance": 28.86
+    }
+  },
+  {
+    "frame": 365,
+    "file_name": "frame_0365.png",
+    "time_seconds": 12.1333,
+    "neck_x": 568.51,
+    "neck_y": 443.67,
+    "neck_angle": 2.0,
+    "dot_x": 569.51,
+    "dot_y": 415.23,
+    "chin_x": 568.51,
+    "chin_y": 443.67,
+    "angle": 2.0,
+    "vector_collar_to_head": {
+      "dx": -0.99,
+      "dy": 28.43,
+      "distance": 28.45
+    }
+  },
+  {
+    "frame": 366,
+    "file_name": "frame_0366.png",
+    "time_seconds": 12.1667,
+    "neck_x": 572.76,
+    "neck_y": 443.0,
+    "neck_angle": 2.27,
+    "dot_x": 573.87,
+    "dot_y": 414.9,
+    "chin_x": 572.76,
+    "chin_y": 443.0,
+    "angle": 2.27,
+    "vector_collar_to_head": {
+      "dx": -1.12,
+      "dy": 28.1,
+      "distance": 28.12
+    }
+  },
+  {
+    "frame": 367,
+    "file_name": "frame_0367.png",
+    "time_seconds": 12.2,
+    "neck_x": 576.78,
+    "neck_y": 443.0,
+    "neck_angle": 2.65,
+    "dot_x": 578.1,
+    "dot_y": 414.6,
+    "chin_x": 576.78,
+    "chin_y": 443.0,
+    "angle": 2.65,
+    "vector_collar_to_head": {
+      "dx": -1.32,
+      "dy": 28.4,
+      "distance": 28.43
+    }
+  },
+  {
+    "frame": 368,
+    "file_name": "frame_0368.png",
+    "time_seconds": 12.2333,
+    "neck_x": 580.54,
+    "neck_y": 443.0,
+    "neck_angle": 3.09,
+    "dot_x": 582.09,
+    "dot_y": 414.35,
+    "chin_x": 580.54,
+    "chin_y": 443.0,
+    "angle": 3.09,
+    "vector_collar_to_head": {
+      "dx": -1.55,
+      "dy": 28.65,
+      "distance": 28.69
+    }
+  },
+  {
+    "frame": 369,
+    "file_name": "frame_0369.png",
+    "time_seconds": 12.2667,
+    "neck_x": 583.89,
+    "neck_y": 443.0,
+    "neck_angle": 3.68,
+    "dot_x": 585.74,
+    "dot_y": 414.26,
+    "chin_x": 583.89,
+    "chin_y": 443.0,
+    "angle": 3.68,
+    "vector_collar_to_head": {
+      "dx": -1.85,
+      "dy": 28.74,
+      "distance": 28.8
+    }
+  },
+  {
+    "frame": 370,
+    "file_name": "frame_0370.png",
+    "time_seconds": 12.3,
+    "neck_x": 586.8,
+    "neck_y": 443.0,
+    "neck_angle": 4.21,
+    "dot_x": 588.92,
+    "dot_y": 414.17,
+    "chin_x": 586.8,
+    "chin_y": 443.0,
+    "angle": 4.21,
+    "vector_collar_to_head": {
+      "dx": -2.12,
+      "dy": 28.83,
+      "distance": 28.91
+    }
+  },
+  {
+    "frame": 371,
+    "file_name": "frame_0371.png",
+    "time_seconds": 12.3333,
+    "neck_x": 589.19,
+    "neck_y": 443.0,
+    "neck_angle": 4.63,
+    "dot_x": 591.53,
+    "dot_y": 414.12,
+    "chin_x": 589.19,
+    "chin_y": 443.0,
+    "angle": 4.63,
+    "vector_collar_to_head": {
+      "dx": -2.34,
+      "dy": 28.88,
+      "distance": 28.98
+    }
+  },
+  {
+    "frame": 372,
+    "file_name": "frame_0372.png",
+    "time_seconds": 12.3667,
+    "neck_x": 591.1,
+    "neck_y": 443.0,
+    "neck_angle": 4.8,
+    "dot_x": 593.52,
+    "dot_y": 414.08,
+    "chin_x": 591.1,
+    "chin_y": 443.0,
+    "angle": 4.8,
+    "vector_collar_to_head": {
+      "dx": -2.43,
+      "dy": 28.92,
+      "distance": 29.02
+    }
+  },
+  {
+    "frame": 373,
+    "file_name": "frame_0373.png",
+    "time_seconds": 12.4,
+    "neck_x": 592.27,
+    "neck_y": 443.0,
+    "neck_angle": 4.93,
+    "dot_x": 594.76,
+    "dot_y": 414.1,
+    "chin_x": 592.27,
+    "chin_y": 443.0,
+    "angle": 4.93,
+    "vector_collar_to_head": {
+      "dx": -2.49,
+      "dy": 28.9,
+      "distance": 29.01
+    }
+  },
+  {
+    "frame": 374,
+    "file_name": "frame_0374.png",
+    "time_seconds": 12.4333,
+    "neck_x": 592.75,
+    "neck_y": 443.0,
+    "neck_angle": 4.95,
+    "dot_x": 595.25,
+    "dot_y": 414.12,
+    "chin_x": 592.75,
+    "chin_y": 443.0,
+    "angle": 4.95,
+    "vector_collar_to_head": {
+      "dx": -2.5,
+      "dy": 28.88,
+      "distance": 28.99
+    }
+  },
+  {
+    "frame": 375,
+    "file_name": "frame_0375.png",
+    "time_seconds": 12.4667,
+    "neck_x": 592.3,
+    "neck_y": 443.0,
+    "neck_angle": 4.92,
+    "dot_x": 594.79,
+    "dot_y": 414.11,
+    "chin_x": 592.3,
+    "chin_y": 443.0,
+    "angle": 4.92,
+    "vector_collar_to_head": {
+      "dx": -2.49,
+      "dy": 28.89,
+      "distance": 29.0
+    }
+  },
+  {
+    "frame": 376,
+    "file_name": "frame_0376.png",
+    "time_seconds": 12.5,
+    "neck_x": 591.13,
+    "neck_y": 443.0,
+    "neck_angle": 4.81,
+    "dot_x": 593.56,
+    "dot_y": 414.09,
+    "chin_x": 591.13,
+    "chin_y": 443.0,
+    "angle": 4.81,
+    "vector_collar_to_head": {
+      "dx": -2.43,
+      "dy": 28.91,
+      "distance": 29.02
+    }
+  },
+  {
+    "frame": 377,
+    "file_name": "frame_0377.png",
+    "time_seconds": 12.5333,
+    "neck_x": 589.21,
+    "neck_y": 443.0,
+    "neck_angle": 4.68,
+    "dot_x": 591.57,
+    "dot_y": 414.12,
+    "chin_x": 589.21,
+    "chin_y": 443.0,
+    "angle": 4.68,
+    "vector_collar_to_head": {
+      "dx": -2.36,
+      "dy": 28.88,
+      "distance": 28.97
+    }
+  },
+  {
+    "frame": 378,
+    "file_name": "frame_0378.png",
+    "time_seconds": 12.5667,
+    "neck_x": 586.76,
+    "neck_y": 443.0,
+    "neck_angle": 4.33,
+    "dot_x": 588.94,
+    "dot_y": 414.18,
+    "chin_x": 586.76,
+    "chin_y": 443.0,
+    "angle": 4.33,
+    "vector_collar_to_head": {
+      "dx": -2.18,
+      "dy": 28.82,
+      "distance": 28.9
+    }
+  },
+  {
+    "frame": 379,
+    "file_name": "frame_0379.png",
+    "time_seconds": 12.6,
+    "neck_x": 583.85,
+    "neck_y": 443.0,
+    "neck_angle": 3.86,
+    "dot_x": 585.79,
+    "dot_y": 414.28,
+    "chin_x": 583.85,
+    "chin_y": 443.0,
+    "angle": 3.86,
+    "vector_collar_to_head": {
+      "dx": -1.94,
+      "dy": 28.72,
+      "distance": 28.79
+    }
+  },
+  {
+    "frame": 380,
+    "file_name": "frame_0380.png",
+    "time_seconds": 12.6333,
+    "neck_x": 580.51,
+    "neck_y": 443.0,
+    "neck_angle": 3.27,
+    "dot_x": 582.14,
+    "dot_y": 414.37,
+    "chin_x": 580.51,
+    "chin_y": 443.0,
+    "angle": 3.27,
+    "vector_collar_to_head": {
+      "dx": -1.64,
+      "dy": 28.63,
+      "distance": 28.67
+    }
+  },
+  {
+    "frame": 381,
+    "file_name": "frame_0381.png",
+    "time_seconds": 12.6667,
+    "neck_x": 576.73,
+    "neck_y": 443.0,
+    "neck_angle": 2.84,
+    "dot_x": 578.14,
+    "dot_y": 414.61,
+    "chin_x": 576.73,
+    "chin_y": 443.0,
+    "angle": 2.84,
+    "vector_collar_to_head": {
+      "dx": -1.41,
+      "dy": 28.39,
+      "distance": 28.43
+    }
+  },
+  {
+    "frame": 382,
+    "file_name": "frame_0382.png",
+    "time_seconds": 12.7,
+    "neck_x": 572.72,
+    "neck_y": 443.0,
+    "neck_angle": 2.41,
+    "dot_x": 573.9,
+    "dot_y": 414.9,
+    "chin_x": 572.72,
+    "chin_y": 443.0,
+    "angle": 2.41,
+    "vector_collar_to_head": {
+      "dx": -1.18,
+      "dy": 28.1,
+      "distance": 28.12
+    }
+  },
+  {
+    "frame": 383,
+    "file_name": "frame_0383.png",
+    "time_seconds": 12.7333,
+    "neck_x": 568.48,
+    "neck_y": 443.67,
+    "neck_angle": 2.12,
+    "dot_x": 569.53,
+    "dot_y": 415.23,
+    "chin_x": 568.48,
+    "chin_y": 443.67,
+    "angle": 2.12,
+    "vector_collar_to_head": {
+      "dx": -1.05,
+      "dy": 28.44,
+      "distance": 28.46
+    }
+  },
+  {
+    "frame": 384,
+    "file_name": "frame_0384.png",
+    "time_seconds": 12.7667,
+    "neck_x": 564.19,
+    "neck_y": 444.33,
+    "neck_angle": 1.73,
+    "dot_x": 565.06,
+    "dot_y": 415.48,
+    "chin_x": 564.19,
+    "chin_y": 444.33,
+    "angle": 1.73,
+    "vector_collar_to_head": {
+      "dx": -0.87,
+      "dy": 28.86,
+      "distance": 28.87
+    }
+  },
+  {
+    "frame": 385,
+    "file_name": "frame_0385.png",
+    "time_seconds": 12.8,
+    "neck_x": 559.86,
+    "neck_y": 445.0,
+    "neck_angle": 1.28,
+    "dot_x": 560.51,
+    "dot_y": 415.73,
+    "chin_x": 559.86,
+    "chin_y": 445.0,
+    "angle": 1.28,
+    "vector_collar_to_head": {
+      "dx": -0.65,
+      "dy": 29.27,
+      "distance": 29.28
+    }
+  },
+  {
+    "frame": 386,
+    "file_name": "frame_0386.png",
+    "time_seconds": 12.8333,
+    "neck_x": 555.72,
+    "neck_y": 445.0,
+    "neck_angle": 0.66,
+    "dot_x": 556.05,
+    "dot_y": 416.02,
+    "chin_x": 555.72,
+    "chin_y": 445.0,
+    "angle": 0.66,
+    "vector_collar_to_head": {
+      "dx": -0.33,
+      "dy": 28.98,
+      "distance": 28.98
+    }
+  },
+  {
+    "frame": 387,
+    "file_name": "frame_0387.png",
+    "time_seconds": 12.8667,
+    "neck_x": 551.73,
+    "neck_y": 445.0,
+    "neck_angle": 0.14,
+    "dot_x": 551.8,
+    "dot_y": 416.44,
+    "chin_x": 551.73,
+    "chin_y": 445.0,
+    "angle": 0.14,
+    "vector_collar_to_head": {
+      "dx": -0.07,
+      "dy": 28.56,
+      "distance": 28.57
+    }
+  },
+  {
+    "frame": 388,
+    "file_name": "frame_0388.png",
+    "time_seconds": 12.9,
+    "neck_x": 547.96,
+    "neck_y": 445.33,
+    "neck_angle": -0.27,
+    "dot_x": 547.82,
+    "dot_y": 416.91,
+    "chin_x": 547.96,
+    "chin_y": 445.33,
+    "angle": -0.27,
+    "vector_collar_to_head": {
+      "dx": 0.13,
+      "dy": 28.42,
+      "distance": 28.42
+    }
+  },
+  {
+    "frame": 389,
+    "file_name": "frame_0389.png",
+    "time_seconds": 12.9333,
+    "neck_x": 544.48,
+    "neck_y": 446.0,
+    "neck_angle": -0.44,
+    "dot_x": 544.26,
+    "dot_y": 417.32,
+    "chin_x": 544.48,
+    "chin_y": 446.0,
+    "angle": -0.44,
+    "vector_collar_to_head": {
+      "dx": 0.22,
+      "dy": 28.68,
+      "distance": 28.68
+    }
+  },
+  {
+    "frame": 390,
+    "file_name": "frame_0390.png",
+    "time_seconds": 12.9667,
+    "neck_x": 541.5,
+    "neck_y": 446.67,
+    "neck_angle": -0.79,
+    "dot_x": 541.1,
+    "dot_y": 417.68,
+    "chin_x": 541.5,
+    "chin_y": 446.67,
+    "angle": -0.79,
+    "vector_collar_to_head": {
+      "dx": 0.4,
+      "dy": 28.99,
+      "distance": 28.99
+    }
+  },
+  {
+    "frame": 391,
+    "file_name": "frame_0391.png",
+    "time_seconds": 13.0,
+    "neck_x": 539.06,
+    "neck_y": 447.0,
+    "neck_angle": -1.09,
+    "dot_x": 538.51,
+    "dot_y": 417.9,
+    "chin_x": 539.06,
+    "chin_y": 447.0,
+    "angle": -1.09,
+    "vector_collar_to_head": {
+      "dx": 0.55,
+      "dy": 29.1,
+      "distance": 29.1
+    }
+  },
+  {
+    "frame": 392,
+    "file_name": "frame_0392.png",
+    "time_seconds": 13.0333,
+    "neck_x": 537.24,
+    "neck_y": 447.0,
+    "neck_angle": -1.4,
+    "dot_x": 536.54,
+    "dot_y": 418.15,
+    "chin_x": 537.24,
+    "chin_y": 447.0,
+    "angle": -1.4,
+    "vector_collar_to_head": {
+      "dx": 0.7,
+      "dy": 28.85,
+      "distance": 28.86
+    }
+  },
+  {
+    "frame": 393,
+    "file_name": "frame_0393.png",
+    "time_seconds": 13.0667,
+    "neck_x": 536.1,
+    "neck_y": 447.0,
+    "neck_angle": -1.47,
+    "dot_x": 535.36,
+    "dot_y": 418.25,
+    "chin_x": 536.1,
+    "chin_y": 447.0,
+    "angle": -1.47,
+    "vector_collar_to_head": {
+      "dx": 0.74,
+      "dy": 28.75,
+      "distance": 28.76
+    }
+  },
+  {
+    "frame": 394,
+    "file_name": "frame_0394.png",
+    "time_seconds": 13.1,
+    "neck_x": 535.72,
+    "neck_y": 447.0,
+    "neck_angle": -1.46,
+    "dot_x": 534.99,
+    "dot_y": 418.31,
+    "chin_x": 535.72,
+    "chin_y": 447.0,
+    "angle": -1.46,
+    "vector_collar_to_head": {
+      "dx": 0.73,
+      "dy": 28.69,
+      "distance": 28.7
+    }
+  },
+  {
+    "frame": 395,
+    "file_name": "frame_0395.png",
+    "time_seconds": 13.1333,
+    "neck_x": 536.1,
+    "neck_y": 447.0,
+    "neck_angle": -1.47,
+    "dot_x": 535.37,
+    "dot_y": 418.26,
+    "chin_x": 536.1,
+    "chin_y": 447.0,
+    "angle": -1.47,
+    "vector_collar_to_head": {
+      "dx": 0.74,
+      "dy": 28.74,
+      "distance": 28.75
+    }
+  },
+  {
+    "frame": 396,
+    "file_name": "frame_0396.png",
+    "time_seconds": 13.1667,
+    "neck_x": 537.19,
+    "neck_y": 447.0,
+    "neck_angle": -1.26,
+    "dot_x": 536.55,
+    "dot_y": 418.15,
+    "chin_x": 537.19,
+    "chin_y": 447.0,
+    "angle": -1.26,
+    "vector_collar_to_head": {
+      "dx": 0.64,
+      "dy": 28.85,
+      "distance": 28.85
+    }
+  },
+  {
+    "frame": 397,
+    "file_name": "frame_0397.png",
+    "time_seconds": 13.2,
+    "neck_x": 538.97,
+    "neck_y": 447.0,
+    "neck_angle": -0.88,
+    "dot_x": 538.52,
+    "dot_y": 417.9,
+    "chin_x": 538.97,
+    "chin_y": 447.0,
+    "angle": -0.88,
+    "vector_collar_to_head": {
+      "dx": 0.45,
+      "dy": 29.1,
+      "distance": 29.1
+    }
+  },
+  {
+    "frame": 398,
+    "file_name": "frame_0398.png",
+    "time_seconds": 13.2333,
+    "neck_x": 541.43,
+    "neck_y": 447.0,
+    "neck_angle": -0.64,
+    "dot_x": 541.1,
+    "dot_y": 417.68,
+    "chin_x": 541.43,
+    "chin_y": 447.0,
+    "angle": -0.64,
+    "vector_collar_to_head": {
+      "dx": 0.32,
+      "dy": 29.32,
+      "distance": 29.32
+    }
+  },
+  {
+    "frame": 399,
+    "file_name": "frame_0399.png",
+    "time_seconds": 13.2667,
+    "neck_x": 544.46,
+    "neck_y": 446.33,
+    "neck_angle": -0.42,
+    "dot_x": 544.25,
+    "dot_y": 417.34,
+    "chin_x": 544.46,
+    "chin_y": 446.33,
+    "angle": -0.42,
+    "vector_collar_to_head": {
+      "dx": 0.22,
+      "dy": 29.0,
+      "distance": 29.0
+    }
+  },
+  {
+    "frame": 400,
+    "file_name": "frame_0400.png",
+    "time_seconds": 13.3,
+    "neck_x": 547.93,
+    "neck_y": 445.67,
+    "neck_angle": -0.25,
+    "dot_x": 547.81,
+    "dot_y": 416.95,
+    "chin_x": 547.93,
+    "chin_y": 445.67,
+    "angle": -0.25,
+    "vector_collar_to_head": {
+      "dx": 0.13,
+      "dy": 28.71,
+      "distance": 28.71
+    }
+  },
+  {
+    "frame": 401,
+    "file_name": "frame_0401.png",
+    "time_seconds": 13.3333,
+    "neck_x": 551.7,
+    "neck_y": 445.0,
+    "neck_angle": 0.15,
+    "dot_x": 551.78,
+    "dot_y": 416.47,
+    "chin_x": 551.7,
+    "chin_y": 445.0,
+    "angle": 0.15,
+    "vector_collar_to_head": {
+      "dx": -0.08,
+      "dy": 28.53,
+      "distance": 28.53
+    }
+  },
+  {
+    "frame": 402,
+    "file_name": "frame_0402.png",
+    "time_seconds": 13.3667,
+    "neck_x": 555.7,
+    "neck_y": 445.0,
+    "neck_angle": 0.68,
+    "dot_x": 556.05,
+    "dot_y": 416.04,
+    "chin_x": 555.7,
+    "chin_y": 445.0,
+    "angle": 0.68,
+    "vector_collar_to_head": {
+      "dx": -0.35,
+      "dy": 28.96,
+      "distance": 28.96
+    }
+  },
+  {
+    "frame": 403,
+    "file_name": "frame_0403.png",
+    "time_seconds": 13.4,
+    "neck_x": 559.86,
+    "neck_y": 445.0,
+    "neck_angle": 1.24,
+    "dot_x": 560.5,
+    "dot_y": 415.73,
+    "chin_x": 559.86,
+    "chin_y": 445.0,
+    "angle": 1.24,
+    "vector_collar_to_head": {
+      "dx": -0.63,
+      "dy": 29.27,
+      "distance": 29.28
+    }
+  },
+  {
+    "frame": 404,
+    "file_name": "frame_0404.png",
+    "time_seconds": 13.4333,
+    "neck_x": 564.13,
+    "neck_y": 444.67,
+    "neck_angle": 1.79,
+    "dot_x": 565.05,
+    "dot_y": 415.48,
+    "chin_x": 564.13,
+    "chin_y": 444.67,
+    "angle": 1.79,
+    "vector_collar_to_head": {
+      "dx": -0.91,
+      "dy": 29.18,
+      "distance": 29.2
+    }
+  },
+  {
+    "frame": 405,
+    "file_name": "frame_0405.png",
+    "time_seconds": 13.4667,
+    "neck_x": 568.44,
+    "neck_y": 444.0,
+    "neck_angle": 2.13,
+    "dot_x": 569.51,
+    "dot_y": 415.23,
+    "chin_x": 568.44,
+    "chin_y": 444.0,
+    "angle": 2.13,
+    "vector_collar_to_head": {
+      "dx": -1.07,
+      "dy": 28.77,
+      "distance": 28.79
+    }
+  },
+  {
+    "frame": 406,
+    "file_name": "frame_0406.png",
+    "time_seconds": 13.5,
+    "neck_x": 572.68,
+    "neck_y": 443.33,
+    "neck_angle": 2.4,
+    "dot_x": 573.87,
+    "dot_y": 414.91,
+    "chin_x": 572.68,
+    "chin_y": 443.33,
+    "angle": 2.4,
+    "vector_collar_to_head": {
+      "dx": -1.19,
+      "dy": 28.43,
+      "distance": 28.45
+    }
+  },
+  {
+    "frame": 407,
+    "file_name": "frame_0407.png",
+    "time_seconds": 13.5333,
+    "neck_x": 576.76,
+    "neck_y": 443.0,
+    "neck_angle": 2.66,
+    "dot_x": 578.08,
+    "dot_y": 414.6,
+    "chin_x": 576.76,
+    "chin_y": 443.0,
+    "angle": 2.66,
+    "vector_collar_to_head": {
+      "dx": -1.32,
+      "dy": 28.4,
+      "distance": 28.43
+    }
+  },
+  {
+    "frame": 408,
+    "file_name": "frame_0408.png",
+    "time_seconds": 13.5667,
+    "neck_x": 580.55,
+    "neck_y": 443.0,
+    "neck_angle": 3.06,
+    "dot_x": 582.08,
+    "dot_y": 414.38,
+    "chin_x": 580.55,
+    "chin_y": 443.0,
+    "angle": 3.06,
+    "vector_collar_to_head": {
+      "dx": -1.53,
+      "dy": 28.62,
+      "distance": 28.66
+    }
+  },
+  {
+    "frame": 409,
+    "file_name": "frame_0409.png",
+    "time_seconds": 13.6,
+    "neck_x": 583.9,
+    "neck_y": 443.0,
+    "neck_angle": 3.7,
+    "dot_x": 585.76,
+    "dot_y": 414.26,
+    "chin_x": 583.9,
+    "chin_y": 443.0,
+    "angle": 3.7,
+    "vector_collar_to_head": {
+      "dx": -1.86,
+      "dy": 28.74,
+      "distance": 28.8
+    }
+  },
+  {
+    "frame": 410,
+    "file_name": "frame_0410.png",
+    "time_seconds": 13.6333,
+    "neck_x": 586.76,
+    "neck_y": 443.0,
+    "neck_angle": 4.32,
+    "dot_x": 588.94,
+    "dot_y": 414.16,
+    "chin_x": 586.76,
+    "chin_y": 443.0,
+    "angle": 4.32,
+    "vector_collar_to_head": {
+      "dx": -2.18,
+      "dy": 28.84,
+      "distance": 28.92
+    }
+  },
+  {
+    "frame": 411,
+    "file_name": "frame_0411.png",
+    "time_seconds": 13.6667,
+    "neck_x": 589.16,
+    "neck_y": 443.0,
+    "neck_angle": 4.74,
+    "dot_x": 591.55,
+    "dot_y": 414.1,
+    "chin_x": 589.16,
+    "chin_y": 443.0,
+    "angle": 4.74,
+    "vector_collar_to_head": {
+      "dx": -2.4,
+      "dy": 28.9,
+      "distance": 29.0
+    }
+  },
+  {
+    "frame": 412,
+    "file_name": "frame_0412.png",
+    "time_seconds": 13.7,
+    "neck_x": 591.04,
+    "neck_y": 443.0,
+    "neck_angle": 4.9,
+    "dot_x": 593.52,
+    "dot_y": 414.09,
+    "chin_x": 591.04,
+    "chin_y": 443.0,
+    "angle": 4.9,
+    "vector_collar_to_head": {
+      "dx": -2.48,
+      "dy": 28.91,
+      "distance": 29.01
+    }
+  },
+  {
+    "frame": 413,
+    "file_name": "frame_0413.png",
+    "time_seconds": 13.7333,
+    "neck_x": 592.24,
+    "neck_y": 443.0,
+    "neck_angle": 4.95,
+    "dot_x": 594.75,
+    "dot_y": 414.09,
+    "chin_x": 592.24,
+    "chin_y": 443.0,
+    "angle": 4.95,
+    "vector_collar_to_head": {
+      "dx": -2.5,
+      "dy": 28.91,
+      "distance": 29.02
+    }
+  },
+  {
+    "frame": 414,
+    "file_name": "frame_0414.png",
+    "time_seconds": 13.7667,
+    "neck_x": 592.72,
+    "neck_y": 443.0,
+    "neck_angle": 4.97,
+    "dot_x": 595.23,
+    "dot_y": 414.13,
+    "chin_x": 592.72,
+    "chin_y": 443.0,
+    "angle": 4.97,
+    "vector_collar_to_head": {
+      "dx": -2.51,
+      "dy": 28.87,
+      "distance": 28.98
+    }
+  },
+  {
+    "frame": 415,
+    "file_name": "frame_0415.png",
+    "time_seconds": 13.8,
+    "neck_x": 592.29,
+    "neck_y": 443.0,
+    "neck_angle": 4.92,
+    "dot_x": 594.78,
+    "dot_y": 414.1,
+    "chin_x": 592.29,
+    "chin_y": 443.0,
+    "angle": 4.92,
+    "vector_collar_to_head": {
+      "dx": -2.49,
+      "dy": 28.9,
+      "distance": 29.0
+    }
+  },
+  {
+    "frame": 416,
+    "file_name": "frame_0416.png",
+    "time_seconds": 13.8333,
+    "neck_x": 591.12,
+    "neck_y": 443.0,
+    "neck_angle": 4.81,
+    "dot_x": 593.55,
+    "dot_y": 414.1,
+    "chin_x": 591.12,
+    "chin_y": 443.0,
+    "angle": 4.81,
+    "vector_collar_to_head": {
+      "dx": -2.43,
+      "dy": 28.9,
+      "distance": 29.0
+    }
+  },
+  {
+    "frame": 417,
+    "file_name": "frame_0417.png",
+    "time_seconds": 13.8667,
+    "neck_x": 589.2,
+    "neck_y": 443.0,
+    "neck_angle": 4.65,
+    "dot_x": 591.55,
+    "dot_y": 414.12,
+    "chin_x": 589.2,
+    "chin_y": 443.0,
+    "angle": 4.65,
+    "vector_collar_to_head": {
+      "dx": -2.35,
+      "dy": 28.88,
+      "distance": 28.98
+    }
+  },
+  {
+    "frame": 418,
+    "file_name": "frame_0418.png",
+    "time_seconds": 13.9,
+    "neck_x": 586.78,
+    "neck_y": 443.0,
+    "neck_angle": 4.27,
+    "dot_x": 588.94,
+    "dot_y": 414.16,
+    "chin_x": 586.78,
+    "chin_y": 443.0,
+    "angle": 4.27,
+    "vector_collar_to_head": {
+      "dx": -2.16,
+      "dy": 28.84,
+      "distance": 28.92
+    }
+  },
+  {
+    "frame": 419,
+    "file_name": "frame_0419.png",
+    "time_seconds": 13.9333,
+    "neck_x": 583.87,
+    "neck_y": 443.0,
+    "neck_angle": 3.79,
+    "dot_x": 585.77,
+    "dot_y": 414.26,
+    "chin_x": 583.87,
+    "chin_y": 443.0,
+    "angle": 3.79,
+    "vector_collar_to_head": {
+      "dx": -1.9,
+      "dy": 28.74,
+      "distance": 28.8
+    }
+  },
+  {
+    "frame": 420,
+    "file_name": "frame_0420.png",
+    "time_seconds": 13.9667,
+    "neck_x": 580.52,
+    "neck_y": 443.0,
+    "neck_angle": 3.24,
+    "dot_x": 582.14,
+    "dot_y": 414.36,
+    "chin_x": 580.52,
+    "chin_y": 443.0,
+    "angle": 3.24,
+    "vector_collar_to_head": {
+      "dx": -1.62,
+      "dy": 28.64,
+      "distance": 28.69
+    }
+  },
+  {
+    "frame": 421,
+    "file_name": "frame_0421.png",
+    "time_seconds": 14.0,
+    "neck_x": 576.75,
+    "neck_y": 443.0,
+    "neck_angle": 2.78,
+    "dot_x": 578.13,
+    "dot_y": 414.6,
+    "chin_x": 576.75,
+    "chin_y": 443.0,
+    "angle": 2.78,
+    "vector_collar_to_head": {
+      "dx": -1.38,
+      "dy": 28.4,
+      "distance": 28.44
+    }
+  },
+  {
+    "frame": 422,
+    "file_name": "frame_0422.png",
+    "time_seconds": 14.0333,
+    "neck_x": 572.69,
+    "neck_y": 443.33,
+    "neck_angle": 2.43,
+    "dot_x": 573.9,
+    "dot_y": 414.9,
+    "chin_x": 572.69,
+    "chin_y": 443.33,
+    "angle": 2.43,
+    "vector_collar_to_head": {
+      "dx": -1.21,
+      "dy": 28.43,
+      "distance": 28.46
+    }
+  },
+  {
+    "frame": 423,
+    "file_name": "frame_0423.png",
+    "time_seconds": 14.0667,
+    "neck_x": 568.46,
+    "neck_y": 444.0,
+    "neck_angle": 2.11,
+    "dot_x": 569.52,
+    "dot_y": 415.23,
+    "chin_x": 568.46,
+    "chin_y": 444.0,
+    "angle": 2.11,
+    "vector_collar_to_head": {
+      "dx": -1.06,
+      "dy": 28.77,
+      "distance": 28.79
+    }
+  },
+  {
+    "frame": 424,
+    "file_name": "frame_0424.png",
+    "time_seconds": 14.1,
+    "neck_x": 564.14,
+    "neck_y": 444.67,
+    "neck_angle": 1.78,
+    "dot_x": 565.05,
+    "dot_y": 415.48,
+    "chin_x": 564.14,
+    "chin_y": 444.67,
+    "angle": 1.78,
+    "vector_collar_to_head": {
+      "dx": -0.9,
+      "dy": 29.19,
+      "distance": 29.2
+    }
+  },
+  {
+    "frame": 425,
+    "file_name": "frame_0425.png",
+    "time_seconds": 14.1333,
+    "neck_x": 559.86,
+    "neck_y": 445.0,
+    "neck_angle": 1.27,
+    "dot_x": 560.51,
+    "dot_y": 415.72,
+    "chin_x": 559.86,
+    "chin_y": 445.0,
+    "angle": 1.27,
+    "vector_collar_to_head": {
+      "dx": -0.65,
+      "dy": 29.28,
+      "distance": 29.28
+    }
+  },
+  {
+    "frame": 426,
+    "file_name": "frame_0426.png",
+    "time_seconds": 14.1667,
+    "neck_x": 555.72,
+    "neck_y": 445.0,
+    "neck_angle": 0.67,
+    "dot_x": 556.06,
+    "dot_y": 416.0,
+    "chin_x": 555.72,
+    "chin_y": 445.0,
+    "angle": 0.67,
+    "vector_collar_to_head": {
+      "dx": -0.34,
+      "dy": 29.0,
+      "distance": 29.0
+    }
+  },
+  {
+    "frame": 427,
+    "file_name": "frame_0427.png",
+    "time_seconds": 14.2,
+    "neck_x": 551.74,
+    "neck_y": 445.0,
+    "neck_angle": 0.1,
+    "dot_x": 551.8,
+    "dot_y": 416.41,
+    "chin_x": 551.74,
+    "chin_y": 445.0,
+    "angle": 0.1,
+    "vector_collar_to_head": {
+      "dx": -0.05,
+      "dy": 28.59,
+      "distance": 28.59
+    }
+  },
+  {
+    "frame": 428,
+    "file_name": "frame_0428.png",
+    "time_seconds": 14.2333,
+    "neck_x": 547.97,
+    "neck_y": 445.33,
+    "neck_angle": -0.32,
+    "dot_x": 547.81,
+    "dot_y": 416.91,
+    "chin_x": 547.97,
+    "chin_y": 445.33,
+    "angle": -0.32,
+    "vector_collar_to_head": {
+      "dx": 0.16,
+      "dy": 28.43,
+      "distance": 28.43
+    }
+  },
+  {
+    "frame": 429,
+    "file_name": "frame_0429.png",
+    "time_seconds": 14.2667,
+    "neck_x": 544.5,
+    "neck_y": 446.0,
+    "neck_angle": -0.49,
+    "dot_x": 544.25,
+    "dot_y": 417.32,
+    "chin_x": 544.5,
+    "chin_y": 446.0,
+    "angle": -0.49,
+    "vector_collar_to_head": {
+      "dx": 0.25,
+      "dy": 28.68,
+      "distance": 28.68
+    }
+  },
+  {
+    "frame": 430,
+    "file_name": "frame_0430.png",
+    "time_seconds": 14.3,
+    "neck_x": 541.52,
+    "neck_y": 446.67,
+    "neck_angle": -0.82,
+    "dot_x": 541.11,
+    "dot_y": 417.68,
+    "chin_x": 541.52,
+    "chin_y": 446.67,
+    "angle": -0.82,
+    "vector_collar_to_head": {
+      "dx": 0.41,
+      "dy": 28.99,
+      "distance": 28.99
+    }
+  },
+  {
+    "frame": 431,
+    "file_name": "frame_0431.png",
+    "time_seconds": 14.3333,
+    "neck_x": 539.1,
+    "neck_y": 447.0,
+    "neck_angle": -1.13,
+    "dot_x": 538.52,
+    "dot_y": 417.91,
+    "chin_x": 539.1,
+    "chin_y": 447.0,
+    "angle": -1.13,
+    "vector_collar_to_head": {
+      "dx": 0.57,
+      "dy": 29.09,
+      "distance": 29.09
+    }
+  },
+  {
+    "frame": 432,
+    "file_name": "frame_0432.png",
+    "time_seconds": 14.3667,
+    "neck_x": 537.3,
+    "neck_y": 447.0,
+    "neck_angle": -1.49,
+    "dot_x": 536.55,
+    "dot_y": 418.15,
+    "chin_x": 537.3,
+    "chin_y": 447.0,
+    "angle": -1.49,
+    "vector_collar_to_head": {
+      "dx": 0.75,
+      "dy": 28.85,
+      "distance": 28.86
+    }
+  },
+  {
+    "frame": 433,
+    "file_name": "frame_0433.png",
+    "time_seconds": 14.4,
+    "neck_x": 536.15,
+    "neck_y": 447.0,
+    "neck_angle": -1.56,
+    "dot_x": 535.37,
+    "dot_y": 418.26,
+    "chin_x": 536.15,
+    "chin_y": 447.0,
+    "angle": -1.56,
+    "vector_collar_to_head": {
+      "dx": 0.78,
+      "dy": 28.74,
+      "distance": 28.75
+    }
+  },
+  {
+    "frame": 434,
+    "file_name": "frame_0434.png",
+    "time_seconds": 14.4333,
+    "neck_x": 535.73,
+    "neck_y": 447.0,
+    "neck_angle": -1.55,
+    "dot_x": 534.95,
+    "dot_y": 418.3,
+    "chin_x": 535.73,
+    "chin_y": 447.0,
+    "angle": -1.55,
+    "vector_collar_to_head": {
+      "dx": 0.78,
+      "dy": 28.7,
+      "distance": 28.71
+    }
+  },
+  {
+    "frame": 435,
+    "file_name": "frame_0435.png",
+    "time_seconds": 14.4667,
+    "neck_x": 535.86,
+    "neck_y": 447.0,
+    "neck_angle": -1.58,
+    "dot_x": 535.07,
+    "dot_y": 418.31,
+    "chin_x": 535.86,
+    "chin_y": 447.0,
+    "angle": -1.58,
+    "vector_collar_to_head": {
+      "dx": 0.79,
+      "dy": 28.69,
+      "distance": 28.7
+    }
+  },
+  {
+    "frame": 436,
+    "file_name": "frame_0436.png",
+    "time_seconds": 14.5,
+    "neck_x": 536.44,
+    "neck_y": 447.0,
+    "neck_angle": -1.54,
+    "dot_x": 535.67,
+    "dot_y": 418.24,
+    "chin_x": 536.44,
+    "chin_y": 447.0,
+    "angle": -1.54,
+    "vector_collar_to_head": {
+      "dx": 0.77,
+      "dy": 28.76,
+      "distance": 28.77
+    }
+  },
+  {
+    "frame": 437,
+    "file_name": "frame_0437.png",
+    "time_seconds": 14.5333,
+    "neck_x": 537.32,
+    "neck_y": 447.0,
+    "neck_angle": -1.46,
+    "dot_x": 536.58,
+    "dot_y": 418.16,
+    "chin_x": 537.32,
+    "chin_y": 447.0,
+    "angle": -1.46,
+    "vector_collar_to_head": {
+      "dx": 0.74,
+      "dy": 28.84,
+      "distance": 28.85
+    }
+  },
+  {
+    "frame": 438,
+    "file_name": "frame_0438.png",
+    "time_seconds": 14.5667,
+    "neck_x": 538.61,
+    "neck_y": 447.0,
+    "neck_angle": -1.46,
+    "dot_x": 537.87,
+    "dot_y": 417.99,
+    "chin_x": 538.61,
+    "chin_y": 447.0,
+    "angle": -1.46,
+    "vector_collar_to_head": {
+      "dx": 0.74,
+      "dy": 29.01,
+      "distance": 29.02
+    }
+  },
+  {
+    "frame": 439,
+    "file_name": "frame_0439.png",
+    "time_seconds": 14.6,
+    "neck_x": 540.06,
+    "neck_y": 447.0,
+    "neck_angle": -1.3,
+    "dot_x": 539.4,
+    "dot_y": 417.82,
+    "chin_x": 540.06,
+    "chin_y": 447.0,
+    "angle": -1.3,
+    "vector_collar_to_head": {
+      "dx": 0.66,
+      "dy": 29.18,
+      "distance": 29.18
+    }
+  },
+  {
+    "frame": 440,
+    "file_name": "frame_0440.png",
+    "time_seconds": 14.6333,
+    "neck_x": 541.71,
+    "neck_y": 447.0,
+    "neck_angle": -1.12,
+    "dot_x": 541.13,
+    "dot_y": 417.63,
+    "chin_x": 541.71,
+    "chin_y": 447.0,
+    "angle": -1.12,
+    "vector_collar_to_head": {
+      "dx": 0.57,
+      "dy": 29.37,
+      "distance": 29.38
+    }
+  },
+  {
+    "frame": 441,
+    "file_name": "frame_0441.png",
+    "time_seconds": 14.6667,
+    "neck_x": 543.4,
+    "neck_y": 446.67,
+    "neck_angle": -0.79,
+    "dot_x": 542.99,
+    "dot_y": 417.46,
+    "chin_x": 543.4,
+    "chin_y": 446.67,
+    "angle": -0.79,
+    "vector_collar_to_head": {
+      "dx": 0.4,
+      "dy": 29.21,
+      "distance": 29.21
+    }
+  },
+  {
+    "frame": 442,
+    "file_name": "frame_0442.png",
+    "time_seconds": 14.7,
+    "neck_x": 545.36,
+    "neck_y": 446.0,
+    "neck_angle": -0.77,
+    "dot_x": 544.97,
+    "dot_y": 417.31,
+    "chin_x": 545.36,
+    "chin_y": 446.0,
+    "angle": -0.77,
+    "vector_collar_to_head": {
+      "dx": 0.39,
+      "dy": 28.69,
+      "distance": 28.69
+    }
+  },
+  {
+    "frame": 443,
+    "file_name": "frame_0443.png",
+    "time_seconds": 14.7333,
+    "neck_x": 547.38,
+    "neck_y": 445.33,
+    "neck_angle": -0.65,
+    "dot_x": 547.06,
+    "dot_y": 417.09,
+    "chin_x": 547.38,
+    "chin_y": 445.33,
+    "angle": -0.65,
+    "vector_collar_to_head": {
+      "dx": 0.32,
+      "dy": 28.25,
+      "distance": 28.25
+    }
+  },
+  {
+    "frame": 444,
+    "file_name": "frame_0444.png",
+    "time_seconds": 14.7667,
+    "neck_x": 549.56,
+    "neck_y": 445.0,
+    "neck_angle": -0.75,
+    "dot_x": 549.19,
+    "dot_y": 416.81,
+    "chin_x": 549.56,
+    "chin_y": 445.0,
+    "angle": -0.75,
+    "vector_collar_to_head": {
+      "dx": 0.37,
+      "dy": 28.19,
+      "distance": 28.2
+    }
+  },
+  {
+    "frame": 445,
+    "file_name": "frame_0445.png",
+    "time_seconds": 14.8,
+    "neck_x": 551.76,
+    "neck_y": 445.0,
+    "neck_angle": -0.74,
+    "dot_x": 551.39,
+    "dot_y": 416.5,
+    "chin_x": 551.76,
+    "chin_y": 445.0,
+    "angle": -0.74,
+    "vector_collar_to_head": {
+      "dx": 0.37,
+      "dy": 28.5,
+      "distance": 28.5
+    }
+  },
+  {
+    "frame": 446,
+    "file_name": "frame_0446.png",
+    "time_seconds": 14.8333,
+    "neck_x": 554.06,
+    "neck_y": 445.0,
+    "neck_angle": -0.83,
+    "dot_x": 553.65,
+    "dot_y": 416.26,
+    "chin_x": 554.06,
+    "chin_y": 445.0,
+    "angle": -0.83,
+    "vector_collar_to_head": {
+      "dx": 0.41,
+      "dy": 28.74,
+      "distance": 28.74
+    }
+  },
+  {
+    "frame": 447,
+    "file_name": "frame_0447.png",
+    "time_seconds": 14.8667,
+    "neck_x": 556.29,
+    "neck_y": 445.0,
+    "neck_angle": -0.55,
+    "dot_x": 556.01,
+    "dot_y": 416.08,
+    "chin_x": 556.29,
+    "chin_y": 445.0,
+    "angle": -0.55,
+    "vector_collar_to_head": {
+      "dx": 0.28,
+      "dy": 28.92,
+      "distance": 28.92
+    }
+  },
+  {
+    "frame": 448,
+    "file_name": "frame_0448.png",
+    "time_seconds": 14.9,
+    "neck_x": 558.48,
+    "neck_y": 445.0,
+    "neck_angle": -0.19,
+    "dot_x": 558.39,
+    "dot_y": 415.93,
+    "chin_x": 558.48,
+    "chin_y": 445.0,
+    "angle": -0.19,
+    "vector_collar_to_head": {
+      "dx": 0.1,
+      "dy": 29.07,
+      "distance": 29.07
+    }
+  },
+  {
+    "frame": 449,
+    "file_name": "frame_0449.png",
+    "time_seconds": 14.9333,
+    "neck_x": 560.73,
+    "neck_y": 445.0,
+    "neck_angle": 0.04,
+    "dot_x": 560.75,
+    "dot_y": 415.75,
+    "chin_x": 560.73,
+    "chin_y": 445.0,
+    "angle": 0.04,
+    "vector_collar_to_head": {
+      "dx": -0.02,
+      "dy": 29.25,
+      "distance": 29.25
+    }
+  },
+  {
+    "frame": 450,
+    "file_name": "frame_0450.png",
+    "time_seconds": 14.9667,
+    "neck_x": 562.97,
+    "neck_y": 444.67,
+    "neck_angle": 0.04,
+    "dot_x": 563.0,
+    "dot_y": 415.57,
+    "chin_x": 562.97,
+    "chin_y": 444.67,
+    "angle": 0.04,
+    "vector_collar_to_head": {
+      "dx": -0.02,
+      "dy": 29.1,
+      "distance": 29.1
+    }
+  },
+  {
+    "frame": 451,
+    "file_name": "frame_0451.png",
+    "time_seconds": 15.0,
+    "neck_x": 565.02,
+    "neck_y": 444.33,
+    "neck_angle": 0.16,
+    "dot_x": 565.1,
+    "dot_y": 415.42,
+    "chin_x": 565.02,
+    "chin_y": 444.33,
+    "angle": 0.16,
+    "vector_collar_to_head": {
+      "dx": -0.08,
+      "dy": 28.91,
+      "distance": 28.91
+    }
+  },
+  {
+    "frame": 452,
+    "file_name": "frame_0452.png",
+    "time_seconds": 15.0333,
+    "neck_x": 566.83,
+    "neck_y": 443.67,
+    "neck_angle": 0.23,
+    "dot_x": 566.94,
+    "dot_y": 415.33,
+    "chin_x": 566.83,
+    "chin_y": 443.67,
+    "angle": 0.23,
+    "vector_collar_to_head": {
+      "dx": -0.11,
+      "dy": 28.33,
+      "distance": 28.33
+    }
+  },
+  {
+    "frame": 453,
+    "file_name": "frame_0453.png",
+    "time_seconds": 15.0667,
+    "neck_x": 568.13,
+    "neck_y": 443.33,
+    "neck_angle": 0.4,
+    "dot_x": 568.33,
+    "dot_y": 415.27,
+    "chin_x": 568.13,
+    "chin_y": 443.33,
+    "angle": 0.4,
+    "vector_collar_to_head": {
+      "dx": -0.2,
+      "dy": 28.07,
+      "distance": 28.07
+    }
+  },
+  {
+    "frame": 454,
+    "file_name": "frame_0454.png",
+    "time_seconds": 15.1,
+    "neck_x": 568.89,
+    "neck_y": 443.0,
+    "neck_angle": 0.35,
+    "dot_x": 569.06,
+    "dot_y": 415.21,
+    "chin_x": 568.89,
+    "chin_y": 443.0,
+    "angle": 0.35,
+    "vector_collar_to_head": {
+      "dx": -0.17,
+      "dy": 27.79,
+      "distance": 27.79
+    }
+  },
+  {
+    "frame": 455,
+    "file_name": "frame_0455.png",
+    "time_seconds": 15.1333,
+    "neck_x": 569.08,
+    "neck_y": 443.0,
+    "neck_angle": 0.45,
+    "dot_x": 569.3,
+    "dot_y": 415.19,
+    "chin_x": 569.08,
+    "chin_y": 443.0,
+    "angle": 0.45,
+    "vector_collar_to_head": {
+      "dx": -0.22,
+      "dy": 27.81,
+      "distance": 27.81
+    }
+  },
+  {
+    "frame": 456,
+    "file_name": "frame_0456.png",
+    "time_seconds": 15.1667,
+    "neck_x": 569.08,
+    "neck_y": 443.0,
+    "neck_angle": 0.43,
+    "dot_x": 569.29,
+    "dot_y": 415.2,
+    "chin_x": 569.08,
+    "chin_y": 443.0,
+    "angle": 0.43,
+    "vector_collar_to_head": {
+      "dx": -0.21,
+      "dy": 27.8,
+      "distance": 27.8
+    }
+  },
+  {
+    "frame": 457,
+    "file_name": "frame_0457.png",
+    "time_seconds": 15.2,
+    "neck_x": 569.09,
+    "neck_y": 443.0,
+    "neck_angle": 0.42,
+    "dot_x": 569.3,
+    "dot_y": 415.2,
+    "chin_x": 569.09,
+    "chin_y": 443.0,
+    "angle": 0.42,
+    "vector_collar_to_head": {
+      "dx": -0.2,
+      "dy": 27.8,
+      "distance": 27.8
+    }
+  },
+  {
+    "frame": 458,
+    "file_name": "frame_0458.png",
+    "time_seconds": 15.2333,
+    "neck_x": 569.1,
+    "neck_y": 443.0,
+    "neck_angle": 0.42,
+    "dot_x": 569.31,
+    "dot_y": 415.19,
+    "chin_x": 569.1,
+    "chin_y": 443.0,
+    "angle": 0.42,
+    "vector_collar_to_head": {
+      "dx": -0.21,
+      "dy": 27.81,
+      "distance": 27.82
+    }
+  },
+  {
+    "frame": 459,
+    "file_name": "frame_0459.png",
+    "time_seconds": 15.2667,
+    "neck_x": 569.09,
+    "neck_y": 443.0,
+    "neck_angle": 0.46,
+    "dot_x": 569.31,
+    "dot_y": 415.18,
+    "chin_x": 569.09,
+    "chin_y": 443.0,
+    "angle": 0.46,
+    "vector_collar_to_head": {
+      "dx": -0.22,
+      "dy": 27.82,
+      "distance": 27.82
+    }
+  },
+  {
+    "frame": 460,
+    "file_name": "frame_0460.png",
+    "time_seconds": 15.3,
+    "neck_x": 569.09,
+    "neck_y": 443.0,
+    "neck_angle": 0.47,
+    "dot_x": 569.32,
+    "dot_y": 415.17,
+    "chin_x": 569.09,
+    "chin_y": 443.0,
+    "angle": 0.47,
+    "vector_collar_to_head": {
+      "dx": -0.23,
+      "dy": 27.83,
+      "distance": 27.83
+    }
+  },
+  {
+    "frame": 461,
+    "file_name": "frame_0461.png",
+    "time_seconds": 15.3333,
+    "neck_x": 569.08,
+    "neck_y": 443.0,
+    "neck_angle": 0.48,
+    "dot_x": 569.31,
+    "dot_y": 415.18,
+    "chin_x": 569.08,
+    "chin_y": 443.0,
+    "angle": 0.48,
+    "vector_collar_to_head": {
+      "dx": -0.23,
+      "dy": 27.82,
+      "distance": 27.82
+    }
+  },
+  {
+    "frame": 462,
+    "file_name": "frame_0462.png",
+    "time_seconds": 15.3667,
+    "neck_x": 569.09,
+    "neck_y": 443.0,
+    "neck_angle": 0.44,
+    "dot_x": 569.31,
+    "dot_y": 415.18,
+    "chin_x": 569.09,
+    "chin_y": 443.0,
+    "angle": 0.44,
+    "vector_collar_to_head": {
+      "dx": -0.22,
+      "dy": 27.82,
+      "distance": 27.82
+    }
+  },
+  {
+    "frame": 463,
+    "file_name": "frame_0463.png",
+    "time_seconds": 15.4,
+    "neck_x": 569.09,
+    "neck_y": 443.0,
+    "neck_angle": 0.43,
+    "dot_x": 569.3,
+    "dot_y": 415.19,
+    "chin_x": 569.09,
+    "chin_y": 443.0,
+    "angle": 0.43,
+    "vector_collar_to_head": {
+      "dx": -0.21,
+      "dy": 27.81,
+      "distance": 27.81
+    }
+  },
+  {
+    "frame": 464,
+    "file_name": "frame_0464.png",
+    "time_seconds": 15.4333,
+    "neck_x": 569.1,
+    "neck_y": 443.0,
+    "neck_angle": 0.4,
+    "dot_x": 569.29,
+    "dot_y": 415.19,
+    "chin_x": 569.1,
+    "chin_y": 443.0,
+    "angle": 0.4,
+    "vector_collar_to_head": {
+      "dx": -0.19,
+      "dy": 27.81,
+      "distance": 27.81
+    }
+  },
+  {
+    "frame": 465,
+    "file_name": "frame_0465.png",
+    "time_seconds": 15.4667,
+    "neck_x": 569.1,
+    "neck_y": 443.0,
+    "neck_angle": 0.4,
+    "dot_x": 569.29,
+    "dot_y": 415.19,
+    "chin_x": 569.1,
+    "chin_y": 443.0,
+    "angle": 0.4,
+    "vector_collar_to_head": {
+      "dx": -0.19,
+      "dy": 27.81,
+      "distance": 27.81
+    }
+  },
+  {
+    "frame": 466,
+    "file_name": "frame_0466.png",
+    "time_seconds": 15.5,
+    "neck_x": 569.1,
+    "neck_y": 443.0,
+    "neck_angle": 0.4,
+    "dot_x": 569.29,
+    "dot_y": 415.19,
+    "chin_x": 569.1,
+    "chin_y": 443.0,
+    "angle": 0.4,
+    "vector_collar_to_head": {
+      "dx": -0.19,
+      "dy": 27.81,
+      "distance": 27.81
+    }
+  },
+  {
+    "frame": 467,
+    "file_name": "frame_0467.png",
+    "time_seconds": 15.5333,
+    "neck_x": 569.1,
+    "neck_y": 443.0,
+    "neck_angle": 0.42,
+    "dot_x": 569.31,
+    "dot_y": 415.2,
+    "chin_x": 569.1,
+    "chin_y": 443.0,
+    "angle": 0.42,
+    "vector_collar_to_head": {
+      "dx": -0.2,
+      "dy": 27.8,
+      "distance": 27.81
+    }
+  },
+  {
+    "frame": 468,
+    "file_name": "frame_0468.png",
+    "time_seconds": 15.5667,
+    "neck_x": 569.1,
+    "neck_y": 443.0,
+    "neck_angle": 0.44,
+    "dot_x": 569.32,
+    "dot_y": 415.2,
+    "chin_x": 569.1,
+    "chin_y": 443.0,
+    "angle": 0.44,
+    "vector_collar_to_head": {
+      "dx": -0.21,
+      "dy": 27.8,
+      "distance": 27.8
+    }
+  },
+  {
+    "frame": 469,
+    "file_name": "frame_0469.png",
+    "time_seconds": 15.6,
+    "neck_x": 569.09,
+    "neck_y": 443.0,
+    "neck_angle": 0.48,
+    "dot_x": 569.33,
+    "dot_y": 415.21,
+    "chin_x": 569.09,
+    "chin_y": 443.0,
+    "angle": 0.48,
+    "vector_collar_to_head": {
+      "dx": -0.23,
+      "dy": 27.79,
+      "distance": 27.79
+    }
+  },
+  {
+    "frame": 470,
+    "file_name": "frame_0470.png",
+    "time_seconds": 15.6333,
+    "neck_x": 569.09,
+    "neck_y": 443.0,
+    "neck_angle": 0.47,
+    "dot_x": 569.32,
+    "dot_y": 415.21,
+    "chin_x": 569.09,
+    "chin_y": 443.0,
+    "angle": 0.47,
+    "vector_collar_to_head": {
+      "dx": -0.23,
+      "dy": 27.79,
+      "distance": 27.8
+    }
+  },
+  {
+    "frame": 471,
+    "file_name": "frame_0471.png",
+    "time_seconds": 15.6667,
+    "neck_x": 569.1,
+    "neck_y": 443.0,
+    "neck_angle": 0.44,
+    "dot_x": 569.32,
+    "dot_y": 415.2,
+    "chin_x": 569.1,
+    "chin_y": 443.0,
+    "angle": 0.44,
+    "vector_collar_to_head": {
+      "dx": -0.21,
+      "dy": 27.8,
+      "distance": 27.8
+    }
+  },
+  {
+    "frame": 472,
+    "file_name": "frame_0472.png",
+    "time_seconds": 15.7,
+    "neck_x": 569.1,
+    "neck_y": 443.0,
+    "neck_angle": 0.43,
+    "dot_x": 569.31,
+    "dot_y": 415.2,
+    "chin_x": 569.1,
+    "chin_y": 443.0,
+    "angle": 0.43,
+    "vector_collar_to_head": {
+      "dx": -0.21,
+      "dy": 27.8,
+      "distance": 27.8
+    }
+  },
+  {
+    "frame": 473,
+    "file_name": "frame_0473.png",
+    "time_seconds": 15.7333,
+    "neck_x": 569.09,
+    "neck_y": 443.0,
+    "neck_angle": 0.45,
+    "dot_x": 569.31,
+    "dot_y": 415.21,
+    "chin_x": 569.09,
+    "chin_y": 443.0,
+    "angle": 0.45,
+    "vector_collar_to_head": {
+      "dx": -0.22,
+      "dy": 27.79,
+      "distance": 27.79
+    }
+  },
+  {
+    "frame": 474,
+    "file_name": "frame_0474.png",
+    "time_seconds": 15.7667,
+    "neck_x": 569.07,
+    "neck_y": 443.0,
+    "neck_angle": 0.48,
+    "dot_x": 569.31,
+    "dot_y": 415.22,
+    "chin_x": 569.07,
+    "chin_y": 443.0,
+    "angle": 0.48,
+    "vector_collar_to_head": {
+      "dx": -0.23,
+      "dy": 27.78,
+      "distance": 27.78
+    }
+  },
+  {
+    "frame": 475,
+    "file_name": "frame_0475.png",
+    "time_seconds": 15.8,
+    "neck_x": 569.08,
+    "neck_y": 443.0,
+    "neck_angle": 0.48,
+    "dot_x": 569.31,
+    "dot_y": 415.21,
+    "chin_x": 569.08,
+    "chin_y": 443.0,
+    "angle": 0.48,
+    "vector_collar_to_head": {
+      "dx": -0.23,
+      "dy": 27.79,
+      "distance": 27.79
+    }
+  },
+  {
+    "frame": 476,
+    "file_name": "frame_0476.png",
+    "time_seconds": 15.8333,
+    "neck_x": 569.08,
+    "neck_y": 443.0,
+    "neck_angle": 0.48,
+    "dot_x": 569.32,
+    "dot_y": 415.2,
+    "chin_x": 569.08,
+    "chin_y": 443.0,
+    "angle": 0.48,
+    "vector_collar_to_head": {
+      "dx": -0.23,
+      "dy": 27.8,
+      "distance": 27.8
+    }
+  },
+  {
+    "frame": 477,
+    "file_name": "frame_0477.png",
+    "time_seconds": 15.8667,
+    "neck_x": 569.09,
+    "neck_y": 443.0,
+    "neck_angle": 0.46,
+    "dot_x": 569.32,
+    "dot_y": 415.19,
+    "chin_x": 569.09,
+    "chin_y": 443.0,
+    "angle": 0.46,
+    "vector_collar_to_head": {
+      "dx": -0.22,
+      "dy": 27.81,
+      "distance": 27.81
+    }
+  },
+  {
+    "frame": 478,
+    "file_name": "frame_0478.png",
+    "time_seconds": 15.9,
+    "neck_x": 569.1,
+    "neck_y": 443.0,
+    "neck_angle": 0.42,
+    "dot_x": 569.31,
+    "dot_y": 415.2,
+    "chin_x": 569.1,
+    "chin_y": 443.0,
+    "angle": 0.42,
+    "vector_collar_to_head": {
+      "dx": -0.2,
+      "dy": 27.8,
+      "distance": 27.8
+    }
+  },
+  {
+    "frame": 479,
+    "file_name": "frame_0479.png",
+    "time_seconds": 15.9333,
+    "neck_x": 569.11,
+    "neck_y": 443.0,
+    "neck_angle": 0.43,
+    "dot_x": 569.32,
+    "dot_y": 415.19,
+    "chin_x": 569.11,
+    "chin_y": 443.0,
+    "angle": 0.43,
+    "vector_collar_to_head": {
+      "dx": -0.21,
+      "dy": 27.81,
+      "distance": 27.81
+    }
+  },
+  {
+    "frame": 480,
+    "file_name": "frame_0480.png",
+    "time_seconds": 15.9667,
+    "neck_x": 569.12,
+    "neck_y": 443.0,
+    "neck_angle": 0.43,
+    "dot_x": 569.33,
+    "dot_y": 415.18,
+    "chin_x": 569.12,
+    "chin_y": 443.0,
+    "angle": 0.43,
+    "vector_collar_to_head": {
+      "dx": -0.21,
+      "dy": 27.82,
+      "distance": 27.82
+    }
+  },
+  {
+    "frame": 481,
+    "file_name": "frame_0481.png",
+    "time_seconds": 16.0,
+    "neck_x": 569.12,
+    "neck_y": 443.0,
+    "neck_angle": 0.46,
+    "dot_x": 569.34,
+    "dot_y": 415.17,
+    "chin_x": 569.12,
+    "chin_y": 443.0,
+    "angle": 0.46,
+    "vector_collar_to_head": {
+      "dx": -0.22,
+      "dy": 27.83,
+      "distance": 27.83
+    }
+  },
+  {
+    "frame": 482,
+    "file_name": "frame_0482.png",
+    "time_seconds": 16.0333,
+    "neck_x": 569.12,
+    "neck_y": 443.0,
+    "neck_angle": 0.45,
+    "dot_x": 569.34,
+    "dot_y": 415.17,
+    "chin_x": 569.12,
+    "chin_y": 443.0,
+    "angle": 0.45,
+    "vector_collar_to_head": {
+      "dx": -0.22,
+      "dy": 27.83,
+      "distance": 27.83
+    }
+  },
+  {
+    "frame": 483,
+    "file_name": "frame_0483.png",
+    "time_seconds": 16.0667,
+    "neck_x": 569.11,
+    "neck_y": 443.0,
+    "neck_angle": 0.47,
+    "dot_x": 569.34,
+    "dot_y": 415.17,
+    "chin_x": 569.11,
+    "chin_y": 443.0,
+    "angle": 0.47,
+    "vector_collar_to_head": {
+      "dx": -0.23,
+      "dy": 27.83,
+      "distance": 27.83
+    }
+  },
+  {
+    "frame": 484,
+    "file_name": "frame_0484.png",
+    "time_seconds": 16.1,
+    "neck_x": 569.11,
+    "neck_y": 443.0,
+    "neck_angle": 0.47,
+    "dot_x": 569.34,
+    "dot_y": 415.17,
+    "chin_x": 569.11,
+    "chin_y": 443.0,
+    "angle": 0.47,
+    "vector_collar_to_head": {
+      "dx": -0.23,
+      "dy": 27.83,
+      "distance": 27.83
+    }
+  },
+  {
+    "frame": 485,
+    "file_name": "frame_0485.png",
+    "time_seconds": 16.1333,
+    "neck_x": 569.12,
+    "neck_y": 443.0,
+    "neck_angle": 0.45,
+    "dot_x": 569.34,
+    "dot_y": 415.17,
+    "chin_x": 569.12,
+    "chin_y": 443.0,
+    "angle": 0.45,
+    "vector_collar_to_head": {
+      "dx": -0.22,
+      "dy": 27.83,
+      "distance": 27.83
+    }
+  },
+  {
+    "frame": 486,
+    "file_name": "frame_0486.png",
+    "time_seconds": 16.1667,
+    "neck_x": 569.12,
+    "neck_y": 443.0,
+    "neck_angle": 0.44,
+    "dot_x": 569.33,
+    "dot_y": 415.17,
+    "chin_x": 569.12,
+    "chin_y": 443.0,
+    "angle": 0.44,
+    "vector_collar_to_head": {
+      "dx": -0.21,
+      "dy": 27.83,
+      "distance": 27.83
+    }
+  },
+  {
+    "frame": 487,
+    "file_name": "frame_0487.png",
+    "time_seconds": 16.2,
+    "neck_x": 569.12,
+    "neck_y": 443.0,
+    "neck_angle": 0.42,
+    "dot_x": 569.33,
+    "dot_y": 415.18,
+    "chin_x": 569.12,
+    "chin_y": 443.0,
+    "angle": 0.42,
+    "vector_collar_to_head": {
+      "dx": -0.21,
+      "dy": 27.82,
+      "distance": 27.83
+    }
+  },
+  {
+    "frame": 488,
+    "file_name": "frame_0488.png",
+    "time_seconds": 16.2333,
+    "neck_x": 569.12,
+    "neck_y": 443.0,
+    "neck_angle": 0.42,
+    "dot_x": 569.32,
+    "dot_y": 415.18,
+    "chin_x": 569.12,
+    "chin_y": 443.0,
+    "angle": 0.42,
+    "vector_collar_to_head": {
+      "dx": -0.2,
+      "dy": 27.82,
+      "distance": 27.82
+    }
+  }
+]

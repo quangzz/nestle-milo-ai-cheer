@@ -1,0 +1,93 @@
+@import "./fonts.css";
+@import "tailwindcss";
+
+@theme {
+  --font-roadrage: 'RoadRage', cursive, sans-serif;
+  --font-barlow-condensed: 'Barlow Condensed', sans-serif;
+  --font-sf: 'SF Pro Display', 'SF Pro Text', 'SF Pro', -apple-system, BlinkMacSystemFont, 'San Francisco', sans-serif;
+  --font-sans: 'RoadRage', 'Outfit', 'Montserrat', 'Inter', system-ui, sans-serif;
+  --font-display: 'RoadRage', 'Montserrat', 'Outfit', sans-serif;
+  
+  --color-milo-green: #005C28;
+  --color-milo-green-dark: #003E1A;
+  --color-milo-green-light: #00873D;
+  --color-milo-energy: #28A745;
+  --color-milo-gold: #F5A623;
+  --color-milo-yellow: #FFDF00;
+  --color-milo-bg: #042E15;
+  --color-milo-card: #004B20;
+
+  --shadow-milo-btn: 0 5px 0 #003316;
+  --shadow-milo-gold-btn: 0 5px 0 #A86C00;
+  --shadow-milo-card: 0 10px 25px rgba(0, 0, 0, 0.4);
+}
+
+:root {
+  --milo-green-primary: #005C28;
+  --milo-gold-primary: #F5A623;
+  --milo-bg-dark: #03200F;
+}
+
+/* Custom Utilities for Milo Campaign */
+.milo-title-shadow {
+  text-shadow: 2px 3px 0px #002B12, -1px -1px 0 #00873D, 1px -1px 0 #00873D, -1px 1px 0 #00873D, 1px 1px 0 #00873D;
+}
+
+.milo-gold-shadow {
+  text-shadow: 2px 3px 0px #825200, -1px -1px 0 #FFF, 1px -1px 0 #FFF;
+}
+
+.milo-box-shadow {
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35), inset 0 1px 1px rgba(255, 255, 255, 0.2);
+}
+
+.milo-btn-pop {
+  transition: all 0.15s ease-in-out;
+}
+
+.milo-btn-pop:active {
+  transform: translateY(3px);
+  box-shadow: 0 2px 0 #003316 !important;
+}
+
+/* Keyframe Animations */
+@keyframes pulseGlitch {
+  0%, 100% { transform: scale(1) rotate(0deg); }
+  25% { transform: scale(1.02) rotate(-0.5deg); }
+  75% { transform: scale(0.99) rotate(0.5deg); }
+}
+
+@keyframes bounceHead {
+  0%, 100% { transform: translateY(0) rotate(0deg); }
+  50% { transform: translateY(-8px) rotate(-3deg); }
+}
+
+@keyframes pulseEnergy {
+  0%, 100% { transform: scale(1); filter: drop-shadow(0 0 10px rgba(40, 167, 69, 0.6)); }
+  50% { transform: scale(1.08); filter: drop-shadow(0 0 20px rgba(245, 166, 35, 0.9)); }
+}
+
+.animate-pulse-glitch {
+  animation: pulseGlitch 2s infinite ease-in-out;
+}
+
+.animate-bounce-head {
+  animation: bounceHead 0.8s infinite ease-in-out;
+}
+
+.animate-pulse-energy {
+  animation: pulseEnergy 1.5s infinite ease-in-out;
+}
+
+/* Custom Scrollbar for TnC */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: rgba(0, 43, 18, 0.5);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb {
+  background: #F5A623;
+  border-radius: 4px;
+}

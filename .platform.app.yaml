@@ -1,0 +1,31 @@
+name: milo
+type: 'nodejs:20'
+
+disk: 512
+
+build:
+  flavor: none
+
+hooks:
+  build: |
+    set -e
+    export VITE_BACKEND_URL="${VITE_BACKEND_URL:-https://136-85-20-35.sslip.io}"
+    npm ci
+    npm run build
+
+web:
+  locations:
+    '/assets':
+      root: 'dist/assets'
+      expires: 31536000s
+      allow: true
+      scripts: false
+
+    '/':
+      root: 'dist'
+      index:
+        - index.html
+      expires: 300s
+      allow: true
+      scripts: false
+      passthru: '/index.html'

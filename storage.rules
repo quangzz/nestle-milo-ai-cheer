@@ -1,0 +1,18 @@
+rules_version = '2';
+
+// Cấu hình Firebase Storage Security Rules cho dự án Milo
+service firebase.storage {
+  match /b/{bucket}/o {
+    // Chỉ cho phép đọc các file thành phẩm trong thư mục jobs/
+    match /jobs/{jobId}/{fileName} {
+      allow read: if true;
+      // Bảo vệ: Giới hạn chỉ cho phép upload file truyền thông hợp lệ dưới 25MB và đúng định dạng
+      allow write: if request.resource.size < 25 * 1024 * 1024
+                   && (fileName.matches('.*\\.(mp4|jpg|jpeg|mp3|png)$'))
+                   && (request.resource.contentType.matches('video/mp4')
+                    || request.resource.contentType.matches('image/jpeg')
+                    || request.resource.contentType.matches('image/png')
+                    || request.resource.contentType.matches('audio/mpeg'));
+    }
+  }
+}

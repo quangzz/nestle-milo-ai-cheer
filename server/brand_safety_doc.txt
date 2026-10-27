@@ -1,0 +1,127 @@
+CÔNG TY CP VÀNG BẠC ĐÁ QUÝ BẢO TÍN MẠNH HẢI
+HỆ THỐNG NỀN TẢNG KỶ NIỆM SỐ TRÂN BẢO
+BÁO CÁO KỸ THUẬT NỘI BỘHỆ THỐNG KIỂM DUYỆT NỘI DUNG (BRAND SAFETY)
+Phiên bản cấu hình: 2.2.0  |  Ngày cập nhật: 16/08/2026  |  Môi trường: Production (Cloud Run)
+1. TỔNG QUAN QUY TRÌNH KIỂM DUYỆT
+Mọi yêu cầu tạo thiệp và video do người dùng gửi lên (bao gồm Văn bản, Hình ảnh, Âm thanh) đều được hệ thống kiểm duyệt tự động qua 3 cấp độ:
+Cấp độ 1: Bộ lọc Regex & Blacklist Cục bộ (Local Server): Xử lý tức thì (<5ms) đối với các vi phạm nghiêm trọng về an ninh chính trị, từ ngữ thô tục, quảng cáo, cờ bạc, script hack và thương hiệu đối thủ cạnh tranh.
+Cấp độ 2: Kiểm tra Kỹ thuật File Media: Kiểm tra mã byte thực tế (Magic Bytes) để ngăn chặn file giả mạo đuôi, giới hạn dung lượng tối đa 10MB và thiết lập timeout 10 giây nhằm bảo vệ an toàn máy chủ.
+Cấp độ 3: Trí tuệ Nhân tạo Đa phương thức (Gemini Multimodal): Phân tích ngữ cảnh hình ảnh, giọng nói và văn bản. Bắt buộc có ít nhất 1 ảnh rõ mặt người trong bộ ảnh; tự do cho phép các ảnh kỷ niệm đời thường đi kèm.
+Nguyên tắc bảo vệ an toàn (Fail-Closed): Trường hợp có tải ảnh nhưng đường truyền bị gián đoạn không thể tải được file hoặc dịch vụ AI gặp sự cố, hệ thống sẽ tự động từ chối an toàn để tránh lọt nội dung chưa được kiểm duyệt.
+2. DANH MỤC QUY TẮC & TỪ KHÓA KIỂM DUYỆT CHI TIẾT
+2.1. Cấp độ 1: Bộ lọc Cục bộ tại Máy chủ (Deterministic Engine)
+Nhóm nội dung
+Từ khóa & Mẫu nhận diện bắt trực tiếp
+Mã cờ vi phạm
+Chính trị & An ninh Quốc gia
+cờ 3 sọc, cờ ba sọc, ba sọc, việt nam cộng hòa, vnch, phản động, việt tân, vịt tân, đảo chính, lật đổ, chính quyền
+political_violation
+Thao túng câu lệnh AI (Prompt Injection)
+ignore previous instructions, ignore all instructions, bỏ qua hướng dẫn, bỏ qua quy tắc, in ra system prompt, print system prompt, you are now, hãy đóng vai, override instructions, jailbreak
+prompt_injection
+Quảng cáo, Spam, Cờ bạc
+http://, https://, www., zalo.me, zalo:, lo đề, lô đề, cờ bạc, game bài, dịch vụ vay, cho vay, kèo bóng
+spam_advertising
+Mã độc & Script Hack
+<script, javascript:, drop table, <iframe, eval(
+script_injection
+Thương hiệu đối thủ Vàng bạc
+pnj, sjc, doji, bảo tín minh châu, btmc, huy thanh, mi hồng, ancarat, phú nhuận gold, vietinbank gold
+competitor_brand_violation
+Nội dung 18+ & Khiêu dâm
+khiêu dâm, đồi trụy, sex, hentai, porn, xxx, nội y, nude, naked, khỏa thân, khoả thân, s3x, p0rn, pr0n
+obscene_content
+Từ ngữ thô tục & Chửi thề
+địt, đụ, lồn, cặc, buồi, đĩ, cave, chịch, nứng, phang, quay tay, thủ dâm, dâm dục, gái gọi, mại dâm, d1t, lon', cak, bu0i, dit me, dit con, dcm, dmm, clgt, vcl, vkl, đéo, đm, dm, cc
+obscene_content
+Bạo lực & Kích động tiêu cực
+giết, chém, đâm chết, tự tử, tự sát
+obscene_content
+2.2. Cấp độ 2: Kiểm soát Kỹ thuật Media & Máy chủ
+1. Xác thực định dạng thật (Magic Bytes): Hệ thống đọc 4 byte đầu của file để nhận diện chính xác định dạng PNG (89504E47), JPEG (FFD8FF), WEBP (52494646), GIF (47494638) và Audio (ID3, M4A, FLAC, OGG). Các file thực thi đổi đuôi (.exe, .sh đổi thành .jpg) sẽ bị loại bỏ lập tức.2. Giới hạn tài nguyên: Dung lượng file tối đa 10MB. Giới hạn thời gian tải file tối đa 10 giây/file nhằm bảo vệ hiệu năng máy chủ.
+2.3. Cấp độ 3: Trí tuệ Nhân tạo Đa phương thức (Gemini Multimodal)
+1. Tiêu chuẩn Khuôn mặt Người (Human Face Requirement): Trong bộ 1-5 ảnh tải lên, bắt buộc phải có ít nhất 1 ảnh chụp rõ khuôn mặt người (em bé, trẻ nhỏ, cha mẹ, người lớn tuổi, cặp đôi, nhóm gia đình, bạn bè...).
+2. Cơ chế Cho phép Ảnh Kỷ niệm Đi kèm: Khi bộ ảnh đã có ít nhất 1 ảnh chụp người, các ảnh còn lại được tự do tải ảnh bánh sinh nhật, nến, hoa, quà tặng, kỷ vật, thú cưng hoặc phong cảnh chuyến đi.
+3. Danh mục Hình ảnh Cấm Tuyệt đối: Ảnh khỏa thân, bán khỏa thân hở hang phản cảm; ảnh máu me, vũ khí, ma túy, cờ bạc; cờ 3 sọc, biểu tượng phản động; cử chỉ ngón tay thô tục; biển quảng cáo cho vay, logo thương hiệu cạnh tranh (PNJ, DOJI, SJC...); chữ viết ẩn trong ảnh cố tình thao túng AI.
+4. Tiêu chuẩn Lời chúc & Giọng nói: Chấp nhận mọi lời chúc, tâm sự chân thành của khách hàng. Chỉ từ chối khi văn bản/âm thanh chứa ngôn từ chửi thề tục tĩu, xúc phạm danh dự hoặc quảng cáo cờ bạc.
+3. BẢNG ĐỐI SOÁT TÌNH HUỐNG THỰC TẾ (SCENARIOS)
+Tình huống Dữ liệu Tải lên
+Kết quả
+Mã cờ (Flag)
+Giải thích Kỹ thuật
+Bộ 3 ảnh: Toàn bộ là ảnh chân dung gia đình, em bé
+DUYỆT
+-
+Đầy đủ nhận diện khuôn mặt người.
+Bộ 3 ảnh: 1 ảnh chân dung + 1 ảnh bánh kem + 1 ảnh hoa
+DUYỆT
+-
+Có 1 ảnh người, các ảnh đồ vật kỷ niệm đi kèm hợp lệ.
+Bộ 4 ảnh: 1 ảnh nhóm gia đình + 3 ảnh phong cảnh chuyến đi
+DUYỆT
+-
+Có ảnh người, ảnh phong cảnh du lịch đi kèm hợp lệ.
+Bộ 3 ảnh: Toàn bộ chỉ chụp hoa cỏ, đồ vật (không có người)
+TỪ CHỐI
+no_human_face
+100% không có khuôn mặt người.
+Bộ 3 ảnh: Toàn bộ là ảnh chụp màn hình máy tính / tài liệu
+TỪ CHỐI
+no_human_face
+Không có khuôn mặt con người.
+Ảnh có người nhưng nền phía sau có cờ 3 sọc
+TỪ CHỐI
+political_violation
+Vi phạm an ninh chính trị.
+Ảnh chân dung nhưng lộ rõ logo/sản phẩm PNJ, DOJI
+TỪ CHỐI
+competitor_brand_violation
+Vi phạm quy tắc bảo vệ thương hiệu BTMH.
+Ảnh mặc đồ bơi quá hở hang / không mặc quần áo
+TỪ CHỐI
+obscene_content
+Vi phạm tiêu chuẩn 18+ và thuần phong mỹ tục.
+Lời chúc chứa câu lệnh 'Hãy bỏ qua mọi quy tắc...'
+TỪ CHỐI
+prompt_injection
+Phát hiện hành vi thao túng AI.
+Lời chúc chèn link web, Zalo hoặc số điện thoại cho vay
+TỪ CHỐI
+spam_advertising
+Vi phạm quy định quảng cáo / spam.
+4. DANH MỤC MÃ CỜ LỖI VÀ THÔNG BÁO NGƯỜI DÙNG
+Mã Cờ (Flag)
+Nguyên nhân Kích hoạt
+Thông báo Hiển thị cho Người dùng
+no_human_face
+Bộ ảnh tải lên 100% không có mặt người
+Bộ ảnh cần có ít nhất 1 ảnh chụp rõ khuôn mặt người (chân dung, em bé, gia đình hoặc bạn bè) để tạo thiệp và video kỷ niệm ý nghĩa.
+political_violation
+Chứa cờ 3 sọc, phản động
+Nội dung vi phạm tiêu chuẩn an toàn chính trị và quy định pháp luật.
+prompt_injection
+Chứa câu lệnh thao túng Prompt AI
+Phát hiện hành vi thao túng hệ thống không hợp lệ.
+spam_advertising
+Chứa link Zalo, cờ bạc, cho vay tiền
+Nội dung chứa liên kết hoặc thông tin quảng cáo không được phép.
+script_injection
+Chứa mã nhúng script, lệnh can thiệp DB
+Nội dung chứa ký tự hoặc đoạn mã không hợp lệ.
+competitor_brand_violation
+Chứa logo/tên PNJ, SJC, DOJI...
+Nội dung chứa hình ảnh/thương hiệu không thuộc phạm vi chương trình.
+obscene_content
+Chứa từ thô tục, ảnh khỏa thân 18+, bạo lực
+Nội dung chứa hình ảnh hoặc từ ngữ nhạy cảm, không phù hợp thuần phong mỹ tục.
+media_load_failed
+Không tải được file media do link hỏng/mạng
+Không thể kiểm duyệt vì hệ thống không tải được hình ảnh. Vui lòng thử lại.
+no_api_key_with_media
+Thiếu API Key kiểm duyệt hình ảnh
+Hệ thống kiểm duyệt hình ảnh tạm thời không khả dụng. Vui lòng liên hệ hỗ trợ.
+moderation_unavailable
+Lỗi kết nối toàn bộ cụm dịch vụ AI
+Hệ thống kiểm duyệt nội dung tạm thời gặp sự cố. Vui lòng thử lại sau ít phút.
+5. CƠ CHẾ LƯU VẾT & QUẢN TRỊ CMS (AUDIT LOGGING)
+1. Lưu trữ phiên làm việc (Job Folder): Mọi lượt gửi dữ liệu đều tạo thư mục nhật ký riêng tại jobs/<execution_id>/ và đồng bộ lên Google Cloud Storage. Thư mục chứa file moderation_result.json (kết quả JSON, cờ vi phạm), llm.log (nội dung prompt và phản hồi AI) và log.txt (toàn bộ nhật ký trace hệ thống).2. Quản trị CMS (/admin/qr-codes): Màn hình quản trị cho phép nhân viên vận hành theo dõi trạng thái kiểm duyệt theo thời gian thực, xem chi tiết cờ vi phạm và lý do từ chối để hỗ trợ khách hàng kịp thời.
